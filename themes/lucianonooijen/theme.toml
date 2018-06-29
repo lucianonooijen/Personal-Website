@@ -1,7 +1,7 @@
-name = "Coder"
+name = "lucianonooijen"
 license = "MIT"
 licenselink = "https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md"
-description = "A simple and clean blog theme for Hugo"
+description = "Luciano Nooijen's theme based on https://github.com/luizdepra/hugo-coder"
 homepage = "https://github.com/luizdepra/hugo-coder/"
 tags = [
   "blog",
@@ -22,5 +22,5 @@ features = [
 min_version = "0.32"
 
 [author]
-  name = "Luiz F. A. de Prá"
-  homepage = "https://luizdepra.com"
+  name = "Luciano Nooijen"
+  homepage = "https://lucianonooijen.com"
