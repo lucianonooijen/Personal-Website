@@ -1,3 +1,5 @@
+*Original theme documentation below:*
+
 ![Hugo Coder Logotype](https://github.com/luizdepra/hugo-coder/blob/master/images/logos/logotype-a.png)
 
 A simple and clean blog theme for Hugo.

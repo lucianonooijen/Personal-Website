@@ -12,15 +12,16 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Luciano Nooijen" # Author's name.
-    info = "Full Stack web magician and devops engineer" # Author's job title or info.
+    info = "Full Stack web developer and devops engineer" # Author's job title or info.
     description = "Luciano Nooijen's personal website" # Site description.
-    keywords = "blog,developer,personal" # Site keywords.
+    keywords = "luciano,nooijen,lucianonooijen,programmer,developer" # Site keywords.
 
-    disqusShortname = "lucianonooijen" # Enable or disable Disqus
+    # disqusShortname = "lucianonooijen" # Enable or disable Disqus
+    disqusShortname = "" # Enable or disable Disqus
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Custom CSS
     custom_css = []

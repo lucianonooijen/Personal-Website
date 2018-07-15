@@ -1,8 +1,8 @@
 name = "lucianonooijen"
 license = "MIT"
-licenselink = "https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md"
+licenselink = "https://github.com/lucianonooijen/Personal-Website/blob/master/LICENSE"
 description = "Luciano Nooijen's theme based on https://github.com/luizdepra/hugo-coder"
-homepage = "https://github.com/luizdepra/hugo-coder/"
+homepage = "https://lucianonooijen.nl/"
 tags = [
   "blog",
   "minimal",
