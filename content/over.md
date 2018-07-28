@@ -3,27 +3,24 @@ title = "Over mij"
 slug = "over"
 +++
 
-Hugo is a static site engine written in Go.
+#### Introductie
 
+Mijn naam is Luciano Nooijen, web en mobile consultant en business analyst. Momenteel ben ik werkzaam bij [Bytecode Digital Agency B.V.](https://bytecode.nl), waar ik de rol als analyst/consultant en technical lead vervul.
 
-It makes use of a variety of open source projects including:
+#### Werkzaamheden
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Het grootste gedeelte van de tijd ben ik bezig met full-stack web/mobile development waarbij ik het liefst gebruik maak van de allernieuwste technieken.
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Wat ik doe draait volledig rondom business analysis en consultancy. Programmeren op zichzelf is natuurlijk leuk, maar ik geloof erin dat software daadwerkelijk problemen op moet lossen, want anders is er geen reden om de software te ontwikkelen.
 
-## Setup
+#### Carriëre
 
-Some fun facts about [Hugo](http://gohugo.io/):
+Al op jonge leeftijd ben ik begonnen met webdesign en -development, in 2009 maakte ik mijn eerste site, maar vanaf 2014 ben ik het naar een professioneel level gaan tillen. Ik heb eerst een eigen webshop ontwikkeld in WooCommerce en ben daarna websites gaan ontwikkelen onder de naam Nooijen Web Solutions.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+Met het team van Freelancers waarmee Nooijen Web Solutions werd gerund is later Bytecode Digital Agency B.V. opgericht, waar ik momenteel werkzaam ben.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+#### Vrije tijd
 
-Thanks for reading!
+Omdat ik sterk geloof in open source/vrije software probeer ik zo veel mogelijk hieraan bij te dragen met de ontwikkeling waar ik verantwoordelijk voor ben, niet alleen met Bytecode, maar ook in mijn vrije tijd.
+
+In mijn vrije tijd speel ik American Football bij de Den Haag Raiders.
