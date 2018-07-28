@@ -45,10 +45,22 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Over"
     weight = 1
-    url  = "/posts/"
+    url  = "/over/"
 [[menu.main]]
-    name = "About"
+    name = "Skills"
     weight = 2
-    url = "/about/"
+    url = "/skills/"
+[[menu.main]]
+    name = "Ervaring"
+    weight = 3
+    url = "/ervaring/"
+[[menu.main]]
+    name = "Blog"
+    weight = 4
+    url = "/blog/"
+[[menu.main]]
+    name = "Contact"
+    weight = 4
+    url = "/contact/"
