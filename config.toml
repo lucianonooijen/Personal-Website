@@ -45,6 +45,10 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 # Menu links
 [[menu.main]]
+    name = "Home"
+    weight = 1
+    url  = "/"
+[[menu.main]]
     name = "Over"
     weight = 1
     url  = "/over/"
