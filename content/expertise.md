@@ -11,7 +11,7 @@ Ik programmeer volgens de Coding Standards van Bytecode, die ik voor het grootst
 
 ## Web-development
 
-* Full-stack Javascript (NodeJS, ES6+)
+* Full-stack Javascript (NodeJS, ES6+, Typescript)
 * CSS-preprocessors: SASS, Stylus
 * ReactJS
 * Angular 2+

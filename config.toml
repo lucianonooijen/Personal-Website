@@ -63,4 +63,4 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[menu.main]]
     name = "Contact"
     weight = 4
-    url = "/contact/"
+    url = "mailto:luciano@bytecode.nl"
