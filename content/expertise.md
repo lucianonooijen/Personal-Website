@@ -3,7 +3,7 @@ title = "Skills en Expertise"
 slug = "expertise"
 +++
 
-In de afgelopen tien jaar waarin ik heb geprogrammeerd heb ik met enorm veel programmeertalen en frameworks te maken gehad, van C tot Ruby en van Java tot Python. Hierdoor heb ik goed kunnen uitvinden wat mij erg ligt om mee te werken, en heb ik kunnen vinden waar ik het beste en het graagst mee werk.
+In de afgelopen tien jaar waarin ik heb geprogrammeerd, heb ik met enorm veel programmeertalen en frameworks te maken gehad, van C tot Ruby en van Java tot Python. Hierdoor heb ik uitgevonden welke talen en frameworks mij het best liggen en waar ik het beste en liefste mee werk.
 
 De afgelopen jaren heb ik me gespecialiseerd in enkele stacks, zoals hieronder te lezen. Hoewel ik natuurlijk mijn voorkeuren heb, zal ik altijd _the best tool for the job_ kiezen, onafhankelijk van mijn voorkeur.
 
@@ -47,14 +47,13 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 ###### Waar ik momenteel mee bezig ben:
 
-* Dieper duiken in Flutter
 * Functioneel programmeren met Elixir (+Phoenix framework)
 * Lezen van Clean Code, Robert C. Martin
 * Lezen van The C Programming Languate (Kernighan, Ritchie)
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
 
-* Diep duiken in web security en het beveiligen van applicaties
+* Verdiepen in geavanceerde web security en het beveiligen van applicaties
 * Bekend raken met het oplossen van ingewikkelde algoritmes
 * Flutter voor mobiele ontwikkeling
 
