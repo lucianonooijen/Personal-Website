@@ -24,3 +24,10 @@ Met het team van Freelancers waarmee Nooijen Web Solutions werd gerund is later 
 Omdat ik sterk geloof in open source/vrije software probeer ik zo veel mogelijk hieraan bij te dragen met de ontwikkeling waar ik verantwoordelijk voor ben, niet alleen met Bytecode, maar ook daarbuiten.
 
 In mijn vrije tijd speel ik American Football bij de Den Haag Raiders.
+
+#### Website
+
+De broncode van deze website is beschikbaar gesteld op mijn [Github-profiel](https://github.com/lucianonooijen/personal-website) onder MIT-licentie.
+
+Deze website is ontwikkeld in statische website generator Hugo (geschreven in GoLang).
+
