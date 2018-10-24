@@ -12,6 +12,7 @@ Ik programmeer volgens de Coding Standards van Bytecode, die ik voor het grootst
 ## Web-development
 
 * Full-stack Javascript (NodeJS, ES6+, Typescript)
+* Python, vaak icm. Django
 * CSS-preprocessors: SASS, Stylus
 * ReactJS
 * Angular 2+
@@ -26,7 +27,8 @@ Ik programmeer volgens de Coding Standards van Bytecode, die ik voor het grootst
 
 ## Databases
 
-* MySQL, PostgreSQL
+* MySQL
+* PostgreSQL
 * NoSQL, MongoDB
 * GraphQL
 
@@ -35,6 +37,7 @@ Ik programmeer volgens de Coding Standards van Bytecode, die ik voor het grootst
 * Amazon Web Services en Digital Ocean
 * Docker
 * Ansible
+* Terraform
 * CI/CD
 
 <br>
@@ -48,8 +51,9 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 ###### Waar ik momenteel mee bezig ben:
 
 * Functioneel programmeren met Elixir (+Phoenix framework)
-* Lezen van Clean Code, Robert C. Martin
-* Lezen van The C Programming Languate (Kernighan, Ritchie)
+* Lezen van Clean Code, The Clean Coder en Clean Architecture, Robert C. Martin
+* Lezen van The C Programming Language (Kernighan, Ritchie)
+* Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
 
@@ -62,4 +66,5 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 * Data science met Python + R
 * Artificial Intelligence en Neural Networks met Tensorflow
 * Functioneel front-end web development met Elm
-* Kubernetes
+* Kubernetes in production
+* WebAssembly

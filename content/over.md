@@ -21,9 +21,9 @@ Met het team van Freelancers waarmee Nooijen Web Solutions werd gerund is later 
 
 #### Vrije tijd
 
-Omdat ik sterk geloof in open source/vrije software probeer ik zo veel mogelijk hieraan bij te dragen met de ontwikkeling waar ik verantwoordelijk voor ben, niet alleen met Bytecode, maar ook daarbuiten.
+Omdat ik sterk geloof in vrije(/open source) software probeer ik zo veel mogelijk hieraan bij te dragen met de ontwikkeling waar ik verantwoordelijk voor ben, niet alleen met Bytecode, maar ook daarbuiten.
 
-In mijn vrije tijd speel ik American Football bij de Den Haag Raiders.
+In mijn vrije tijd kijk ik graag American Football (New York Giants) of Baseball (Los Angeles Dodgers).
 
 #### Website
 
