@@ -16,6 +16,16 @@ I run `hugo -d build -b https://lucianonooijen.nl`.
 
 Now upload the contents of the `build` folder to the webhost and you're done.
 
+## Make
+
+The `make` command can also be used:
+
+| Command | Functionality |
+| ------- | ------------- |
+| `make server` | Runs hugo server |
+| `make dev` | Runs hugo server and opens `localhost:1313` in browser |
+| `make build` | Runs hugo build command as explained under the "production" header |
+
 ### License
 
 MIT
