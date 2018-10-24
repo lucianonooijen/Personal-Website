@@ -13,8 +13,8 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [params] # theme parameters
     author = "Luciano Nooijen" # Author's name.
     info = "Web and Mobile Development Consultant" # Author's job title or info.
-    description = "Luciano Nooijen's personal website" # Site description.
-    keywords = "luciano,nooijen,lucianonooijen,consultant,programmer,developer" # Site keywords.
+    description = "Mijn naam is Luciano Nooijen, web en mobile consultant en business analyst. Ik ben werkzaam bij Bytecode, een gedeeltelijk door mij opgerichtte Agency" # Site description.
+    keywords = "luciano,nooijen,luciano nooijen,bytecode" # Site keywords.
 
     # disqusShortname = "lucianonooijen" # Enable or disable Disqus
     disqusShortname = "" # Enable or disable Disqus
