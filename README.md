@@ -1,5 +1,8 @@
 # Luciano Nooijen personal website
 
+[![Build Status](https://travis-ci.org/lucianonooijen/Personal-Website.svg?branch=master)](https://travis-ci.org/lucianonooijen/Personal-Website)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Luciano Nooijen's personal website built in [Hugo](https://gohugo.io).
 
 ## Development
