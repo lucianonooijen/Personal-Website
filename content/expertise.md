@@ -12,8 +12,8 @@ Ik programmeer volgens de Coding Standards van Bytecode, die ik voor het grootst
 ## Web-development
 
 * Full-stack Javascript (NodeJS, ES6+, Typescript)
-* Python, vaak icm. Django
-* CSS-preprocessors: SASS, Stylus
+* Python, (vaak icm. Django)
+* CSS-preprocessors: SASS/SCSS, Stylus
 * ReactJS
 * Angular 2+
 * WordPress indien een CMS nodig is
@@ -24,21 +24,36 @@ Ik programmeer volgens de Coding Standards van Bytecode, die ik voor het grootst
 * Flutter
 * Ionic
 * Progressive Web Apps
+* Accelerated Mobile Pages
 
 ## Databases
 
 * MySQL
 * PostgreSQL
-* NoSQL, MongoDB
+* NoSQL (MongoDB)
 * GraphQL
 
 ## Devops
 
-* Amazon Web Services en Digital Ocean
+* DigitalOcean (of soms Amazon Web Services)
 * Docker
 * Ansible
 * Terraform
 * CI/CD
+
+## Werkwijze
+
+* *"Always choose the best tool for the job"*
+* Architectuur aan de hand van [The Twelve-Factor App](https://12factor.net/)
+* Alles (behalve secrets) in versiebeheer (Git)
+* Projectmanagement via SCRUM/Agile principe
+* Samenbrengen van Development, Security en Operations via [DevSecOps](https://www.devsecops.org/)
+* Prioritiseren via de [MoSCoW methode](https://en.wikipedia.org/wiki/MoSCoW_method)
+* Ontwikkeling obv. Test-Driven Development (TDD)
+* Functional programming waar mogelijk
+* [SOLID](https://en.wikipedia.org/wiki/SOLID) en [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
+* Versioning volgens [Semantic Versioning](https://semver.org/)
+* Gebruik van vrije (open-source) software waar mogelijk
 
 <br>
 <hr>
@@ -51,7 +66,7 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 ###### Waar ik momenteel mee bezig ben:
 
 * Functioneel programmeren met Elixir (+Phoenix framework)
-* Lezen van Clean Code, The Clean Coder en Clean Architecture, Robert C. Martin
+* Lezen van The Clean Coder en Clean Architecture (Robert C. Martin)
 * Lezen van The C Programming Language (Kernighan, Ritchie)
 * Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
 
@@ -60,6 +75,7 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 * Verdiepen in geavanceerde web security en het beveiligen van applicaties
 * Bekend raken met het oplossen van ingewikkelde algoritmes
 * Flutter voor mobiele ontwikkeling
+* Lezen van Clean Code, Robert C. Martin
 
 ###### Wat ik nog wil gaan leren (meest noemenswaardig):
 
