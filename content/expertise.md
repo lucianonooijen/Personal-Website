@@ -65,13 +65,12 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 ###### Waar ik momenteel mee bezig ben:
 
-* Functioneel programmeren met Elixir (+Phoenix framework)
-* Lezen van The Clean Coder en Clean Architecture (Robert C. Martin)
 * Lezen van The C Programming Language (Kernighan, Ritchie)
 * Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
 
+* Functioneel programmeren met Elixir (+Phoenix framework)
 * Verdiepen in geavanceerde web security en het beveiligen van applicaties
 * Bekend raken met het oplossen van ingewikkelde algoritmes
 * Flutter voor mobiele ontwikkeling
@@ -84,3 +83,4 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 * Functioneel front-end web development met Elm
 * Kubernetes in production
 * WebAssembly
+* Lezen van The Clean Coder en Clean Architecture (Robert C. Martin)
