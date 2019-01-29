@@ -58,6 +58,7 @@ De technieken waar ik het meest vaardig in ben zijn in **bold**.
 * Functional programming waar mogelijk
 * [SOLID](https://en.wikipedia.org/wiki/SOLID) en [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
 * Versioning volgens [Semantic Versioning](https://semver.org/)
+* Voorkomen van [technical debt](https://en.wikipedia.org/wiki/Technical_debt), short term én long term
 * Gebruik van vrije (open-source) software waar mogelijk
 
 <br>
