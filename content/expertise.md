@@ -86,6 +86,47 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 * Functioneel front-end web development met Elm
 * WebAssembly
+* Low-level web programming met Rust
 * Artificial Intelligence en Neural Networks met Tensorflow
 * Lezen van The Clean Coder en Clean Architecture (Robert C. Martin)
 * Lezen van The Lean Startup en Start With Why
+
+<br>
+<hr>
+<br>
+
+#### Ontwikkelomgeving
+
+Ik krijg vaak vragen van anderen hoe mijn lokale ontwikkelomgeving eruit ziet en hoe alles is geconfigureerd. Om deze reden heb ik alles kort samengevat op deze pagina, voor wie benieuwd is.
+
+###### Operating system
+
+Voor het grootste deel van de tijd maak ik gebruik van [Arch Linux](https://www.archlinux.org/), of Mac OS. Het liefst zou ik alles binnen Arch Linux doen, alleen is dat helaas niet haalbaar omdat ik regelmatig iOS apps moet compilen, waarvoor Mac OS nodig is.
+
+###### Arch config
+
+Binnen Arch Linux maak ik gebruik van [i3-gaps](https://github.com/Airblader/i3) als window manager met [Polybar](https://github.com/jaagr/polybas) als statusbar,
+[Ranger](https://github.com/ranger/ranger) als file manager en
+[ZSH met Oh My ZSH](https://ohmyz.sh/) binnen [ST (Simple Terminal)](https://st.suckless.org/) als terminal.
+
+###### Code editors
+
+Ik maak gebruik van twee verschillende code editors: [NeoVim](https://github.com/neovim/neovim) (een betere en backwards-compatible fork van [Vim](https://www.vim.org/)) en [Visual Studio Code](https://github.com/Microsoft/vscode) (afgekort: VS Code).
+
+Mijn voorkeur gaat uit naar werken met NeoVim, maar voor veel projecten maak ik toch gebruik van VS Code, omdat dit meer [IDE functionaliteiten](https://en.wikipedia.org/wiki/Integrated_development_environment) biedt, waardoor ik productiever kan zijn als ik werk in grote codebases.
+
+Binnen zowel mijn code editors als mijn terminal maak ik gebruik van de Monokai kleuren, omdat ik deze als erg duidelijk en prettig ervaar.
+
+###### Dotfiles (configbestanden)
+
+Mijn "[dotfiles](https://www.quora.com/What-are-dotfiles)" zijn te vinden in [mijn dotfiles repository](https://github.com/lucianonooijen/dotfiles) op GitHub.
+
+Omdat Arch Linux opzetten toch wel een redelijk arbeidsintensief klusje kan zijn, en ik graag dingen automatiseer, heb ik op basis van [Luke Smith](https://lukesmith.xyz)'s scripts dit proces geautomatiseerd. Deze "bootstrapping scripts" zijn te vinden in [de LARBS respository](https://github.com/lucianonooijen/LARBS) op mijn GitHub profiel.
+
+Voel je vrij om mijn dotfiles te gebruiken en aan te passen voor jezelf!
+
+###### Vragen of hulp nodig?
+
+Ik ben erg gepassioneerd over hoe ik alles heb geconfigureerd, en ik help anderen graag. Mocht je vragen hebben, [mail me gerust](mailto:luciano@bytecode.nl)!
+
+
