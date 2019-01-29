@@ -9,7 +9,7 @@ De afgelopen jaren heb ik me gespecialiseerd in enkele stacks, zoals hieronder t
 
 Ik programmeer, tenzij het project anders vereist, volgens de Coding Standards van Bytecode, die ik voor het grootste deel heb opgesteld. De Coding Standards zijn [hier](https://github.com/BytecodeBV/Coding-Standards) te vinden.
 
-De technieken waar ik het meest vaardig in ben zijn in **bold**.
+De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
 ## Web-development
 
