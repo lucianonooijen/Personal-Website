@@ -7,39 +7,44 @@ In de afgelopen tien jaar waarin ik heb geprogrammeerd, heb ik met enorm veel pr
 
 De afgelopen jaren heb ik me gespecialiseerd in enkele stacks, zoals hieronder te lezen. Hoewel ik natuurlijk mijn voorkeuren heb, zal ik altijd _the best tool for the job_ kiezen, onafhankelijk van mijn voorkeur.
 
-Ik programmeer volgens de Coding Standards van Bytecode, die ik voor het grootste deel heb opgesteld. De Coding Standards zijn [hier](https://github.com/BytecodeBV/Coding-Standards) te vinden.
+Ik programmeer, tenzij het project anders vereist, volgens de Coding Standards van Bytecode, die ik voor het grootste deel heb opgesteld. De Coding Standards zijn [hier](https://github.com/BytecodeBV/Coding-Standards) te vinden.
+
+De technieken waar ik het meest vaardig in ben zijn in **bold**.
 
 ## Web-development
 
-* Full-stack Javascript (NodeJS, ES6+, Typescript)
-* Python, (vaak icm. Django)
-* CSS-preprocessors: SASS/SCSS, Stylus
-* ReactJS
+* **NodeJS/Javascript** (ES6+, Typescript, Jest)
+* **ReactJS** (icm. Redux)
 * Angular 2+
-* WordPress indien een CMS nodig is
+* Python, (Django, Flask)
+* CSS-preprocessors: SASS/SCSS, Stylus
+* PHP (Laravel, WordPress, Magento 2)
+* Elixir (Phoenix)
 
 ## Mobile development
 
-* React Native
+* **React Native** (Expo)
+* **Progressive Web Apps**
+* Ionic 2+
 * Flutter
-* Ionic
-* Progressive Web Apps
 * Accelerated Mobile Pages
 
 ## Databases
 
+* **PostgreSQL**
 * MySQL
-* PostgreSQL
 * NoSQL (MongoDB)
 * GraphQL
 
 ## Devops
 
-* DigitalOcean (of soms Amazon Web Services)
-* Docker
-* Ansible
+* **Linux** (Arch, Ubuntu, CentOS)
+* **Docker** (Compose)
+* **Ansible**
+* CI/CD (GitLab, Travis)
 * Terraform
-* CI/CD
+* Cloud (DigitalOcean, AWS)
+* Kubernetes
 
 ## Werkwijze
 
@@ -72,15 +77,14 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 * Functioneel programmeren met Elixir (+Phoenix framework)
 * Verdiepen in geavanceerde web security en het beveiligen van applicaties
-* Bekend raken met het oplossen van ingewikkelde algoritmes
 * Flutter voor mobiele ontwikkeling
 * Lezen van Clean Code, Robert C. Martin
+* Kubernetes in production
 
 ###### Wat ik nog wil gaan leren (meest noemenswaardig):
 
-* Data science met Python + R
-* Artificial Intelligence en Neural Networks met Tensorflow
 * Functioneel front-end web development met Elm
-* Kubernetes in production
 * WebAssembly
+* Artificial Intelligence en Neural Networks met Tensorflow
 * Lezen van The Clean Coder en Clean Architecture (Robert C. Martin)
+* Lezen van The Lean Startup en Start With Why
