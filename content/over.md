@@ -31,6 +31,10 @@ Zo heb ik me onder andere bezig gehouden met low-level programming, algorithms a
 
 Omdat de innovatie binnen de IT-sector ongelovelijk snel gaat, zorg ik ervoor dat ik ook nu nog minimaal één dag per week besteed aan zelf-educatie, om zo bij te blijven met de nieuwste ontwikkelingen, en me daarnaast ook verder te ontwikkelen op persoonlijk vlak.
 
+#### Certificaten
+
+In 2016 heb ik mijn Anglia Proficiency certificaat met een "Distinction" grade behaald. Dit toont aan dat ik de Engelse taal op minimaal C1-niveau op de [CEFRL](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) schaal beheers.
+
 #### Vrije tijd
 
 Omdat ik sterk geloof in vrije(/open source) software probeer ik zo veel mogelijk hieraan bij te dragen met de ontwikkeling waar ik verantwoordelijk voor ben, niet alleen met Bytecode, maar ook daarbuiten.
