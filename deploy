@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo ~~ Fetching from Git ~~
+git fetch
+
+echo ~~ Pulling from Git ~~
+git pull
+
+echo ~~ Building project ~~
+hugo -d build -b https://lucianonooijen.nl
+
+echo ~~ Build done! ~~
