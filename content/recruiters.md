@@ -18,6 +18,8 @@ Mijn beschikbaarheid is:
 * Maximaal 2 dagen bij de klant on-site
 * Hiernaast maximaal 2 dagen remote
 
+Momenteel hanteer ik een uurtarief van €70-€80, afhankelijk van het project. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
+
 Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 30, het liefst 20, minuten met de auto/OV, het liefst reizend buiten de spits.
 
 _Mijn voorkeur gaat uit naar een project met een looptijd van maximaal 3 maanden_.
