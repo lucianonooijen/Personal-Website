@@ -14,11 +14,10 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 ## Web-development
 
 * **NodeJS/Javascript** (ES6+, Typescript, Jest)
-* **ReactJS** (icm. Redux)
-* Angular 2+
+* **ReactJS** (icm. Redux) en Angular 2+
+* PHP (WordPress, Laravel, Magento 2)
 * Python, (Django, Flask)
-* CSS-preprocessors: SASS/SCSS, Stylus
-* PHP (Laravel, WordPress, Magento 2)
+* C# (.Net/.Net Core)
 * Elixir (Phoenix)
 
 ## Mobile development
@@ -72,6 +71,7 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 ###### Waar ik momenteel mee bezig ben:
 
 * Lezen van The C Programming Language (Kernighan, Ritchie)
+* Low-level web programming met Rust (icm Rocket)
 * Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
@@ -86,7 +86,6 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 * Functioneel front-end web development met Elm
 * WebAssembly
-* Low-level web programming met Rust
 * Artificial Intelligence en Neural Networks met Tensorflow
 * Lezen van The Clean Coder en Clean Architecture (Robert C. Martin)
 * Lezen van The Lean Startup en Start With Why
