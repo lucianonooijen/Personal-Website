@@ -19,6 +19,7 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 * Python, (Django, Flask)
 * C# (.Net/.Net Core)
 * Elixir (Phoenix)
+* Rust (Rocket, Diesel)
 
 ## Mobile development
 
