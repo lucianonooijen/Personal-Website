@@ -38,6 +38,6 @@ Vanaf 2009 maakte ik regelmatig websites voor vrienden en familie. In 2014 ben i
 
 ### Chemiewinkel.com */ Eigenaar/oprichter*
 
-##### 01-07-2014 tot HEDEN
+##### 01-07-2014 tot 31-12-2018
 
-In de zomervakantie van 3 naar 4 vwo ben ik uit passie voor scheikunde de webwinkel Chemiewinkel.com begonnen. Hiervoor had ik al een paar keer met WordPress gewerkt voor kleinere projecten, maar dit was natuurlijk een geweldige manier om het framework beter te leren kennen. Momenteel staat het op een laag pitje en besteed ik er misschien een uur of twee per week aan.
+In de zomervakantie van 3 naar 4 vwo ben ik uit passie voor scheikunde de webwinkel Chemiewinkel.com begonnen. Hiervoor had ik al een paar keer met WordPress gewerkt voor kleinere projecten, maar dit was natuurlijk een geweldige manier om het framework beter te leren kennen. Helaas heb ik dit project af moeten sluiten omdat ik me volledig wilde kunnen focussen op Bytecode.
