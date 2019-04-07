@@ -10,34 +10,34 @@ h5 { margin-top: 0 !important; }
 
 ### About me
 
-My name is Luciano Nooijen, a web/mobile and DevOps consultant. Currently, I work as technical lead at [Bytecode Digital Agency](https://bytecode.nl), an agency I co-founded.
+My name is Luciano Nooijen, a web/mobile and DevOps consultant. Currently, I work as technical lead at [Bytecode Digital Agency B.V.](https://bytecode.nl), an agency I co-founded.
 
 #### Career
 
-I started programming when I was quite young. In 2009 I created my first website, but from 2014 I started working as a developer professionaly.
+I started programming when I was quite young. In 2009 I created my first website, but from 2014 on I started working as a developer professionally.
 
-When starting as a professional developer, I first started freelancing, under the name of Nooijen Web Solutions. The amount of projects grew rapidly, and soon I had to get other freelancers to help me out.
+I first started my professional career freelancing, under the name of Nooijen Web Solutions. The amount of projects grew rapidly, and soon I had to involve other freelancers to help me out.
 
-After a few years where business kept growing, Jeroen, a close friend of mine who helped me out a lot over the years, and I decided to join forces and found an agency. We founded Bytecode Digital Agency, or Bytecode for short.
+After a few years during which business kept growing, Jeroen, a close and supportive friend, and I decided to join forces and found an agency. We started Bytecode Digital Agency, Bytecode for short.
 
 #### Education
 
-In 2017 I finished VWO, the highest level of Dutch high school. After high school I followed some Computer Science and Engineering courses at Delft University of Science.
+In 2017 I finished VWO, the highest level of Dutch high school. Afterwards, I followed some Computer Science and Engineering courses at Delft University of Science.
 
-Since I started working as a professional, I have always been very self-tought. During my time attending University, I had a feeling I could achieve more when continuing learning the way I had always done, so I decided to quit University and focus on self-education instead.
+During my time as a professional, I have always been very self-tought. While attending University, I felt that I could achieve more learning the way I had always done. I decided to quit University and focus on self-education instead.
 
-Even though I always try to find the most practical solution, I do see the value of knowing the foundations of computer science which are usually taught on Universities, and not just software engineering. For this reason I also focussed a lot on algorithms and algorithm design, cryptography and datastructures.
+Even though I always try to find the most practical solution, I do see the value of knowing the foundations of computer science, which are usually taught at Universities, and not just software engineering. For this reason I also focused a lot on algorithms and algorithm design, cryptography and datastructures.
 
 #### Courses
 
-In 2016 I got Anglia Proficiency certified, graded "Distinction". This means I can speak, read and write on at least C1 level ("effective operational proficiency or advanced") on the [CEFRL](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) scale.
+In 2016 I became Anglia Proficiency certified, graded "Distinction". This implies that I can speak, read and write on at least C1 level ("effective operational proficiency or advanced") on the [CEFRL](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) scale.
 
 <br>
 <br>
 
 # Expertise
 
-When working on a project, I follow the [Bytecode Coding Standards](https://github.com/BytecodeBV/Coding-Standards), unless the projects requires otherwise.
+When working on a project, I follow the [Bytecode Coding Standards](https://github.com/BytecodeBV/Coding-Standards), unless the projects require otherwise.
 
 The tools I work with most often are marked in **bold**.
 
@@ -99,7 +99,7 @@ The tools I work with most often are marked in **bold**.
 
 For Bytecode Digital Agency, Bytecode in short, I am responsible for all aspects of non-PHP projects, all internal projects and all cloud infrastructure (including cyber security), both internal and for clients.
 
-For certain projects I only manage the project, including doing code reviews and related tasks. For other projects I work on the actual codebase myself. The latter is usually the case for the more challenging projects.
+Some projects I solely manage, including doing code reviews and related tasks. For other projects I work on the actual codebase myself. The latter is usually the case for the more challenging projects.
 
 To read more about Bytecode, you can check [bytecode.nl](https://bytecode.nl).
 
@@ -151,7 +151,7 @@ I quit working at Stager to focus on Bytecode.
 
 ##### 2014 to May 2018
 
-During my time running Nooijen Web Solutions I worked with a team of 4 other freelancers on a variety of projects, randing from one-page marketing websites to custom web solutions. I worked as the lead-developer for most projects.
+During my time running Nooijen Web Solutions I worked with a team of 4 other freelancers on a variety of projects, ranging from one-page marketing websites to custom web solutions. I worked as the lead-developer for most projects.
 
 Nooijen Web Solutions was discontinued when Bytecode was founded.
 
@@ -167,9 +167,9 @@ Nooijen Web Solutions was discontinued when Bytecode was founded.
 
 ##### July 2014 to December 2018
 
-Out of passion for chemistry, I started a webshop, chemiewinkel.com. This webshop was created using WordPress/WooCommerce. I took care of all aspects of running this webshop, from keeping the webshop up to date, to marketing and from filing tax reports to fulfilment.
+Out of a passion for chemistry, I started the webshop chemiewinkel.com. This webshop was created using WordPress/WooCommerce. I took care of all aspects of running this webshop, from keeping the webshop up to date, to marketing and from filing tax reports to fulfillment.
 
-Chemiewinkel was discontinued so I could focus fully on Bytecode.
+Chemiewinkel.com was discontinued to fully focus on Bytecode.
 
 ###### Tools used
 
