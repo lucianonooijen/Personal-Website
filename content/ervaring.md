@@ -18,12 +18,14 @@ Bij Bytecode vervul ik de rol van lead-developer en ben ik eindverantwoordelijke
 
 Voor meer informatie over Bytecode, zie [bytecode.nl](https://bytecode.nl).
 
-###### Meestvoorkomende technieken
+###### Gebruikte technieken (meest voorkomend in bold)
 
-* Javascript/Typescript: NodeJS, ReactJS (+Redux), React Native, Jest
-* PHP: Laravel, WordPress, Magento 2
+* **Javascript/Typescript**: NodeJS, ReactJS (+Redux), React Native, Jest
+* **DevOps**: Ansible, Docker, Linux, Terraform
+* Python: Flask, Django
 * Databases: PostgreSQL, MySQL
-* DevOps: Ansible, Docker, Linux, Terraform
+* PHP: Laravel, WordPress, Magento 2
+* Overig: Elixir, Rust
 
 _Om meer te lezen over de technieken waar ik momenteel veel mee werk, bekijk de [expertise-pagina](/expertise)._
 

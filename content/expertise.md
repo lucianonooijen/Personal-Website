@@ -15,11 +15,11 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
 * **NodeJS/Javascript** (ES6+, Typescript, Jest)
 * **ReactJS** (icm. Redux) en Angular 2+
-* PHP (WordPress, Laravel, Magento 2)
 * Python, (Django, Flask)
-* C# (.Net/.Net Core)
 * Elixir (Phoenix)
 * Rust (Rocket, Diesel)
+* C# (.Net/.Net Core)
+* PHP (WordPress, Laravel, Magento 2)
 
 ## Mobile development
 
