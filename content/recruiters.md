@@ -15,10 +15,10 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [over](/over)-p
 
 Mijn beschikbaarheid is:
 
-* Maximaal 2 dagen bij de klant on-site
-* Hiernaast maximaal 2 dagen remote
+* Maximaal 1 dag bij de klant on-site
+* Hiernaast maximaal 1 dag remote
 
-Momenteel hanteer ik een uurtarief van €70-€80, afhankelijk van het project. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €80. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
 Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 30, het liefst 20, minuten met de auto/OV, het liefst reizend buiten de spits.
 
