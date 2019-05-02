@@ -29,6 +29,21 @@ Voor meer informatie over Bytecode, zie [bytecode.nl](https://bytecode.nl).
 
 _Om meer te lezen over de technieken waar ik momenteel veel mee werk, bekijk de [expertise-pagina](/expertise)._
 
+###### Selectie van projecten
+
+*Selectie van projecten waarvoor geen geheimhouding geldt*
+
+* Bytecode interne infrastructuur (DigitalOcean, Ansible, Terraform, Kubernetes)
+* Bytecode klanten infrastructuur  (DigitalOcean, Ansible, Terraform, Kubernetes)
+* Bytecode proposal/document generator (NodeJS, HTML/CSS)
+* [Mooiwerk Breda](https://mooiwerkbreda.nl) (NodeJS, WordPress, HTML/CSS)
+* Research-gerelateerde Android app voor Reinier de Graaf Gasthuis (Java, Elixir)
+* VitaliteitsAPK mobiele app iOS + Android (React Native + Expo, Redux)
+* Marketingpagina ontwikkeling voor LG Nederland (HTML/CSS)
+* Webshop [côte&ciel](https://coteetciel.com) (Magento 2, NodeJS, Docker)
+* Bytecode website (NodeJS, ReactJS, HTML/CSS)
+* Meerdere vrije (open-source) projecten op [GitHub](https://github.com/BytecodeOpenSource)
+
 <br>
 
 ### Stager Software */ Front-end/full-stack developer*

@@ -120,7 +120,7 @@ To read more about Bytecode, you can check [bytecode.nl](https://bytecode.nl).
 * Client infrastructure (DigitalOcean, Ansible, Terraform, Kubernetes)
 * Bytecode proposal/document generator (NodeJS, HTML/CSS)
 * [Mooiwerk Breda](https://mooiwerkbreda.nl) (NodeJS, WordPress, HTML/CSS)
-* Research-related Android app for Reinier de Graaf Hospital (Java)
+* Research-related Android app for Reinier de Graaf Hospital (Java, Elixir)
 * VitAPK mobile app iOS + Android (React Native, Expo)
 * Marketing page development for LG Netherlands (HTML/CSS)
 * Webshop [côte&ciel](https://coteetciel.com) (Magento 2, NodeJS)
