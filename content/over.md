@@ -39,7 +39,7 @@ In 2016 heb ik mijn Anglia Proficiency certificaat met een "Distinction" grade b
 
 Omdat ik sterk geloof in vrije(/open source) software probeer ik zo veel mogelijk hieraan bij te dragen met de ontwikkeling waar ik verantwoordelijk voor ben, niet alleen met Bytecode, maar ook daarbuiten.
 
-In mijn vrije tijd kijk ik graag American Football (New York Giants) of Baseball (Los Angeles Dodgers).
+In mijn vrije tijd kijk ik graag American Football (New York Giants) of honkbal (Los Angeles Dodgers), en ik speel graag snooker, iets waar ik ook graag naar kijk.
 
 #### Website
 
