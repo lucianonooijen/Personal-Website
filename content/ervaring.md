@@ -8,7 +8,7 @@ h3 em { font-weight: 400; }
 h5 { margin-top: 0 !important; }
 </style>
 
-### Eneco/Dept */ Software Engineer, freelance*
+### Eneco/Dept */ Software Engineer, ad interim*
 
 ##### 13-05-2019 tot HEDEN
 
