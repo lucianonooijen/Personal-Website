@@ -93,6 +93,12 @@ The tools I work with most often are marked in **bold**.
 
 # Relevant work experience
 
+### Eneco/Dept (Software engineer, freelance)
+
+Through Dept I am currently working in a feature team, within the Eneco web-sales department, working on an innovative tool that will play a crucial role in the customer journey once finished.
+
+The technology stack used is mainly based on Typescript/Javascript and ReactJS. Project management is based around the Agile/Scrum philosophy. To ensure quality of the software, unit tests, integration tests and end-to-end tests are written for test-automation, and where possible, development is test-driven.
+
 ### Bytecode Digital Agency */ Co-founder, technical lead, consultant*
 
 ##### May 2018 to -
