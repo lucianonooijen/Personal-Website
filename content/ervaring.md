@@ -8,6 +8,14 @@ h3 em { font-weight: 400; }
 h5 { margin-top: 0 !important; }
 </style>
 
+### Eneco/Dept */ Software Engineer, freelance*
+
+##### 13-05-2019 tot HEDEN
+
+Via [Dept](https://deptagency.com) ben ik namens Bytecode werkzaam bij Eneco, waar ik onderdeel uitmaak van een feature team, binnen het grotere web-salesteam. Bij Eneco ontwikkel ik mee aan een tool die vanaf later dit jaar een cruciale rol zal gaan spelen in de customer-journey en een grote invloed heeft op de uitstraling van Eneco richting haar klanten en websitebezoekers.
+
+De technologie-"stack" waarmee gewerkt wordt is gebaseerd op Typescript/Javascript, waaronder ReactJS. Project management is gebaseerd op de Agile/Scrum-filosofie. Om de kwaliteit van de software te garanderen wordt er voor test-automation gebruik gemaakt van unit-tests, integration tests en end-to-end tests. Daarnaast wordt er waar mogelijk test-driven ontwikkeld.
+
 ### Bytecode Digital Agency */ Co-founder, analyst/consultant, technical lead*
 
 ##### 01-05-2018 tot HEDEN
