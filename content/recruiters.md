@@ -18,7 +18,7 @@ Mijn beschikbaarheid is:
 * Maximaal 1 dag bij de klant on-site
 * Hiernaast maximaal 1 dag remote
 
-Momenteel hanteer ik een uurtarief van €80. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €85. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
 Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 30, het liefst 20, minuten met de auto/OV, het liefst reizend buiten de spits.
 
@@ -26,12 +26,14 @@ _Mijn voorkeur gaat uit naar een project met een looptijd van maximaal 3 maanden
 
 #### Technieken
 
+Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met lead developers en software architecten, of waar ik een van deze rollen vervul.
+
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken:
 
 * NodeJS/Typescript, back-end/full-stack Javascript (4 jaar professionele ervaring)
 * ReactJS (+Redux) voor front-end Javascript (3 jaar professionele ervaring)
 * React Native voor mobile development (3 jaar professionele ervaring)
-* DevOps/Cloud-automatisering, met tools zoals Ansible en Terraform (3 jaar professionele ervaring)
+* DevOps/Cloud-automatisering met Linux-omgevingen, met tools zoals Ansible en Terraform (3 jaar professionele ervaring)
 
 Als er hiernaast ook nog focus zou liggen op security-aspecten zou dat helemaal top zijn.
 
@@ -43,18 +45,21 @@ Ik hou erg van afwisseling, dus ik heb geen sterke voorkeur in wat voor sector i
 
 Zo liggen mijn interesses vooral bij:
 
-* IT-automatisering binnen een bedrijf (bv. koppelingen maken tussen verschillende applicaties)
+* Software architectuur en het bepalen van de richting op technisch gebied binnen bedrijven
 * Het oplossen van problemen binnen een bedrijf dmv. het ontwikkelen/integreren van maatwerksoftware
 * Consultancy op IT-gebied, en hoe wensen het beste een technische invulling kunnen krijgen
+* IT-automatisering binnen een bedrijf (bv. koppelingen maken tussen verschillende applicaties)
 * Bijdragen aan open-source/vrije software-projecten van bedrijven
-* Bedrijven moderniseren op IT-gebied (bv. van on-premise COBOL-applicaties naar microservices in de cloud)
-* Start-ups waarbij software de main-focus is
+* Bedrijven moderniseren op IT-gebied (bv. van on-premise COBOL-applicaties naar microservices in de public cloud)
+* Start-ups waarbij software de main-focus is, waarbij er belangrijke beslissingen rondom software-architectuur gemaakt moeten worden
 
 #### Team en mindset
 
 Belangrijker dan de werkzaamheden vind ik het team en de mindset.
 
 Omdat ik erg gepassioneerd ben over wat ik doe, vind ik het belangrijk dat de mensen waarmee ik werk dit ook zijn, omdat ik geloof dat dat dé manier is om het allerbeste resultaat te behalen.
+
+Binnen een team vind ik het belangrijk dat er een cultuur heerst die motiveert om schone code te schrijven en waar kwaliteit van de software voorop staat, dus een mindset die aansluit op [mijn werkwijze](https://lucianonooijen.nl/expertise/#werkwijze).
 
 Of het team Engels-sprekend of Nederlands-sprekend is, maakt voor mij niet uit, omdat ik de Engelse taal op near-native niveau beheers.
 
