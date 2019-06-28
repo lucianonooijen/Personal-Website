@@ -18,11 +18,11 @@ Mijn beschikbaarheid is:
 * Maximaal 1 dag bij de klant on-site
 * Hiernaast maximaal 1 dag remote
 
-Momenteel hanteer ik een uurtarief van €85. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €90. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
-Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 30, het liefst 20, minuten met de auto/OV, het liefst reizend buiten de spits.
+Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 25, het liefst 15, minuten met de auto, het liefst reizend buiten de spits, waarbij het mogelijk is om direct voor de deur bij het kantoor/pand te parkeren.
 
-_Mijn voorkeur gaat uit naar een project met een looptijd van maximaal 3 maanden_.
+_Mijn voorkeur gaat uit naar een project met een looptijd van maximaal 6 maanden_.
 
 #### Technieken
 
