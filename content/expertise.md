@@ -71,25 +71,23 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 ###### Waar ik momenteel mee bezig ben:
 
-* Lezen van The C Programming Language (Kernighan, Ritchie)
 * Low-level web programming met Rust (icm Rocket)
 * Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
+* Lezen van The Lean Startup, Start With Why en soortgelijke boeken
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
 
 * Functioneel programmeren met Elixir (+Phoenix framework)
 * Verdiepen in geavanceerde web security en het beveiligen van applicaties
-* Flutter voor mobiele ontwikkeling
-* Lezen van Clean Code, Robert C. Martin
+* Lezen van Clean Code, The Clean Coder en Clean Architecture (Robert C. Martin)
+* Lezen van The C Programming Language (Kernighan, Ritchie)
 * Kubernetes in production
 
 ###### Wat ik nog wil gaan leren (meest noemenswaardig):
 
-* Functioneel front-end web development met Elm
+* Functioneel front-end web development met Elm, ReasonML of ClosureScript
 * WebAssembly
 * Artificial Intelligence en Neural Networks met Tensorflow
-* Lezen van The Clean Coder en Clean Architecture (Robert C. Martin)
-* Lezen van The Lean Startup en Start With Why
 
 <br>
 <hr>
