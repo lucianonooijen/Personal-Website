@@ -105,8 +105,7 @@ Voor het grootste deel van de tijd maak ik gebruik van [Arch Linux](https://www.
 
 ###### Arch config
 
-Binnen Arch Linux maak ik gebruik van [i3-gaps](https://github.com/Airblader/i3) als window manager met [Polybar](https://github.com/jaagr/polybas) als statusbar,
-[Ranger](https://github.com/ranger/ranger) als file manager en
+Binnen Arch Linux maak ik gebruik van [dwm](https://dwm.suckless.org/) als window manager, [Ranger](https://github.com/ranger/ranger) als file manager en
 [ZSH met Oh My ZSH](https://ohmyz.sh/) binnen [ST (Simple Terminal)](https://st.suckless.org/) als terminal.
 
 ###### Code editors
