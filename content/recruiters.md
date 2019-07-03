@@ -26,7 +26,7 @@ _Mijn voorkeur gaat uit naar een project met een looptijd van maximaal 6 maanden
 
 #### Technieken
 
-Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met lead developers en software architecten, of waar ik een van deze rollen vervul.
+Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van een bedrijf, lead developers en software architecten, of waar ik een van deze rollen vervul.
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken:
 
