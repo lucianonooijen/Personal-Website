@@ -30,8 +30,8 @@ Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van 
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken:
 
-* NodeJS/Typescript, back-end/full-stack Javascript (4 jaar professionele ervaring)
-* ReactJS (+Redux) voor front-end Javascript (3 jaar professionele ervaring)
+* NodeJS/Typescript, back-end/full-stack Javascript (5 jaar professionele ervaring)
+* ReactJS (+Redux) voor front-end Javascript (4 jaar professionele ervaring)
 * React Native voor mobile development (3 jaar professionele ervaring)
 * DevOps/Cloud-automatisering met Linux-omgevingen, met tools zoals Ansible en Terraform (3 jaar professionele ervaring)
 
