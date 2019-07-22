@@ -101,7 +101,7 @@ Through Dept/Bytecode I am currently working in a feature team, within the Eneco
 
 The technology stack used is mainly based on Typescript/Javascript and ReactJS. Project management is based around the Agile/Scrum philosophy. To ensure quality of the software, unit tests, integration tests and end-to-end tests are written for test-automation, and where possible, development is test-driven.
 
-### Bytecode Digital Agency */ Co-founder, technical lead, consultant*
+### Bytecode Digital Agency */ Co-founder, technical lead*
 
 ##### May 2018 to -
 
