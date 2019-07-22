@@ -105,9 +105,10 @@ The technology stack used is mainly based on Typescript/Javascript and ReactJS. 
 
 ##### May 2018 to -
 
-For Bytecode Digital Agency, Bytecode in short, I am responsible for all aspects of non-PHP projects, all internal projects and all cloud infrastructure (including cyber security), both internal and for clients.
 
-Some projects I solely manage, including doing code reviews and related tasks. For other projects I work on the actual codebase myself. The latter is usually the case for the more challenging projects.
+At Bytecode, my activities are mostly focused on software architecture and working with clients and our business developers to translate concepts into working software that will last.
+
+Currently, I am the person responsible for the quality of the code/software we deliver. My focus is to present the best possible solution for our clients, and to avoid creating technical debt. This responsibility also applies to our coding standards, internal software, cyber security and cloud infrastructure.
 
 To read more about Bytecode, you can check [bytecode.nl](https://bytecode.nl).
 

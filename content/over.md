@@ -5,7 +5,7 @@ slug = "over"
 
 #### Introductie
 
-Mijn naam is Luciano Nooijen, web, mobile en DevOps consultant. Momenteel ben ik werkzaam bij [Bytecode Digital Agency B.V.](https://bytecode.nl), het bedrijf dat ik samen met Jeroen van Steijn heb opgericht, waar ik de rol als analyst/consultant en technical lead vervul.
+Mijn naam is Luciano Nooijen, web, mobile en DevOps consultant. Momenteel ben ik werkzaam bij [Bytecode Digital Agency B.V.](https://bytecode.nl), het bedrijf dat ik samen met Jeroen van Steijn heb opgericht, waar ik de rol van technical lead vervul.
 
 #### Werkzaamheden
 
