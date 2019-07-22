@@ -16,7 +16,7 @@ Via [Dept](https://deptagency.com) ben ik namens Bytecode werkzaam bij Eneco, wa
 
 De technologie-"stack" waarmee gewerkt wordt is gebaseerd op Typescript/Javascript, waaronder ReactJS. Project management is gebaseerd op de Agile/Scrum-filosofie. Om de kwaliteit van de software te garanderen wordt er voor test-automation gebruik gemaakt van unit-tests, integration tests en end-to-end tests. Daarnaast wordt er waar mogelijk test-driven ontwikkeld.
 
-### Bytecode Digital Agency */ Co-founder, analyst/consultant, technical lead*
+### Bytecode Digital Agency */ Co-founder & technical lead*
 
 ##### 01-05-2018 tot HEDEN
 
@@ -45,12 +45,12 @@ _Om meer te lezen over de technieken waar ik momenteel veel mee werk, bekijk de 
 * Bytecode klanten infrastructuur  (DigitalOcean, Ansible, Terraform, Kubernetes)
 * Bytecode proposal/document generator (NodeJS, HTML/CSS)
 * [Mooiwerk Breda](https://mooiwerkbreda.nl) (NodeJS, WordPress, HTML/CSS)
-* Research-gerelateerde Android app voor Reinier de Graaf Gasthuis (Java, Elixir)
+* Research-gerelateerde Android app voor Reinier de Graaf Gasthuis (Java, Elixir, ReactJS)
 * VitaliteitsAPK mobiele app iOS + Android (React Native + Expo, Redux)
 * Marketingpagina ontwikkeling voor LG Nederland (HTML/CSS)
 * Webshop [côte&ciel](https://coteetciel.com) (Magento 2, NodeJS, Docker)
 * Bytecode website (NodeJS, ReactJS, HTML/CSS)
-* Meerdere vrije (open-source) projecten op [GitHub](https://github.com/BytecodeOpenSource)
+* Meerdere vrije (open-source) projecten op [GitHub](https://github.com/BytecodeAgency)
 
 <br>
 
