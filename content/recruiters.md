@@ -30,7 +30,7 @@ Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van 
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken:
 
-* NodeJS/Typescript, Elixir, Rust of Python de back-end
+* NodeJS/Typescript, Elixir of Python de back-end
 * ReactJS+Redux voor de front-end
 * React Native voor mobile
 * DevOps/Cloud-automatisering met Linux-omgevingen
