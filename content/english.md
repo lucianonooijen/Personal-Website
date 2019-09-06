@@ -41,20 +41,24 @@ When working on a project, I follow the [Bytecode Coding Standards](https://gith
 
 The tools I work with most often are marked in **bold**.
 
-## Web development
+## Web-development
 
-* **NodeJS/Javascript** (ES6+, Typescript, Jest)
-* **ReactJS** (+Redux) and Angular 2+
+* **Typescript/Javascript** (NodeJS, Express)
+* **ReactJS** (icm. Redux) en Angular 2+
 * Python, (Django, Flask)
-* Rust (Rocket, Diesel)
 * Elixir (Phoenix)
+* Rust (Rocket, Diesel)
+* C# (.NET Core)
+* Java, Scala
 * PHP (WordPress, Laravel, Magento 2)
 
 ## Mobile development
 
-* **React Native** (with and without Expo)
+* **React Native** (Expo)
 * **Progressive Web Apps**
+* Ionic 2+
 * Flutter
+* Accelerated Mobile Pages
 
 ## Databases
 
@@ -63,14 +67,15 @@ The tools I work with most often are marked in **bold**.
 * NoSQL (MongoDB)
 * GraphQL
 
-## Devops
+## DevOps and Site Reliability Engineering
 
 * **Linux** (Arch, Ubuntu, CentOS)
 * **Docker** (Compose)
 * **Ansible**
-* CI/CD (GitLab, Travis)
+* **CI/CD** (GitLab)
 * Terraform
 * Cloud (DigitalOcean, AWS)
+* Nginx
 * Kubernetes
 
 ## Working methodology
