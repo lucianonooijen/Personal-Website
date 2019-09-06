@@ -54,7 +54,7 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
 * *"Always choose the best tool for the job"*
 * Cloud- en applicatiestructuur aan de hand van [The Twelve-Factor App](https://12factor.net/)
-* Softwarearchitectuur via de principes van [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [AOP](https://en.wikipedia.org/wiki/Aspect-oriented_programming), [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) en [Layered Architecture](https://en.wikipedia.org/wiki/Multitier_architecture)
+* Softwarearchitectuur via de principes van [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) en [Layered Architecture](https://en.wikipedia.org/wiki/Multitier_architecture)
 * Alles (zelfs [infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)) in versiebeheer (Git) via [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * Projectmanagement via SCRUM/Agile principe, zonder onnodige meetings
 * Samenbrengen van Development, Security en Operations via [DevSecOps](https://www.devsecops.org/) en [secure by design](https://en.wikipedia.org/wiki/Secure_by_design)
