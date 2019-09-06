@@ -10,7 +10,7 @@ h5 { margin-top: 0 !important; }
 
 ### About me
 
-My name is Luciano Nooijen, a web/mobile and DevOps consultant. Currently, I work as technical lead at [Bytecode Digital Agency B.V.](https://bytecode.nl), an agency I co-founded.
+My name is Luciano Nooijen, web, mobile and cloud consultant. Currently, I work as technical lead at [Bytecode Digital Agency B.V.](https://bytecode.nl), an agency I co-founded.
 
 #### Career
 
@@ -82,10 +82,11 @@ The tools I work with most often are marked in **bold**.
 
 * *"Always choose the best tool for the job"*
 * Architecture following the [The Twelve-Factor App](https://12factor.net/) guidelines
+* Software design following the principes of [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [AOP](https://en.wikipedia.org/wiki/Aspect-oriented_programming), [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) and [Layered Architecture](https://en.wikipedia.org/wiki/Multitier_architecture)
 * All code under version control in Git
 * Project management following SCRUM/Agile principles
-* Combining Development, Security and Operations using [DevSecOps](https://www.devsecops.org/)
-* Issue prioritization [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method)
+* Combining Development, Security and Operations using [DevSecOps](https://www.devsecops.org/) and [secure by design](https://en.wikipedia.org/wiki/Secure_by_design)
+* Issue prioritization [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method) and the [80/20 rule](https://en.wikipedia.org/wiki/Pareto_principle)
 * Development based on Test-Driven Development (TDD)
 * Functional programming where possible
 * [SOLID](https://en.wikipedia.org/wiki/SOLID) and [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
