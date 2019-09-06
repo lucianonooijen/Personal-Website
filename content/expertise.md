@@ -122,7 +122,7 @@ Ik maak gebruik van twee verschillende code editors: [NeoVim](https://github.com
 
 Mijn voorkeur gaat uit naar werken met NeoVim, maar voor veel projecten maak ik toch gebruik van VS Code, omdat dit meer [IDE functionaliteiten](https://en.wikipedia.org/wiki/Integrated_development_environment) biedt, waardoor ik productiever kan zijn als ik werk in middelgrote codebases.
 
-Hiernaast maak ik regelmatig gebruik van [IntelliJ IDEA](https://www.jetbrains.com/idea/), omdat voor grootschalige projecten code editors zoals (Neo)Vim en VS Code helaas niet genoeg support kunnen bieden om effectief te werken.
+Hiernaast maak ik regelmatig gebruik van [IntelliJ IDEA](https://www.jetbrains.com/idea/), omdat voor grootschalige projecten code editors zoals (Neo)Vim en VS Code helaas niet genoeg support kunnen bieden mbt code intelligence om effectief te werken.
 
 Binnen zowel mijn code editors als mijn terminal maak ik gebruik van de Monokai kleuren, omdat ik deze als erg duidelijk en prettig ervaar.
 
