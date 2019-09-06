@@ -22,7 +22,7 @@ De technologie-"stack" waarmee gewerkt wordt is gebaseerd op Typescript/Javascri
 
 Nooijen Web Solutions bestond uit een team van samenwerkende freelancers. Echter merkten we dat dit met de steeds grotere projecten problemen op kon leveren, mede omdat we geen eigen kantoor hadden. Hierom is Bytecode Digital Agency B.V. opgericht. Hetzelfde team, maar dan een écht vast team (momenteel 6 vaste werknemers), in plaats van een groep freelancers. Vanaf 1 juli 2018 hebben wij een eigen pand in Delfgauw vanuit waar wij onze werkzaamheden verrichten.
 
-Bij Bytecode vervul ik de rol van lead-developer en ben ik eindverantwoordelijke voor vrijwel alle niet-PHP projecten. Daarnaast hou ik me ook bezig met DevOps en cloudcomputing.
+Bij Bytecode vervul ik de rol van lead-developer en ben ik eindverantwoordelijke voor vrijwel alles op technisch gebied en de geleverde producten. Daarnaast hou ik me ook bezig met DevOps en cloudcomputing.
 
 Voor meer informatie over Bytecode, zie [bytecode.nl](https://bytecode.nl).
 
