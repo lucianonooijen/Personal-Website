@@ -38,13 +38,13 @@ Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgend
 
 _Helaas is het voor mij niet mogelijk om te werken met omgevingen waarvoor het Windows-besturingsysteem benodigd is._
 
-Als er hiernaast ook nog focus zou liggen op security-aspecten zou dat helemaal top zijn.
+Als er hiernaast ook nog focus zou liggen op security-aspecten, zou dat helemaal top zijn.
 
 Om meer te lezen over mijn skillset, ga naar de [expertise-pagina](/expertise). Hier wordt ook mijn werkwijze verder toegelicht.
 
 #### Werkzaamheden en sector
 
-Ik hou erg van afwisseling, dus ik heb geen sterke voorkeur in wat voor sector ik aan de slag wil, of wat voor rol ik precies zal innemen, maar ik heb natuurlijk wel zaken die me meer interesseren dan andere.
+Ik hou erg van afwisseling, dus heb ik geen sterke voorkeur om in een bepaalde sector aan de slag te gaan, of in een specifieke rol die ik in zou nemen, maar ik heb natuurlijk wel zaken die me voornamelijk interesseren.
 
 Zo liggen mijn interesses vooral bij:
 
@@ -60,13 +60,13 @@ _Ik sta open voor zowel greenfield als brownfield projecten, waarbij mijn voorke
 
 #### Team en mindset
 
-Even belangrijk als de werkzaamheden vind ik het team en de mindset.
+Net zo belangrijk als de werkzaamheden, vind ik het team en de mindset.
 
 Omdat ik erg gepassioneerd ben over wat ik doe, vind ik het belangrijk dat de mensen waarmee ik werk dit ook zijn, omdat ik geloof dat dat dé manier is om het allerbeste resultaat te behalen.
 
 Binnen een team vind ik het belangrijk dat er een cultuur heerst die motiveert om schone code te schrijven en waar kwaliteit van de software voorop staat, dus een mindset die aansluit op [mijn werkwijze](https://lucianonooijen.nl/expertise/#werkwijze).
 
-Of het team Engels-sprekend of Nederlands-sprekend is, maakt voor mij niet uit, omdat ik de Engelse taal op near-native niveau beheers.
+Of het team Engels-sprekend of Nederlands-sprekend is maakt voor mij niet uit, omdat ik de Engelse taal op near-native niveau beheers.
 
 #### Vragen of contact
 

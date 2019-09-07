@@ -3,13 +3,13 @@ title = "Skills en Expertise"
 slug = "expertise"
 +++
 
-In de afgelopen tien jaar waarin ik heb geprogrammeerd, heb ik met enorm veel programmeertalen en frameworks te maken gehad, van plain C tot Ruby on Rails en van Java 6 tot Python Django. Hierdoor heb ik uitgevonden welke talen en frameworks mij het best liggen en waar ik het beste resultaat kan behalen om de behoeften van de eindgebruiker het beste te vervullen.
+In de afgelopen tien jaar waarin ik heb geprogrammeerd, heb ik met enorm veel programmeertalen en frameworks te maken gehad, van plain C tot Ruby on Rails en van Java 6 tot Python Django. Hierdoor heb ik uitgevonden welke talen en frameworks mij het best liggen, en waar ik het beste resultaat kan behalen om de behoeften van de eindgebruiker het beste te vervullen.
 
 De afgelopen jaren heb ik me gespecialiseerd in enkele stacks, zoals hieronder te lezen. Hoewel ik natuurlijk mijn voorkeuren heb, zal ik altijd _the best tool for the job_ kiezen, onafhankelijk van mijn voorkeur.
 
 Ik programmeer, tenzij het project anders vereist, volgens de Coding Standards van Bytecode. De Coding Standards zijn [hier](https://github.com/BytecodeBV/Coding-Standards) te vinden.
 
-Sinds ongeveer een jaar ben ik bij Bytecode Technical Lead, wat betekent dat ik nog slechts een klein deel van mijn tijd nog zelf code schrijf, omdat ik me meer bezig hou met software architectuur, het design van de code op hoger niveau, het uitvoeren van code-reviews en het begeleiden van de developers bij Bytecode. Natuurlijk zijn er ook nog genoeg momenten waarop ik zelf code schrijf.
+Sinds ongeveer een jaar vervul ik bij Bytecode de rol van Technical Lead. Dit betekent dat ik nog slechts een klein deel van mijn tijd nog zelf code schrijf, omdat ik me meer bezig hou met software architectuur, het design van de code op hoger niveau, het uitvoeren van code-reviews en het begeleiden van de developers bij Bytecode. Natuurlijk zijn er ook nog genoeg momenten waarop ik zelf code schrijf.
 
 De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
@@ -72,7 +72,7 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
 #### Persoonlijke ontwikkeling
 
-Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorgen dat je altijd bij blijft met de nieuwste technieken. Om deze reden besteed ik één dag per week aan zelf-educatie.
+Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorgen dat je continue bij blijft met de nieuwste technieken. Om deze reden besteed ik één dag per week aan zelf-educatie.
 
 ###### Waar ik momenteel mee bezig ben:
 
@@ -105,11 +105,11 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 #### Ontwikkelomgeving
 
-Ik krijg vaak vragen van anderen hoe mijn lokale ontwikkelomgeving eruit ziet en hoe alles is geconfigureerd. Om deze reden heb ik alles kort samengevat op deze pagina, voor wie benieuwd is.
+Ik krijg vaak vragen over hoe mijn lokale ontwikkelomgeving eruit ziet en hoe alles is geconfigureerd. Om deze reden heb ik alles kort samengevat op deze pagina.
 
 ###### Operating system
 
-Voor het grootste deel van de tijd maak ik gebruik van [Arch Linux](https://www.archlinux.org/), of Mac OS. Het liefst zou ik alles binnen Arch Linux doen, alleen is dat helaas niet haalbaar omdat ik regelmatig iOS apps moet compilen, waarvoor Mac OS nodig is.
+Voor het grootste deel van de tijd maak ik gebruik van [Arch Linux](https://www.archlinux.org/), of Mac OS. Het liefst zou ik alles binnen Arch Linux doen, echter is dat helaas niet haalbaar omdat ik regelmatig iOS apps moet compilen, waarvoor Mac OS nodig is.
 
 ###### Arch config
 
@@ -132,7 +132,7 @@ Mijn "[dotfiles](https://www.quora.com/What-are-dotfiles)" zijn te vinden in [mi
 
 Omdat Arch Linux opzetten toch wel een redelijk arbeidsintensief klusje kan zijn, en ik graag dingen automatiseer, heb ik op basis van [Luke Smith](https://lukesmith.xyz)'s scripts dit proces geautomatiseerd. Deze "bootstrapping scripts" zijn te vinden in [de LARBS respository](https://github.com/lucianonooijen/LARBS) op mijn GitHub profiel.
 
-Voel je vrij om mijn dotfiles te gebruiken en aan te passen voor jezelf!
+Voel je vrij om mijn dotfiles te gebruiken en aan te passen voor eigen gebruik!
 
 ###### Vragen of hulp nodig?
 
