@@ -28,12 +28,15 @@ _Mijn voorkeur gaat uit naar een project met een looptijd van maximaal 6 maanden
 
 Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van een bedrijf, lead developers en software architecten, of waar ik een van deze rollen vervul.
 
-Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken:
+Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken, of een project waar deze technieken geïmplementeerd kunnen worden:
 
 * NodeJS/Typescript, Elixir of Python de back-end
 * ReactJS+Redux voor de front-end
 * React Native voor mobile
 * DevOps/Cloud-automatisering met Linux-omgevingen
+* Site Reliability Engineering
+
+_Helaas is het voor mij niet mogelijk om te werken met omgevingen waarvoor het Windows-besturingsysteem benodigd is._
 
 Als er hiernaast ook nog focus zou liggen op security-aspecten zou dat helemaal top zijn.
 
@@ -45,13 +48,15 @@ Ik hou erg van afwisseling, dus ik heb geen sterke voorkeur in wat voor sector i
 
 Zo liggen mijn interesses vooral bij:
 
-* Software architectuur en het bepalen van de richting op technisch gebied binnen bedrijven
-* Het oplossen van problemen binnen een bedrijf dmv. het ontwikkelen/integreren van maatwerksoftware
-* Consultancy op IT-gebied, en hoe wensen het beste een technische invulling kunnen krijgen
-* IT-automatisering binnen een bedrijf (bv. koppelingen maken tussen verschillende applicaties)
-* Bijdragen aan open-source/vrije software-projecten van bedrijven
-* Bedrijven moderniseren op IT-gebied (bv. van on-premise COBOL-applicaties naar microservices in de public cloud)
-* Start-ups waarbij software de main-focus is, waarbij er belangrijke beslissingen rondom software-architectuur gemaakt moeten worden
+* _Software architectuur_ en het bepalen van de richting op technisch gebied binnen bedrijven
+* _Consultancy_ op IT-gebied, en het opstellen en vertalen van requirements tot de beste technische invulling
+* Het _begeleiden van teams_ binnen een bedrijf en _technisch project management_, door de rol van _technical lead_ te vervullen.
+* _IT-automatisering_ binnen een bedrijf en _systems integration_ (koppelingen maken tussen verschillende applicaties)
+* Bijdragen aan _open-source/vrije software-projecten_ van bedrijven
+* Bedrijven _moderniseren_ op IT-gebied (bv. van on-premise applicaties naar microservices in public cloud)
+* _Start-ups_ waarbij software de main-focus is, waarbij er belangrijke beslissingen rondom _software-architectuur_ gemaakt moeten worden
+
+_Ik sta open voor zowel greenfield als brownfield projecten, waarbij mijn voorkeur uitgaat naar [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
 
 #### Team en mindset
 
