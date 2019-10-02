@@ -31,16 +31,24 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 # Social links
 [[params.social]]
-    name = "Github"
+    name = "Email"
     weight = 1
+    url = "mailto:luciano@bytecode.nl"
+[[params.social]]
+    name = "Telefoon"
+    weight = 2
+    url = "/contact/"
+[[params.social]]
+    name = "Github"
+    weight = 3
     url = "https://github.com/lucianonooijen/"
 [[params.social]]
     name = "Twitter"
-    weight = 2
+    weight = 4
     url = "https://twitter.com/lucianonooijen/"
 [[params.social]]
     name = "LinkedIn"
-    weight = 3
+    weight = 5
     url = "https://www.linkedin.com/in/lucianonooijen/"
 
 # Menu links
@@ -65,6 +73,6 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 #     weight = 4
 #     url = "/blog/"
 [[menu.main]]
-    name = "Email"
-    weight = 4
-    url = "mailto:luciano@bytecode.nl"
+    name = "Contact"
+    weight = 5
+    url = "/contact/"
