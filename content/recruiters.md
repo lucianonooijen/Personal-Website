@@ -20,21 +20,23 @@ Mijn beschikbaarheid is:
 * Maximaal 1 dag bij de klant on-site
 * Hiernaast maximaal 1 dag remote
 
-Momenteel hanteer ik een uurtarief van €110. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €120. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
-Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 25, het liefst 15, minuten met de auto, het liefst reizend buiten de spits, waarbij het mogelijk is om direct voor de deur bij het kantoor/pand te parkeren.
+Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 20 minuten met de auto, het liefst reizend buiten de spits, waarbij het mogelijk is om direct voor de deur bij het kantoor/pand te parkeren.
 
 _Mijn voorkeur gaat uit naar een project met een looptijd van maximaal 6 maanden_.
 
 #### Technieken
 
-Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van een bedrijf, lead developers en software architecten, of waar ik een van deze rollen vervul.
+*Om de hoogt mogelijke waarde te leveren, door een kwalitatief hoge oplossing neer te zetten, is het voor mij belangrijk dat [<b>mijn werkwijze</b>](/expertise#werkwijze) bij projecten geïmplementeerd kan worden.*
+
+Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van een bedrijf, lead developers en/of software architecten, of waar ik een van deze rollen vervul.
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken, of een project waar deze technieken geïmplementeerd kunnen worden:
 
-* NodeJS/Typescript, Elixir of Python de back-end
-* ReactJS+Redux voor de front-end
-* React Native voor mobile
+* Typescript, Elixir, Java of Go voor de back-end
+* ReactJS (+Redux) voor de front-end
+* React Native (+Expo) voor mobile
 * DevOps/Cloud-automatisering met Linux-omgevingen
 * Site Reliability Engineering
 
@@ -72,7 +74,7 @@ Of het team Engels-sprekend of Nederlands-sprekend is maakt voor mij niet uit, o
 
 #### Vragen of contact
 
-Voor vragen, of voor een kennismaking ben ik te bereiken op [015-2024222](callto:0152024222), of per email op [luciano@bytecode.nl](mailto:luciano@bytecode.nl).
+Voor vragen, of voor een kennismaking ben ik te per email te bereiken op [luciano@bytecode.nl](mailto:luciano@bytecode.nl), of ga naar de [contactpagina](/contact) om een belafspraak in te plannen.
 
 Linken? [Voeg me gerust toe](https://www.linkedin.com/in/lucianonooijen/).
 
