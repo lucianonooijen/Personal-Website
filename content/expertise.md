@@ -35,42 +35,42 @@ Sinds ongeveer een jaar vervul ik bij Bytecode de rol van Technical Lead. Dit be
 
 De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
-### Web-development
+### Back-end/server
 
-* **Typescript/Javascript** (NodeJS, Express)
-* **ReactJS** (icm. Redux) en Angular 2+
-* Python, (Django, Flask)
-* Elixir (Phoenix)
+* **Typescript/Javascript** (NodeJS, Express, Deno)
+* **Elixir** (Phoenix, OTP)
+* **Go** (Gin)
 * Rust (Rocket, Diesel)
-* C# (.NET Core)
-* Java, Scala
-* PHP (WordPress, Laravel, Magento 2)
+* Java, Scala (Play, Spring)
+* Python (Django, Flask)
+
+### Front-end frameworks
+
+* **ReactJS** (icm. Redux, Styled-Components) 
+* GatsbyJS (ReactJS static site builder)
+* Angular 2+
 
 ### Mobile development
 
 * **React Native** (Expo)
 * **Progressive Web Apps**
-* Ionic 2+
 * Flutter
-* Accelerated Mobile Pages
 
 ### Databases
 
 * **PostgreSQL**
 * MySQL
 * NoSQL (MongoDB)
-* GraphQL
 
 ### DevOps en Site Reliability Engineering
 
 * **Linux** (Arch, Ubuntu, CentOS)
-* **Docker** (Compose)
-* **Ansible**
+* **Infrastructure and provisioning** (Ansible, Terraform, Shell)
 * **CI/CD** (GitLab)
-* Terraform
+* **Systems integration**
+* Docker en Kubernetes
 * Cloud (DigitalOcean, AWS)
 * Nginx
-* Kubernetes
 
 <br>
 <hr>
