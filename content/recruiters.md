@@ -11,20 +11,20 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [over](/over)-p
 
 #### Beschikbaarheid en reistijd
 
-**Momenteel ben ik  _wel_/~~niet~~ beschikbaar voor een freelance opdracht**
+**Momenteel ben ik  _wel_/~~niet~~ beschikbaar voor een freelance opdracht (vanaf 1 januari 2020)**
 
 *Na jaren met plezier gewerkt te hebben als full-stack developer heb ik de ambitie om alleen nog projecten aan te nemen waarbij de focus sterk ligt op software architectuur, infrastructuur en systems integration.*
 
-Mijn beschikbaarheid is:
+Mijn beschikbaarheid per week is (vanaf 1 januari 2020):
 
-* Maximaal 1 dag bij de klant on-site
-* Hiernaast maximaal 1 dag remote
+* Maximaal 2 dagen bij de klant on-site (tijdens de eerste weken maximaal 3 dagen)
+* Hiernaast maximaal 2 dagen remote
 
 Momenteel hanteer ik een uurtarief van €120. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
-Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 20 minuten met de auto, het liefst reizend buiten de spits, waarbij het mogelijk is om direct voor de deur bij het kantoor/pand te parkeren.
+Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 20 minuten met de auto.
 
-_Mijn voorkeur gaat uit naar een project met een looptijd van maximaal 6 maanden_.
+_Mijn voorkeur gaat uit naar een project met een initiële looptijd van 3-6 maanden, met verlenging in overleg_.
 
 #### Technieken
 
