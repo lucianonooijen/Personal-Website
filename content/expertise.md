@@ -13,9 +13,12 @@ Sinds ongeveer een jaar vervul ik bij Bytecode de rol van Technical Lead. Dit be
 
 ## Werkwijze
 
-* *"Always choose the best tool for the job"*
+*Technieken die ik toepas voor het opleveren van elegante, efficiente, leesbare, begrijpbare en onderhoudbare code die waarde toevoegt aan een bedrijf en/of product.*
+
+* "Always choose the best tool for the job"
 * Cloud- en applicatiestructuur aan de hand van [The Twelve-Factor App](https://12factor.net/)
 * Softwarearchitectuur via de principes van [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) en [Layered Architecture](https://en.wikipedia.org/wiki/Multitier_architecture)
+* Voorkomen van [technical debt](https://en.wikipedia.org/wiki/Technical_debt), short term én long term
 * Alles (zelfs [infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)) in versiebeheer (Git) via [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * Projectmanagement via SCRUM/Agile principe, zonder onnodige meetings
 * Samenbrengen van Development, Security en Operations via [DevSecOps](https://www.devsecops.org/) en [secure by design](https://en.wikipedia.org/wiki/Secure_by_design)
@@ -24,7 +27,7 @@ Sinds ongeveer een jaar vervul ik bij Bytecode de rol van Technical Lead. Dit be
 * Functional programming waar mogelijk
 * [SOLID](https://en.wikipedia.org/wiki/SOLID) en [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
 * Versioning volgens [Semantic Versioning](https://semver.org/)
-* Voorkomen van [technical debt](https://en.wikipedia.org/wiki/Technical_debt), short term én long term
+* Gebruik van [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) voor verbetering van leesbaarheid, performance en onderhoudbaarheid
 * Gebruik van vrije (open-source) software waar mogelijk
 
 
