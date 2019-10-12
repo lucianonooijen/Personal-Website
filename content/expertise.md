@@ -84,6 +84,7 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
 
 * Specialiseren richting softwarearchitectuur en -design
+* Verder verdiepen in Go/Golang development
 * Functioneel programmeren met Elixir (+Phoenix framework)
 * Verdiepen in geavanceerde web security en het beveiligen van applicaties
 * Lezen van Clean Code, The Clean Coder en Clean Architecture (Robert C. Martin)
