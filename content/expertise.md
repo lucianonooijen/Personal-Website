@@ -11,9 +11,28 @@ Ik programmeer, tenzij het project anders vereist, volgens de Coding Standards v
 
 Sinds ongeveer een jaar vervul ik bij Bytecode de rol van Technical Lead. Dit betekent dat ik nog slechts een klein deel van mijn tijd nog zelf code schrijf, omdat ik me meer bezig hou met software architectuur, het design van de code op hoger niveau, het uitvoeren van code-reviews en het begeleiden van de developers bij Bytecode. Natuurlijk zijn er ook nog genoeg momenten waarop ik zelf code schrijf.
 
+## Werkwijze
+
+* *"Always choose the best tool for the job"*
+* Cloud- en applicatiestructuur aan de hand van [The Twelve-Factor App](https://12factor.net/)
+* Softwarearchitectuur via de principes van [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) en [Layered Architecture](https://en.wikipedia.org/wiki/Multitier_architecture)
+* Alles (zelfs [infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)) in versiebeheer (Git) via [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+* Projectmanagement via SCRUM/Agile principe, zonder onnodige meetings
+* Samenbrengen van Development, Security en Operations via [DevSecOps](https://www.devsecops.org/) en [secure by design](https://en.wikipedia.org/wiki/Secure_by_design)
+* Prioritiseren via de [MoSCoW methode](https://en.wikipedia.org/wiki/MoSCoW_method) en de [80 / 20 rule](https://en.wikipedia.org/wiki/Pareto_principle)
+* Ontwikkeling obv. Test-Driven Development (TDD)
+* Functional programming waar mogelijk
+* [SOLID](https://en.wikipedia.org/wiki/SOLID) en [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
+* Versioning volgens [Semantic Versioning](https://semver.org/)
+* Voorkomen van [technical debt](https://en.wikipedia.org/wiki/Technical_debt), short term én long term
+* Gebruik van vrije (open-source) software waar mogelijk
+
+
+## Gebruikte technologie
+
 De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
-## Web-development
+### Web-development
 
 * **Typescript/Javascript** (NodeJS, Express)
 * **ReactJS** (icm. Redux) en Angular 2+
@@ -24,7 +43,7 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 * Java, Scala
 * PHP (WordPress, Laravel, Magento 2)
 
-## Mobile development
+### Mobile development
 
 * **React Native** (Expo)
 * **Progressive Web Apps**
@@ -32,14 +51,14 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 * Flutter
 * Accelerated Mobile Pages
 
-## Databases
+### Databases
 
 * **PostgreSQL**
 * MySQL
 * NoSQL (MongoDB)
 * GraphQL
 
-## DevOps en Site Reliability Engineering
+### DevOps en Site Reliability Engineering
 
 * **Linux** (Arch, Ubuntu, CentOS)
 * **Docker** (Compose)
@@ -49,22 +68,6 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 * Cloud (DigitalOcean, AWS)
 * Nginx
 * Kubernetes
-
-## Werkwijze
-
-* *"Always choose the best tool for the job"*
-* Cloud- en applicatiestructuur aan de hand van [The Twelve-Factor App](https://12factor.net/)
-* Softwarearchitectuur via de principes van [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) en [Layered Architecture](https://en.wikipedia.org/wiki/Multitier_architecture)
-* Alles (zelfs [infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)) in versiebeheer (Git) via [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-* Projectmanagement via SCRUM/Agile principe, zonder onnodige meetings
-* Samenbrengen van Development, Security en Operations via [DevSecOps](https://www.devsecops.org/) en [secure by design](https://en.wikipedia.org/wiki/Secure_by_design)
-* Prioritiseren via de [MoSCoW methode](https://en.wikipedia.org/wiki/MoSCoW_method) en de [80/20 rule](https://en.wikipedia.org/wiki/Pareto_principle)
-* Ontwikkeling obv. Test-Driven Development (TDD)
-* Functional programming waar mogelijk
-* [SOLID](https://en.wikipedia.org/wiki/SOLID) en [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
-* Versioning volgens [Semantic Versioning](https://semver.org/)
-* Voorkomen van [technical debt](https://en.wikipedia.org/wiki/Technical_debt), short term én long term
-* Gebruik van vrije (open-source) software waar mogelijk
 
 <br>
 <hr>
