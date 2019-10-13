@@ -28,7 +28,7 @@ _Mijn voorkeur gaat uit naar een project met een initiële looptijd van 3-6 maan
 
 #### Technieken
 
-*Om de hoogt mogelijke waarde te leveren, door een kwalitatief hoge oplossing neer te zetten, is het voor mij belangrijk dat [<b>mijn werkwijze</b>](/expertise#werkwijze) bij projecten geïmplementeerd kan worden.*
+*Om de hoogst mogelijke waarde te leveren, door een kwalitatief hoge oplossing neer te zetten, is het voor mij belangrijk dat [<b>mijn werkwijze</b>](/expertise#werkwijze) bij projecten geïmplementeerd kan worden.*
 
 Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van een bedrijf, lead developers en/of software architecten, of waar ik een van deze rollen vervul.
 
