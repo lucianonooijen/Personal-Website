@@ -25,7 +25,7 @@ Sinds ongeveer een jaar vervul ik bij Bytecode de rol van Technical Lead. Dit be
 * Prioritiseren via de [MoSCoW methode](https://en.wikipedia.org/wiki/MoSCoW_method) en de [80 / 20 rule](https://en.wikipedia.org/wiki/Pareto_principle)
 * Ontwikkeling obv. Test-Driven Development (TDD)
 * Functional programming waar mogelijk
-* [SOLID](https://en.wikipedia.org/wiki/SOLID) en [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
+* [SOLID](https://en.wikipedia.org/wiki/SOLID), [KISS](https://en.wikipedia.org/wiki/KISS_principle) en [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
 * Versioning volgens [Semantic Versioning](https://semver.org/)
 * Gebruik van [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) voor verbetering van leesbaarheid, performance en onderhoudbaarheid
 * Gebruik van vrije (open-source) software waar mogelijk
@@ -46,7 +46,7 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
 ### Front-end frameworks
 
-* **ReactJS** (icm. Redux, Styled-Components) 
+* **ReactJS** (icm. Redux, Styled-Components)
 * GatsbyJS (ReactJS static site builder)
 * Angular 2+
 
