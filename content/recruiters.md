@@ -11,7 +11,7 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [over](/over)-p
 
 #### Beschikbaarheid en reistijd
 
-**Momenteel ben ik  _wel_/~~niet~~ beschikbaar voor een freelance opdracht (vanaf 1 januari 2020)**
+**Momenteel ben ik  ~~wel~~/~~niet~~/_vanaf 1 januari 2020_ beschikbaar voor een freelance opdracht**
 
 *Na jaren met plezier gewerkt te hebben als full-stack developer heb ik de ambitie om alleen nog projecten aan te nemen waarbij de focus sterk ligt op software architectuur, infrastructuur en systems integration.*
 
