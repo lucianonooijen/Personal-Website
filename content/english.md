@@ -39,45 +39,6 @@ In 2016 I became Anglia Proficiency certified, graded "Distinction". This implie
 
 When working on a project, I follow the [Bytecode Coding Standards](https://github.com/BytecodeBV/Coding-Standards), unless the projects require otherwise.
 
-The tools I work with most often are marked in **bold**.
-
-## Web-development
-
-* **Typescript/Javascript** (NodeJS, Express)
-* **ReactJS** (icm. Redux) en Angular 2+
-* Python, (Django, Flask)
-* Elixir (Phoenix)
-* Rust (Rocket, Diesel)
-* C# (.NET Core)
-* Java, Scala
-* PHP (WordPress, Laravel, Magento 2)
-
-## Mobile development
-
-* **React Native** (Expo)
-* **Progressive Web Apps**
-* Ionic 2+
-* Flutter
-* Accelerated Mobile Pages
-
-## Databases
-
-* **PostgreSQL**
-* MySQL
-* NoSQL (MongoDB)
-* GraphQL
-
-## DevOps and Site Reliability Engineering
-
-* **Linux** (Arch, Ubuntu, CentOS)
-* **Docker** (Compose)
-* **Ansible**
-* **CI/CD** (GitLab)
-* Terraform
-* Cloud (DigitalOcean, AWS)
-* Nginx
-* Kubernetes
-
 ## Working methodology
 
 * *"Always choose the best tool for the job"*
@@ -99,20 +60,12 @@ The tools I work with most often are marked in **bold**.
 
 # Relevant work experience
 
-### Eneco/Dept (Software engineer, freelance)
-
-##### May 2019 to -
-
-Through Dept/Bytecode I am currently working in a feature team, within the Eneco web-sales department, working on an innovative tool that will play a crucial role in the customer journey once finished.
-
-The technology stack used is mainly based on Typescript/Javascript and ReactJS. Project management is based around the Agile/Scrum philosophy. To ensure quality of the software, unit tests, integration tests and end-to-end tests are written for test-automation, and where possible, development is test-driven.
-
 ### Bytecode Digital Agency */ Co-founder, technical lead*
 
 ##### May 2018 to -
 
 
-At Bytecode, my activities are mostly focused on software architecture and working with clients and our business developers to translate concepts into working software that will last.
+At Bytecode, my activities are mostly focused on software architecture and working with clients and our business developers to translate concepts into working enterprise applications that will last.
 
 Currently, I am the person responsible for the quality of the code/software we deliver. My focus is to present the best possible solution for our clients, and to avoid creating technical debt. This responsibility also applies to our coding standards, internal software, cyber security and cloud infrastructure.
 
@@ -120,29 +73,19 @@ To read more about Bytecode, you can check [bytecode.nl](https://bytecode.nl).
 
 ###### Tools used (most frequently used in bold)
 
-* **Javascript/Typescript**: NodeJS, ReactJS (+Redux), React Native, Jest
-* **Python**: Django, Flask
 * **DevOps**: Ansible, Docker, Linux, Terraform, GitLab
+* **Backend**: Go, NodeJS/Deno, Elixir, Rust, Python
+* Frontend: Typescript, ReactJS (+Redux), React Native
 * Databases: PostgreSQL, MySQL
-* PHP: Laravel, WordPress, Magento 2
-* Misc: Elixir, Rust, Flutter
 
-###### Project selection
+### Eneco/Dept (Software engineer, freelance)
 
-*Selection of projects not under NDA*
+##### May 2019 to December 2019 (expected)
 
-* Internal infrastructure (DigitalOcean, Ansible, Terraform, Kubernetes)
-* Client infrastructure (DigitalOcean, Ansible, Terraform, Kubernetes)
-* Bytecode proposal/document generator (NodeJS, HTML/CSS)
-* [Mooiwerk Breda](https://mooiwerkbreda.nl) (NodeJS, WordPress, HTML/CSS)
-* Research-related Android app for Reinier de Graaf Hospital (Java, Elixir)
-* VitAPK mobile app iOS + Android (React Native, Expo)
-* Marketing page development for LG Netherlands (HTML/CSS)
-* Webshop [côte&ciel](https://coteetciel.com) (Magento 2, NodeJS)
-* Bytecode website (NodeJS, HTML/CSS)
-* Several open source projects on [GitHub](https://github.com/BytecodeOpenSource)
+Through Dept/Bytecode I am currently working in a feature team, within the Eneco web-sales department, working on an innovative tool that will play a crucial role in the customer journey once finished.
 
-<br>
+The technology stack used is mainly based on Typescript/Javascript and ReactJS. Project management is based around the Agile/Scrum philosophy. To ensure quality of the software, unit tests, integration tests and end-to-end tests are written for test-automation, and where possible, development is test-driven.
+
 
 ### Stager Software */ Front-end/full-stack developer*
 

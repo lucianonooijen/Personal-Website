@@ -8,51 +8,32 @@ h3 em { font-weight: 400; }
 h5 { margin-top: 0 !important; }
 </style>
 
-### Eneco/Dept */ Software Engineer, ad interim*
-
-##### 13-05-2019 tot HEDEN
-
-Via [Dept](https://deptagency.com) ben ik namens Bytecode werkzaam bij Eneco, waar ik onderdeel uitmaak van een feature team, binnen het grotere web-salesteam. Bij Eneco ontwikkel ik mee aan een tool die vanaf later dit jaar een cruciale rol zal gaan spelen in de customer-journey en een grote invloed heeft op de uitstraling van Eneco richting haar klanten en websitebezoekers.
-
-De technologie-"stack" waarmee gewerkt wordt is gebaseerd op Typescript/Javascript, waaronder ReactJS. Project management is gebaseerd op de Agile/Scrum-filosofie. Om de kwaliteit van de software te garanderen wordt er voor test-automation gebruik gemaakt van unit-tests, integration tests en end-to-end tests. Daarnaast wordt er waar mogelijk test-driven ontwikkeld.
-
 ### Bytecode Digital Agency */ Co-founder & technical lead*
 
 ##### 01-05-2018 tot HEDEN
 
-Nooijen Web Solutions bestond uit een team van samenwerkende freelancers. Echter merkten we dat dit met de steeds grotere projecten problemen op kon leveren, mede omdat we geen eigen kantoor hadden. Hierom is Bytecode Digital Agency B.V. opgericht. Hetzelfde team, maar dan een écht vast team (momenteel 6 vaste werknemers), in plaats van een groep freelancers. Vanaf 1 juli 2018 hebben wij een eigen pand in Delfgauw vanuit waar wij onze werkzaamheden verrichten.
+Nooijen Web Solutions bestond uit een team van samenwerkende freelancers. Echter merkten we dat dit met de steeds grotere projecten problemen op kon leveren, mede omdat we geen eigen kantoor hadden. Hierom is Bytecode Digital Agency B.V. opgericht. Hetzelfde team, maar dan een écht vast team (momenteel 9 vaste werknemers), in plaats van een groep freelancers. Vanaf 1 juli 2018 hebben wij een eigen pand in Delfgauw vanuit waar wij onze werkzaamheden verrichten.
 
-Bij Bytecode vervul ik de rol van lead-developer en ben ik eindverantwoordelijke voor vrijwel alles op technisch gebied en de geleverde producten. Daarnaast hou ik me ook bezig met DevOps en cloudcomputing.
+Bij Bytecode vervul ik de rol van lead-developer en ben ik eindverantwoordelijke voor vrijwel alles op technisch gebied en de geleverde producten. Daarnaast hou ik me bezig met DevOps en Site Reliability Engineering.
 
 Voor meer informatie over Bytecode, zie [bytecode.nl](https://bytecode.nl).
 
 ###### Gebruikte technieken (meest voorkomend in bold)
 
-* **Javascript/Typescript**: NodeJS, ReactJS (+Redux), React Native, Jest
-* **DevOps**: Ansible, Docker, Linux, Terraform
-* Python: Flask, Django
+* **DevOps**: Ansible, Docker, Linux, Terraform, GitLab
+* **Backend**: Go, NodeJS/Deno, Elixir, Rust, Python
+* Frontend: Typescript, ReactJS (+Redux), React Native
 * Databases: PostgreSQL, MySQL
-* PHP: Laravel, WordPress, Magento 2
-* Overig: Elixir, Rust
 
-_Om meer te lezen over de technieken waar ik momenteel veel mee werk, bekijk de [expertise-pagina](/expertise)._
+_Om meer te lezen over de technieken waar ik momenteel veel mee werk en mijn werkproces, bekijk de [expertise-pagina](/expertise)._
 
-###### Selectie van projecten
+### Eneco/Dept */ Software Engineer, ad interim*
 
-*Selectie van projecten waarvoor geen geheimhouding geldt*
+##### 13-05-2019 tot 31-12-2019 (verwacht)
 
-* Bytecode interne infrastructuur (DigitalOcean, Ansible, Terraform, Kubernetes)
-* Bytecode klanten infrastructuur  (DigitalOcean, Ansible, Terraform, Kubernetes)
-* Bytecode proposal/document generator (NodeJS, HTML/CSS)
-* [Mooiwerk Breda](https://mooiwerkbreda.nl) (NodeJS, WordPress, HTML/CSS)
-* Research-gerelateerde Android app voor Reinier de Graaf Gasthuis (Java, Elixir, ReactJS)
-* VitaliteitsAPK mobiele app iOS + Android (React Native + Expo, Redux)
-* Marketingpagina ontwikkeling voor LG Nederland (HTML/CSS)
-* Webshop [côte&ciel](https://coteetciel.com) (Magento 2, NodeJS, Docker)
-* Bytecode website (NodeJS, ReactJS, HTML/CSS)
-* Meerdere vrije (open-source) projecten op [GitHub](https://github.com/BytecodeAgency)
+Via [Dept](https://deptagency.com) ben ik namens Bytecode werkzaam bij Eneco, waar ik onderdeel uitmaak van een feature team, binnen het grotere web-salesteam. Bij Eneco ontwikkel ik mee aan een tool die vanaf later dit jaar een cruciale rol zal gaan spelen in de customer-journey en een grote invloed heeft op de uitstraling van Eneco richting haar klanten en websitebezoekers.
 
-<br>
+De technologie-"stack" waarmee gewerkt wordt is gebaseerd op Typescript/Javascript, waaronder ReactJS. Project management is gebaseerd op de Agile/Scrum-filosofie. Om de kwaliteit van de software te garanderen wordt er voor test-automation gebruik gemaakt van unit-tests, integration tests en end-to-end tests. Daarnaast wordt er waar mogelijk test-driven ontwikkeld.
 
 ### Stager Software */ Front-end/full-stack developer*
 
