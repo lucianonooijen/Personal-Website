@@ -39,7 +39,7 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
 * **Typescript/Javascript** (NodeJS, Express, Deno)
 * **Elixir** (Phoenix, OTP)
-* **Go** (Gin)
+* **Go** (Gin, Echo)
 * Rust (Rocket, Diesel)
 * Java, Scala (Play, Spring)
 * Python (Django, Flask)
