@@ -83,17 +83,19 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 ###### Waar ik momenteel mee bezig ben:
 
 * Onderzoek doen om voor Bytecode vaste "stacks" op te stellen voor ontwikkeling
-* Lezen van boeken gerelateerd aan het proces/management met softwareontwikkeling
-* Lezen van boeken gerelateerd aan productiviteit en soft-skills
+* Onderzoek naar gRPC en toepassingen binnen Bytecode
+* Research naar Compiler Engineering en gerelateerde zaken
+* Bekend raken met nieuwe programmeertalen zoals Haskell, Clojure, Elm
+* Verbeteringen binnen de infrastructuur van Bytecode, toepassen van SRE principes
 * Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
 
 * Specialiseren richting softwarearchitectuur en -design
 * Verder verdiepen in Go/Golang development
-* Functioneel programmeren met Elixir (+Phoenix framework)
-* Verdiepen in geavanceerde web security en het beveiligen van applicaties
-* Lezen van Clean Code, The Clean Coder en Clean Architecture (Robert C. Martin)
+* Specialisatie richting Site Reliability Engineering (SRE)
+* Lezen van boeken gerelateerd aan het proces/management met softwareontwikkeling
+* Lezen van boeken gerelateerd aan productiviteit en soft-skills
 * Low-level web programming met Rust (icm Rocket)
 * Lezen van Start With Why en soortgelijke boeken richting startup-branding
 * Verdiepen in compilers en assembly Language(s)
@@ -101,9 +103,10 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 ###### Wat ik nog wil gaan leren (meest noemenswaardig):
 
-* Functioneel front-end web development met Elm, ReasonML of ClosureScript
-* Full-stack ontwikkeling met het Lisp-dialect Clojure (en dus ClojureScript)
-* WebAssembly, icm. Rust, Go en C
+* Systems programming met Rust
+* Bekend raken met Erlang, OCaml en Smalltalk
+* Functioneel front-end web development met Elm, ReasonML en/of ClosureScript
+* WebAssembly, icm. Rust, Go en/of C
 * Artificial Intelligence en Neural Networks met Tensorflow
 
 <br>
