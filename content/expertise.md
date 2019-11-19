@@ -104,7 +104,7 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 ###### Wat ik nog wil gaan leren (meest noemenswaardig):
 
 * Systems programming met Rust
-* Bekend raken met Erlang, OCaml en Smalltalk
+* Bekend raken met Erlang, OCaml, C++, Dart, F# en Smalltalk voor onderzoeksdoeleinden
 * Functioneel front-end web development met Elm, ReasonML en/of ClosureScript
 * WebAssembly, icm. Rust, Go en/of C
 * Artificial Intelligence en Neural Networks met Tensorflow
