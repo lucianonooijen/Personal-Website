@@ -27,13 +27,21 @@ Voor meer informatie over Bytecode, zie [bytecode.nl](https://bytecode.nl).
 
 _Om meer te lezen over de technieken waar ik momenteel veel mee werk en mijn werkproces, bekijk de [expertise-pagina](/expertise)._
 
+### Eneco/Dept */ Software Consultant, ad interim*
+
+##### 01-01-2020 tot HEDEN
+
+Na afronding van de initiele ontwikkeling ben ik gevraagd om advies en support te blijven leveren in de periode van opschalen richting grootschalige livegang. Dit houdt in dat ik zorg voor een overdracht van support vanuit het feature-team richting een groter, reeds bestaand team.
+
+Mijn werkzaamheden hierin bestaan vooral uit het verbeteren van de bestaande structuur, documenteren van het gebouwde product, het uitvoeren van code reviews en ondersteuning leveren waar daar behoefte aan is.
+
 ### Eneco/Dept */ Software Engineer, ad interim*
 
-##### 13-05-2019 tot 31-12-2019 (verwacht)
+##### 13-05-2019 tot 31-12-2019
 
 Via [Dept](https://deptagency.com) ben ik namens Bytecode werkzaam bij Eneco, waar ik onderdeel uitmaak van een feature team, binnen het grotere web-salesteam. Bij Eneco ontwikkel ik mee aan een tool die vanaf later dit jaar een cruciale rol zal gaan spelen in de customer-journey en een grote invloed heeft op de uitstraling van Eneco richting haar klanten en websitebezoekers.
 
-De technologie-"stack" waarmee gewerkt wordt is gebaseerd op Typescript/Javascript, waaronder ReactJS. Project management is gebaseerd op de Agile/Scrum-filosofie. Om de kwaliteit van de software te garanderen wordt er voor test-automation gebruik gemaakt van unit-tests, integration tests en end-to-end tests. Daarnaast wordt er waar mogelijk test-driven ontwikkeld.
+De technologie-"stack" waarmee gewerkt wordt is gebaseerd op Typescript/Javascript, waaronder ReactJS, Redux en Styled-Components. Project management is gebaseerd op de Agile/Scrum-filosofie. Om de kwaliteit van de software te garanderen wordt er voor test-automation gebruik gemaakt van unit-tests, integration tests en end-to-end tests. Daarnaast wordt er waar mogelijk test-driven ontwikkeld.
 
 ### Stager Software */ Front-end/full-stack developer*
 
