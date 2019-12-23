@@ -39,9 +39,11 @@ Mijn werkzaamheden hierin bestaan vooral uit het verbeteren van de bestaande str
 
 ##### 13-05-2019 tot 31-12-2019
 
-Via [Dept](https://deptagency.com) ben ik namens Bytecode werkzaam bij Eneco, waar ik onderdeel uitmaak van een feature team, binnen het grotere web-salesteam. Bij Eneco ontwikkel ik mee aan een tool die vanaf later dit jaar een cruciale rol zal gaan spelen in de customer-journey en een grote invloed heeft op de uitstraling van Eneco richting haar klanten en websitebezoekers.
+Via [DEPT](https://deptagency.com) heb ik bij Eneco meegeholpen aan de ontwikkeling van een tool die een cruciale rol zal gaan spelen in de customer-journey van Eneco, door klanten een persoonlijk advies te kunnen geven om te verduurzamen, gebaseerd op hun "profiel" en woonsituatie.
 
-De technologie-"stack" waarmee gewerkt wordt is gebaseerd op Typescript/Javascript, waaronder ReactJS, Redux en Styled-Components. Project management is gebaseerd op de Agile/Scrum-filosofie. Om de kwaliteit van de software te garanderen wordt er voor test-automation gebruik gemaakt van unit-tests, integration tests en end-to-end tests. Daarnaast wordt er waar mogelijk test-driven ontwikkeld.
+Hiernaast ben ik betrokken geweest bij platformbrede verbeteringen in de front-end. Ik ben betrokken geweest bij het versnellen van de ontwikkelomgeving en het integreren van Redux binnen de codebase. Hiernaast heb ik advies geleverd over de source-code-architectuur van de front-end.
+
+De technologie-“stack” waarmee gewerkt wordt is gebaseerd op Typescript/Javascript, waaronder ReactJS, Redux en Styled-Components. Project management is gebaseerd op de Agile/Scrum-filosofie. Om de kwaliteit van de software te garanderen wordt er voor test-automation gebruik gemaakt van unit-tests, integration tests en end-to-end tests (met Jest, Enzyme en Cypress). Daarnaast wordt er waar mogelijk test-driven ontwikkeld.
 
 ### Stager Software */ Front-end/full-stack developer*
 
