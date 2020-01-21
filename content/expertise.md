@@ -40,8 +40,6 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 * **Typescript/Javascript** (NodeJS, Express, Deno)
 * **Elixir** (Phoenix, OTP)
 * **Go** (Gin, Echo)
-* Rust (Rocket, Diesel)
-* Java, Scala (Play, Spring)
 * Python (Django, Flask)
 
 ### Front-end frameworks
@@ -53,7 +51,7 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 ### Mobile development
 
 * **React Native** (Expo)
-* **Progressive Web Apps**
+* Progressive Web Apps
 * Flutter
 
 ### Databases
