@@ -80,28 +80,25 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 ###### Waar ik momenteel mee bezig ben:
 
+* Verbeteringen binnen de infrastructuur van Bytecode, toepassen van Site Reliability Engineering (SRE) principes
 * Onderzoek doen om voor Bytecode vaste "stacks" op te stellen voor ontwikkeling
-* Onderzoek naar gRPC en toepassingen binnen Bytecode
-* Research naar Compiler Engineering en gerelateerde zaken
-* Bekend raken met nieuwe programmeertalen zoals Haskell, Clojure, Elm
-* Verbeteringen binnen de infrastructuur van Bytecode, toepassen van SRE principes
+* Bekend raken met de programmeertalen Haskell, Clojure en Elm
 * Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
 
-* Specialiseren richting softwarearchitectuur en -design
-* Verder verdiepen in Go/Golang development
-* Specialisatie richting Site Reliability Engineering (SRE)
+* Verder verdiepen in Go/Golang development voor enterprise applications
+* Specialisatie richting softwarearchitectuur/-design en SRE
+* Lezen van boeken gerelateerd aan productiviteit, management en soft-skills
 * Lezen van boeken gerelateerd aan het proces/management met softwareontwikkeling
-* Lezen van boeken gerelateerd aan productiviteit en soft-skills
-* Low-level web programming met Rust (icm Rocket)
-* Lezen van Start With Why en soortgelijke boeken richting startup-branding
-* Verdiepen in compilers en assembly Language(s)
+* Lezen van Start With Why en soortgelijke boeken richting startup-branding en missiedefinitie
+* Verdiepen in compilers en assembly language(s)
 * Kubernetes in production
 
 ###### Wat ik nog wil gaan leren (meest noemenswaardig):
 
 * Systems programming met Rust
+* Embedded programming met C, C++ en/of Rust
 * Bekend raken met Erlang, OCaml, C++, Dart, F# en Smalltalk voor onderzoeksdoeleinden
 * Functioneel front-end web development met Elm, ReasonML en/of ClosureScript
 * WebAssembly, icm. Rust, Go en/of C
