@@ -29,7 +29,7 @@ _Om meer te lezen over de technieken waar ik momenteel veel mee werk en mijn wer
 
 ### Eneco/Dept */ Software Consultant, ad interim*
 
-##### 01-01-2020 tot HEDEN
+##### 01-01-2020 tot 31-03-2020
 
 Na afronding van de initiele ontwikkeling ben ik gevraagd om advies en support te blijven leveren in de periode van opschalen richting grootschalige livegang. Dit houdt in dat ik zorg voor een overdracht van support vanuit het feature-team richting een groter, reeds bestaand team.
 
