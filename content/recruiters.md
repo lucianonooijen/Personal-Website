@@ -18,7 +18,7 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [over](/over)-p
 Mijn beschikbaarheid per week is (vanaf 1 januari 2020):
 
 * In verband met mijn lead-werkzaamheden bij Bytecode in totaal 24 uur per week
-* Maximaal 1 dag (of 2 halve dagen) bij de klant on-site (tijdens de eerste weken maximaal 2 dagen)
+* Maximaal 2 dagen (of 3 halve dagen) bij de klant on-site
 * Hiernaast maximaal 2 dagen remote
 
 Momenteel hanteer ik een uurtarief van €130. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
