@@ -15,10 +15,10 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [over](/over)-p
 
 *Na jaren met plezier gewerkt te hebben als full-stack developer heb ik de ambitie om alleen nog projecten aan te nemen waarbij de focus sterk ligt op software architectuur, infrastructuur en systems integration.*
 
-Mijn beschikbaarheid per week is (vanaf 1 januari 2020):
+Mijn beschikbaarheid per week is momenteel:
 
 * In verband met mijn lead-werkzaamheden bij Bytecode in totaal 24 uur per week
-* Maximaal 2 dagen (of 3 halve dagen) bij de klant on-site
+* ~~Maximaal 2 dagen (of 3 halve dagen) bij de klant on-site~~ _In verband met de coronacrisis ben ik momenteel alleen remote beschikbaar_
 * Hiernaast maximaal 2 dagen remote
 
 Momenteel hanteer ik een uurtarief van €130. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
@@ -61,7 +61,7 @@ Zo liggen mijn interesses vooral bij:
 * Bedrijven _moderniseren_ op IT-gebied (bv. van on-premise applicaties naar microservices in public cloud)
 * _Start-ups_ waarbij software de main-focus is, waarbij er belangrijke beslissingen rondom _software-architectuur_ gemaakt moeten worden
 
-_Ik sta open voor zowel greenfield als brownfield projecten, waarbij mijn voorkeur uitgaat naar [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
+_Ik sta open voor zowel greenfield als brownfield projecten, met een voorkeur voor [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
 
 #### Team en mindset
 
