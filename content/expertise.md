@@ -37,9 +37,9 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
 ### Back-end/server
 
+* **Go** (Gin, Echo)
 * **Typescript/Javascript** (NodeJS, Express, Deno)
 * **Elixir** (Phoenix, OTP)
-* **Go** (Gin, Echo)
 * Python (Django, Flask)
 
 ### Front-end frameworks
@@ -81,8 +81,8 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 ###### Waar ik momenteel mee bezig ben:
 
 * Verbeteringen binnen de infrastructuur van Bytecode, toepassen van Site Reliability Engineering (SRE) principes
-* Onderzoek doen om voor Bytecode vaste "stacks" op te stellen voor ontwikkeling
-* Bekend raken met de programmeertalen Haskell, Clojure en Elm
+* Maken van code-generation tools voor React en Redux met als doel uniformere codebases binnen Bytecode en minder handmatige boilerplate code
+* Onderzoek doen om voor Bytecode vaste "stacks" op te stellen voor ontwikkeling en het beter vastleggen van guidelines
 * Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
@@ -92,11 +92,12 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 * Lezen van boeken gerelateerd aan productiviteit, management en soft-skills
 * Lezen van boeken gerelateerd aan het proces/management met softwareontwikkeling
 * Lezen van Start With Why en soortgelijke boeken richting startup-branding en missiedefinitie
-* Verdiepen in compilers en assembly language(s)
+* Verdiepen in compiler engineering en assembly language(s)
 * Kubernetes in production
 
 ###### Wat ik nog wil gaan leren (meest noemenswaardig):
 
+* Beter bekend raken met de puur functionele programmeertalen Haskell en Elm
 * Systems programming met Rust
 * Embedded programming met C, C++ en/of Rust
 * Bekend raken met Erlang, OCaml, C++, Dart, F# en Smalltalk voor onderzoeksdoeleinden
