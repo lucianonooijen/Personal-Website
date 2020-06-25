@@ -35,18 +35,21 @@ Sinds ongeveer een jaar vervul ik bij Bytecode de rol van Technical Lead. Dit be
 
 De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
-### Back-end/server
+### Webdevelopment
 
-* **Go** (Gin, Echo)
-* **Typescript/Javascript** (NodeJS, Express, Deno)
-* **Elixir** (Phoenix, OTP)
-* Python (Django, Flask)
+##### Back-end/server
 
-### Front-end frameworks
+* **Golang** (Gin, Echo)
+* Typescript (NodeJS, Express, Deno)
+* Kotlin/Java (Spring Boot)
+* Elixir (Phoenix, OTP)
 
-* **ReactJS** (icm. Redux, Styled-Components)
-* GatsbyJS (ReactJS static site builder)
-* Angular 2+
+_Met veelal **PostgreSQL** als achterliggende database._
+
+##### Front-end
+
+* **React+Typescript** (icm. Redux, Styled-Components, NextJS)
+* Elm
 
 ### Mobile development
 
@@ -54,21 +57,21 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 * Progressive Web Apps
 * Flutter
 
-### Databases
-
-* **PostgreSQL**
-* MySQL
-* NoSQL (MongoDB)
-
-### DevOps en Site Reliability Engineering
+### Site Reliability Engineering en DevOps
 
 * **Linux** (Arch, Ubuntu, CentOS)
 * **Infrastructure and provisioning** (Ansible, Terraform, Shell)
-* **CI/CD** (GitLab)
 * **Systems integration**
+* CI/CD (GitLab)
 * Docker en Kubernetes
 * Cloud (DigitalOcean, AWS)
 * Nginx
+
+### Domain specific
+
+* **Compilers, parsers, DSLs**: Golang, Rust, Haskell
+* Systems programming: Rust, Golang, C
+* Data science: SQL, Python, Scala, Javascript, R
 
 <br>
 <hr>
@@ -81,8 +84,11 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 ###### Waar ik momenteel mee bezig ben:
 
 * Verbeteringen binnen de infrastructuur van Bytecode, toepassen van Site Reliability Engineering (SRE) principes
-* Maken van code-generation tools voor React en Redux met als doel uniformere codebases binnen Bytecode en minder handmatige boilerplate code
+* Bouwen van een centraal API-systeem (REST en gRPC) voor Bytecode, bestaande uit verschillende microservices.
+* Maken van code-generation tools voor project scaffolding (oa. React en Redux) met als doel uniformere codebases binnen Bytecode en minder handmatige boilerplate code
+* Bouwen van een tool binnen Bytecode om, met een domain specific language, import boundries te definieren en te testen
 * Onderzoek doen om voor Bytecode vaste "stacks" op te stellen voor ontwikkeling en het beter vastleggen van guidelines
+* Zelf-educatie richting de fundamenten van Computer Science en Computational Science and Engineering
 * Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):

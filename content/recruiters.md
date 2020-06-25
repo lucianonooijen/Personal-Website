@@ -18,7 +18,7 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [over](/over)-p
 Mijn beschikbaarheid per week is momenteel:
 
 * In verband met mijn lead-werkzaamheden bij Bytecode in totaal 24 uur per week
-* ~~Maximaal 2 dagen (of 3 halve dagen) bij de klant on-site~~ _In verband met de coronacrisis ben ik momenteel alleen remote beschikbaar_
+* Maximaal 1 dag (of 2 halve dagen) bij de klant on-site
 * Hiernaast maximaal 2 dagen remote
 
 Momenteel hanteer ik een uurtarief van €130. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
@@ -35,7 +35,7 @@ Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van 
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken, of een project waar deze technieken geïmplementeerd kunnen worden:
 
-* Typescript, Elixir, Java of Go voor de back-end
+* Golang, Typescript of Kotlin/Java voor de back-end
 * ReactJS (+Redux) voor de front-end
 * React Native (+Expo) voor mobile
 * DevOps/Cloud-automatisering met Linux-omgevingen
@@ -54,6 +54,7 @@ Ik hou erg van afwisseling, dus heb ik geen sterke voorkeur om in een bepaalde s
 Zo liggen mijn interesses vooral bij:
 
 * _Software architectuur_ en het bepalen van de richting op technisch gebied binnen bedrijven
+* Het _uitdenken_ en _ontwikkelen_ van interne tools om (development)-processen te verbeteren en versnellen
 * _Consultancy_ op IT-gebied, en het opstellen en vertalen van requirements tot de beste technische invulling
 * Het _begeleiden van teams_ binnen een bedrijf en _technisch project management_, door de rol van _technical lead_ te vervullen.
 * _IT-automatisering_ binnen een bedrijf en _systems integration_ (koppelingen maken tussen verschillende applicaties)
