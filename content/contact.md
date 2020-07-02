@@ -3,15 +3,15 @@ title = "Contact"
 slug = "contact"
 +++
 
-Ik ben het beste per mail bereikbaar [luciano@bytecode.nl](mailto:luciano@bytecode.nl). Voor telefonisch contact kan het beste een belafspraak gepland worden.
+I can best be reached by e-mail [luciano@bytecode.nl](mailto:luciano@bytecode.nl). For telephone contact it is best to make an appointment.
 
-Linken? [Voeg me gerust toe](https://www.linkedin.com/in/lucianonooijen/).
+Linken? [Feel free to add me](https://linkedin.com/in/lucianonooijen).
 
-Ook ben ik te vinden op [GitHub](https://github.com/lucianonooijen/).
+I can also be found on [GitHub](https://github.com/lucianonooijen/).
 
-## Belafspraak plannen
+## Schedule a call appointment
 
-Helaas kan ik niet de gehele dag telefonisch bereikbaar zijn. Met de onderstaande widget kan een belafspraak gemaakt worden
+Unfortunately, I can't be reached by phone all day. With the widget below you can make a call appointment.
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/lucianonooijen" style="min-width:320px;height:630px;"></div>

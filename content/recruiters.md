@@ -79,4 +79,3 @@ Of het team Engels-sprekend of Nederlands-sprekend is maakt voor mij niet uit, o
 Voor vragen, of voor een kennismaking ben ik te per email te bereiken op [luciano@bytecode.nl](mailto:luciano@bytecode.nl), of ga naar de [contactpagina](/contact) om een belafspraak in te plannen.
 
 Linken? [Voeg me gerust toe](https://www.linkedin.com/in/lucianonooijen/).
-
