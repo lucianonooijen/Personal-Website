@@ -3,79 +3,82 @@ title = "Recruiters"
 slug = "recruiters"
 +++
 
-#### Introductie
+[Klik hier voor de Nederlandse versie](/recruiters-nl)
 
-Omdat mijn beschikbaarheid en wensen voor projecten regelmatig veranderen, heb ik deze pagina op mijn website toegevoegd, speciaal voor recruiters, waarop ik antwoord kan geven op de meeste vragen.
+#### Introduction
 
-Om te lezen over mij als persoon en mijn achtergrond, ga naar de [over](/over)-pagina.
+Because my availability and preferences for projects change regularly, I have added this page to my website, specifically for recruiters, where I can answer most questions.
 
-#### Beschikbaarheid en reistijd
+To read about me as a person and my background, go to the [about](/over)-page.
 
-**Momenteel ben ik  wel/~~niet~~ beschikbaar voor een freelance opdracht**
+### Availability and travel time
 
-*Na jaren met plezier gewerkt te hebben als full-stack developer heb ik de ambitie om alleen nog projecten aan te nemen waarbij de focus sterk ligt op software architectuur, infrastructuur en systems integration.*
+**Currently I am/~not~ available for a freelance assignment**.
 
-Mijn beschikbaarheid per week is momenteel:
+*After years of enjoying work as a full-stack developer, I have the ambition to only take on projects with a strong focus on software architecture, infrastructure and systems integration.*
 
-* In verband met mijn lead-werkzaamheden bij Bytecode in totaal 24 uur per week
-* Maximaal 1 dag (of 2 halve dagen) bij de klant on-site
-* Hiernaast maximaal 2 dagen remote
+My availability per week is currently:
 
-Momenteel hanteer ik een uurtarief van €130. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
+* In the context of my lead work at Bytecode a total of 24 hours a week
+* Maximum 1 day (or 2 half days) at the customer's site
+* In addition a maximum of 2 days remote
 
-Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 20 minuten met de auto.
+Currently I have an hourly rate of €130. This hourly rate includes travel and accommodation costs, and excludes sales tax.
 
-_Mijn voorkeur gaat uit naar een project met een initiële looptijd van 3-6 maanden, met verlenging in overleg_.
+I live in Delfgauw, and am open for projects with a maximum travel time of 20 minutes by car.
 
-#### Technieken
+_My preference is for a project with an initial duration of 3-6 months, with extension in consultation_.
 
-*Om de hoogst mogelijke waarde te leveren, door een kwalitatief hoge oplossing neer te zetten, is het voor mij belangrijk dat [<b>mijn werkwijze</b>](/expertise#werkwijze) bij projecten geïmplementeerd kan worden.*
+#### Techniques
 
-Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van een bedrijf, lead developers en/of software architecten, of waar ik een van deze rollen vervul.
+*In order to deliver the highest possible value by delivering a high quality solution, it is important to me that [<b>my working method</b>](/expertise#working method) can be implemented in projects.*
 
-Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken, of een project waar deze technieken geïmplementeerd kunnen worden:
+My preference is for projects where I work closely with the CTO/CIO of a company, lead developers and/or software architects, or where I fulfill one of these roles.
 
-* Golang, Typescript of Kotlin/Java voor de back-end
-* ReactJS (+Redux) voor de front-end
-* React Native (+Expo) voor mobile
-* DevOps/Cloud-automatisering met Linux-omgevingen
+Currently I am available for a project with one or more of the following techniques, or a project where these techniques can be implemented:
+
+* Golang, Typescript or Kotlin/Java for the back-end.
+* ReactJS (+Redux) for the front-end
+* React Native (+Expo) for mobile
+* DevOps/Cloud automation with Linux environments
 * Site Reliability Engineering
 
-_Helaas is het voor mij niet mogelijk om te werken met omgevingen waarvoor het Windows-besturingsysteem benodigd is._
+_Unfortunately it is not possible for me to work with environments that require the Windows operating system._
 
-Als er hiernaast ook nog focus zou liggen op security-aspecten, zou dat helemaal top zijn.
+If there were also a focus on security aspects, that would be ideal.
 
-Om meer te lezen over mijn skillset, ga naar de [expertise-pagina](/expertise). Hier wordt ook mijn werkwijze verder toegelicht.
+To read more about my skillset, go to the [expertise page](/expertise). Here, my working method is also explained in more detail.
 
-#### Werkzaamheden en sector
+#### Work and sector
 
-Ik hou erg van afwisseling, dus heb ik geen sterke voorkeur om in een bepaalde sector aan de slag te gaan, of in een specifieke rol die ik in zou nemen, maar ik heb natuurlijk wel zaken die me voornamelijk interesseren.
+I like variety very much, so I don't have a strong preference to work in a certain sector, or in a specific role that I would take on, but of course I have things that mainly interest me.
 
-Zo liggen mijn interesses vooral bij:
+My interests are mainly:
 
-* _Software architectuur_ en het bepalen van de richting op technisch gebied binnen bedrijven
-* Het _uitdenken_ en _ontwikkelen_ van interne tools om (development)-processen te verbeteren en versnellen
-* _Consultancy_ op IT-gebied, en het opstellen en vertalen van requirements tot de beste technische invulling
-* Het _begeleiden van teams_ binnen een bedrijf en _technisch project management_, door de rol van _technical lead_ te vervullen.
-* _IT-automatisering_ binnen een bedrijf en _systems integration_ (koppelingen maken tussen verschillende applicaties)
-* Bijdragen aan _open-source/vrije software-projecten_ van bedrijven
-* Bedrijven _moderniseren_ op IT-gebied (bv. van on-premise applicaties naar microservices in public cloud)
-* _Start-ups_ waarbij software de main-focus is, waarbij er belangrijke beslissingen rondom _software-architectuur_ gemaakt moeten worden
+* _Software architecture_ and determining the direction in the technical field within companies
+* The _inventing_ and _developing_ of internal tools to improve and accelerate (development) processes.
+* _Consultancy_ in the IT field, and creating and translating requirements into the best technical interpretation
+* Supervising teams_ within a company and _technical project management_, by fulfilling the role of _technical lead_.
+* _IT automation_ within a company and _systems integration_ (creating links between different applications)
+* Contributions to _open-source/free software projects_ of companies
+* Businesses _modernise_ in IT (e.g. from on-premise applications to microservices in public cloud)
+* _Startups_ where software is the main focus, where important decisions have to be made about _software architecture_.
 
-_Ik sta open voor zowel greenfield als brownfield projecten, met een voorkeur voor [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
+_I am open to both greenfield and brownfield projects, with a preference for [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
 
-#### Team en mindset
+#### Team and mindset
 
-Net zo belangrijk als de werkzaamheden, vind ik het team en de mindset.
+Just as important as the work, I find the team and the mindset.
 
-Omdat ik erg gepassioneerd ben over wat ik doe, vind ik het belangrijk dat de mensen waarmee ik werk dit ook zijn, omdat ik geloof dat dat dé manier is om het allerbeste resultaat te behalen.
+Because I'm very passionate about what I do, I think it's important that the people I work with are too, because I believe that's the way to achieve the very best results.
 
-Binnen een team vind ik het belangrijk dat er een cultuur heerst die motiveert om schone code te schrijven en waar kwaliteit van de software voorop staat, dus een mindset die aansluit op [mijn werkwijze](https://lucianonooijen.nl/expertise/#werkwijze).
+Within a team, I find it important that there is a culture that motivates people to write clean code and where quality of the software is paramount, so a mindset that fits [my way of working](https://lucianonooijen.nl/expertise/#werkwijze).
 
-Of het team Engels-sprekend of Nederlands-sprekend is maakt voor mij niet uit, omdat ik de Engelse taal op near-native niveau beheers.
+Whether the team is English-speaking or Dutch-speaking does not matter to me, because I master the English language on a near-native level.
 
-#### Vragen of contact
+### Questions or contact
 
-Voor vragen, of voor een kennismaking ben ik te per email te bereiken op [luciano@bytecode.nl](mailto:luciano@bytecode.nl), of ga naar de [contactpagina](/contact) om een belafspraak in te plannen.
+For questions, or for an introduction I can be reached by email at [luciano@bytecode.nl](mailto:luciano@bytecode.nl), or go to the [contact page](/contact) to schedule an appointment.
 
-Linken? [Voeg me gerust toe](https://www.linkedin.com/in/lucianonooijen/).
+Linking? [Feel free to add me](https://www.linkedin.com/in/lucianonooijen/).
+

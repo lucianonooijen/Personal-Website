@@ -57,22 +57,22 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 1
     url  = "/"
 [[menu.main]]
-    name = "Over"
-    weight = 1
-    url  = "/over/"
+    name = "About"
+    weight = 2
+    url  = "/about/"
 [[menu.main]]
     name = "Expertise"
-    weight = 2
+    weight = 3
     url = "/expertise/"
 [[menu.main]]
-    name = "Ervaring"
-    weight = 3
-    url = "/ervaring/"
+    name = "Experience"
+    weight = 4
+    url = "/experience/"
 # [[menu.main]]
 #     name = "Blog"
-#     weight = 4
+#     weight = 5
 #     url = "/blog/"
 [[menu.main]]
     name = "Contact"
-    weight = 5
+    weight = 6
     url = "/contact/"

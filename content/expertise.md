@@ -39,7 +39,7 @@ The techniques I'm currently working with the most are in **bold**.
 
 ##### Backend/server
 
-* Golang** (Gin, Echo)
+* **Golang** (Gin, Echo)
 * Typescript (NodeJS, Express, Deno)
 * Kotlin/Java (Spring Boot)
 * Elixir. (Phoenix, OTP)
@@ -48,20 +48,20 @@ With mostly **PostgreSQL** as the underlying database._
 
 ##### Front-end
 
-**React+Typescript** (icm. Redux, Styled-Components, NextJS)
+* **React+Typescript** (icm. Redux, Styled-Components, NextJS)
 * Elm
 
 ### Mobile development
 
-**React Native** (Expo)
+* **React Native** (Expo)
 * Progressive Web Apps
 * Flutter
 
 ### Site Reliability Engineering and DevOps
 
-**Linux** (Arch, Ubuntu, CentOS)
+* **Linux** (Arch, Ubuntu, CentOS)
 * **Infrastructure and provisioning** (Ansible, Terraform, Shell)
-**Systems integration**
+* **Systems integration**
 * CI/CD(GitLab)
 * Docker and Kubernetes
 * Cloud (DigitalOcean, AWS)
@@ -69,7 +69,7 @@ With mostly **PostgreSQL** as the underlying database._
 
 ### Domain specific
 
-**Compilers, parsers, DSLs**: Golang, Rust, Haskell
+* **Compilers, parsers, DSLs**: Golang, Rust, Haskell
 * Systems programming: Rust, Golang, C
 * Data science: SQL, Python, Scala, Javascript, R
 
