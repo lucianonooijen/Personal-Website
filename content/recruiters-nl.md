@@ -1,6 +1,6 @@
 +++
-title = "Recruiters"
-slug = "recruiters"
+title = "Recruiters (Nederlands)"
+slug = "recruiters-nl"
 +++
 
 [Click here to read in English](/recruiters)

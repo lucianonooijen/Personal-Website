@@ -42,7 +42,7 @@ The techniques I'm currently working with the most are in **bold**.
 * **Golang** (Gin, Echo)
 * Typescript (NodeJS, Express, Deno)
 * Kotlin/Java (Spring Boot)
-* Elixir. (Phoenix, OTP)
+* Elixir (Phoenix, OTP)
 
 With mostly **PostgreSQL** as the underlying database._
 
@@ -79,7 +79,7 @@ With mostly **PostgreSQL** as the underlying database._
 
 #### Personal development
 
-As a developer, it is important to always continue to learn and to make sure you keep up with the latest techniques. For this reason I spend one day a week on self-education.
+As a developer, it is important to always continue to learn and to make sure you keep up with the technological advancements. For this reason I spend at least one day a week on self-education.
 
 ###### What I am currently working on:
 

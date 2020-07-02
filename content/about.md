@@ -43,7 +43,6 @@ In my spare time I like to watch American Football (New York Giants) or baseball
 
 #### Website
 
-The source code of this website is made available on my [Github-profile](https://github.com/lucianonooijen/personal-website) under MIT license.
+The source code of this website is made available on my [Github profile](https://github.com/lucianonooijen/personal-website) under MIT license.
 
-This website was developed in static website generator Hugo (written in GoLang).
-
+This website was developed using the static website generator Hugo (written in GoLang).

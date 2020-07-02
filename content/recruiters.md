@@ -13,7 +13,7 @@ To read about me as a person and my background, go to the [about](/over)-page.
 
 ### Availability and travel time
 
-**Currently I am/~not~ available for a freelance assignment**.
+**Currently I am open to new freelance/contract work**
 
 *After years of enjoying work as a full-stack developer, I have the ambition to only take on projects with a strong focus on software architecture, infrastructure and systems integration.*
 
@@ -25,13 +25,13 @@ My availability per week is currently:
 
 Currently I have an hourly rate of €130. This hourly rate includes travel and accommodation costs, and excludes sales tax.
 
-I live in Delfgauw, and am open for projects with a maximum travel time of 20 minutes by car.
+I live in Delfgauw (Netherlands), and am open for projects with a maximum travel time of 20 minutes by car.
 
 _My preference is for a project with an initial duration of 3-6 months, with extension in consultation_.
 
 #### Techniques
 
-*In order to deliver the highest possible value by delivering a high quality solution, it is important to me that [<b>my working method</b>](/expertise#working method) can be implemented in projects.*
+*In order to deliver the highest possible value by delivering a high quality solution, it is important to me that <b>[my working method](/expertise#working-method)</b> can be implemented in projects.*
 
 My preference is for projects where I work closely with the CTO/CIO of a company, lead developers and/or software architects, or where I fulfill one of these roles.
 
