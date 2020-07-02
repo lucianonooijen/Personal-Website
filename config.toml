@@ -12,9 +12,9 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Luciano Nooijen" # Author's name.
-    info = "Technical Lead @ Bytecode || Web, Mobile and Cloud Consultant" # Author's job title or info.
-    description = "Mijn naam is Luciano Nooijen, Technical Lead bij Bytecode, een mede door mij opgerichte digital agency" # Site description.
-    keywords = "luciano,nooijen,luciano nooijen,bytecode,bytecode agency" # Site keywords.
+    info = "Technical Lead at Bytecode && Computer Science enthousiast" # Author's job title or info.
+    description = "My name is Luciano Nooijen, Technical Lead at Bytecode Digital Agency and Computer Science enthousiast" # Site description.
+    keywords = "luciano nooijen, luciano, nooijen, bytecode, bytecode agency" # Site keywords.
 
     # disqusShortname = "lucianonooijen" # Enable or disable Disqus
     disqusShortname = "" # Enable or disable Disqus
@@ -35,7 +35,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 1
     url = "mailto:luciano@bytecode.nl"
 [[params.social]]
-    name = "Telefoon"
+    name = "Phone"
     weight = 2
     url = "/contact/"
 [[params.social]]
@@ -47,8 +47,12 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 4
     url = "https://twitter.com/lucianonooijen/"
 [[params.social]]
-    name = "LinkedIn"
+    name = "Instagram"
     weight = 5
+    url = "https://instagram.com/lucianonooijen.nl/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 6
     url = "https://www.linkedin.com/in/lucianonooijen/"
 
 # Menu links
