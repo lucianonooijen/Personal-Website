@@ -1,7 +1,7 @@
 baseurl = "https://lucianonooijen.nl" # Hostname (and path) to the root.
 title = "Luciano Nooijen" # Site title.
 theme = "lucianonooijen" # Set the theme.
-languageCode = "nl-nl"
+languageCode = "en"
 
 paginate = 20 # Default number of pages per page in pagination.
 canonifyurls = true # Enable to turn relative URLs into absolute.
