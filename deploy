@@ -7,6 +7,6 @@ echo ~~ Pulling from Git ~~
 git pull
 
 echo ~~ Building project ~~
-hugo -d build -b https://lucianonooijen.nl
+hugo -d build -b https://lucianonooijen.com
 
 echo ~~ Build done! ~~
