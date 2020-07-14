@@ -1,4 +1,4 @@
-baseurl = "https://lucianonooijen.nl" # Hostname (and path) to the root.
+baseurl = "https://lucianonooijen.com" # Hostname (and path) to the root.
 title = "Luciano Nooijen" # Site title.
 theme = "lucianonooijen" # Set the theme.
 languageCode = "en"
