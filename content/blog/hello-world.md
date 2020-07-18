@@ -1,5 +1,5 @@
 +++
-date = "2018-07-15"
+date = "2020-07-18"
 title = "Hello, world!"
 slug = "hello-world"
 tags = []
@@ -10,12 +10,10 @@ categories = []
 
 Big thanks for checking out my personal blog!
 
-If you're seeing this post, that can mean three things:
+As of today, my website is completely in English and I've also added [my learning page](/learning) on here, where I tell about my learning path to try and become a self-taught computer scientist.
 
-1. You want to learn how to make a hello world program
-2. You're staling me. Big time.
-3. There are no other posts on this blog. Yet.
+With this, I've also added this blog on my website, where I'll be posting from time to time about my experiences in learning, or to share information I hope will be valuable to others.
 
-If the third option is true, this website has just been pushed to production and I haven't had the time yet to write some posts.
+I'm also thinking about giving my site an overhaul, to improve the styling, readability and responsiveness and to add features like RSS-feeds for when there are more blog posts.
 
-But don't worry, you'll see some content in here soon!
+Anyway, that's it for now!

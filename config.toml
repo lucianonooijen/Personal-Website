@@ -59,10 +59,10 @@ unsafe= true
     url = "https://www.linkedin.com/in/lucianonooijen/"
 
 # Menu links
-[[menu.main]]
-    name = "Home"
-    weight = 1
-    url  = "/"
+# [[menu.main]]
+    # name = "Home"
+    # weight = 1
+    # url  = "/"
 [[menu.main]]
     name = "About"
     weight = 2
@@ -75,10 +75,10 @@ unsafe= true
     name = "Experience"
     weight = 4
     url = "/experience/"
-# [[menu.main]]
-#     name = "Blog"
-#     weight = 5
-#     url = "/blog/"
+[[menu.main]]
+    name = "Blog"
+    weight = 5
+    url = "/blog/"
 [[menu.main]]
     name = "Contact"
     weight = 6
