@@ -11,9 +11,9 @@ My name is Luciano Nooijen, co-founder of [Bytecode Digital Agency B.V.](https:/
 
 After years of pleasure working as a full-stack developer, I started to specialize in software architecture, infrastructure and systems integration.
 
-In my work I mainly focus on how to create solutions that meet current needs, and which can be further developed later on without problems. In this way I combine my passion for technology with the fulfilment of business requirements.
+In my work I mainly focus on how to create solutions that meet current needs, and which can be further developed later on without problems. In this way I combine my passion for technology with the fulfillment of business requirements.
 
-What motivates me every day to do this work is to see how the applications I have worked on take an organisation to a next level and make it possible for people within this organisation to focus on what they are passionate about.
+What motivates me every day to do this work is to see how the applications I have worked on take an organization to a next level and make it possible for people within this organization to focus on what they are passionate about.
 
 Within my work (cyber) security also plays a major role. At Bytecode, I take care of the security of both the servers and the applications that run on these servers.
 
