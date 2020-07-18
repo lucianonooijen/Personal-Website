@@ -25,7 +25,7 @@ Another issue was that there would be quite a lot of overlap between the some co
 
 ## Subjects for study
 
-Another issue I faced during this time was that in The Netherlands, there is only a very small part for study in other fields. In the US, there is a concept called a Major, in The Netherlands, the Major will be your only focus, with a 6-month period for a Minor where you can choose what to do. During my self-reflection I noticed I was laser-focussed om software engineering for many years, neglecting other parts of study that would help me develop into a better human being and in turn helping me grow in my day-job too. I wrote down what areas interest me, what I'd like to learn more about and categorized them:
+Another issue I faced during this time was that in The Netherlands, there is only a very small part for study in other fields. In the US, there is a concept called a Major, in The Netherlands, the Major will be your only focus, with a 6-month period for a Minor where you can choose what to do. During my self-reflection I noticed I was laser-focussed on software engineering for many years, neglecting other parts of study that would help me develop into a better human being and in turn helping me grow in my day-job too. I wrote down what areas interest me, what I'd like to learn more about and categorized them:
 
 * Computer science
     * Fundamentals (maths and physics that allow computers to work on the metal-level, algorithms and data structures)
