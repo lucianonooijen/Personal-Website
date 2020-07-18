@@ -15,11 +15,13 @@ Learning through freelancing and figuring things out along the way had been my w
 
 Around the beginning of 2020, I felt like I was hitting the limit of this approach, like I knew a lot, but I could not comprehend how everything fit together. Like I've learned to play many instruments from sheet music, but never learned the underlying principles, the music theory. I could use a lot of tools, but I could not make them myself. I realized there was a lot to learn, not to learn what to do, I knew that already, but _why_ it is done this way. I started digging into topics not directly related to what I had always been focussing on (web and mobile development), I read about compiler engineering, assembly languages, virtual machines and operating systems. I learned a ton (I'd say this is the point where I turned from a software _developer_ into a true software _engineer_). But still, there were pieces missing in the puzzle. To continue with the music metaphor, I understood how symphonies were written, but I could not write them myself from start to finish.
 
-In May of 2020, during the COVID-19 pandemic, I finally had the time for self-reflection. I came to the realization that I was utterly and completely wrong about Universities teaching you only old stuff you don't need. I realized that you need the old stuff, like calculus and algebra, to understand (and build!) the new stuff, like artificial intelligence and embedded systems systems (yes, the systems used to build embedded systems). This is something many people pointed out to me, but I was too stubborn to accept earlier. I could write a simple domain-specific language parser, but I could not prove it to be working through mathematics. I knew what my code would do with system calls, but I didn't know _how_ the CPU actually performed the task at the metal-level. I knew how to establish and use TCP connections, but I could not explain how the payloads are verified.
+In May of 2020, during the COVID-19 pandemic, I finally had the time for self-reflection. I came to the realization that I was utterly and completely wrong about Universities teaching you only old stuff you don't need. I realized that you need the old stuff, like calculus and algebra, to understand (and build!) the new stuff, like artificial intelligence and embedded systems systems (yes, the systems used to build embedded systems). This is something many people pointed out to me, but I was too stubborn to accept earlier. I could write a simple domain-specific language parser, but I could not prove it to be working through mathematics. I knew what my code would do with system calls, but I didn't know _how_ the CPU actually performed the task at the metal-level. I knew how to establish and use TCP connections, but I could not explain how the payloads are verified. I missed the theoretical side of computer science.
 
 ## Enrolling in formal education?
 
-During June of 2020, I seriously considered going through a three year Bachelor's degree program, but I unfortunately could not find a University that would be a great fit, considering I still have to work full-time at Bytecode and it was already June. The Open University curriculum did not offer enough of a challenge for me and the TU Delft (less than 5 minutes from both my home and Bytecode's office) requires full-time (and I had to apply before January). Another issue was that there would be quite a lot of overlap between the some courses' content and what I already know (especially in the second and third year), not gaining (a lot of) new knowledge while taking quite some time to complete. The thing is, my focus wasn't on getting a degree, it was purely about the knowledge gained in the process. For me, the best solution would be to follow a few Bachelor's courses to fill some knowledge gaps and then follow a Master's track (not getting a degree, just following the lectures and excercises) to gain in-depth knowledge, but this would be very unlikely to happen, as Universities don't tend to be so flexible.
+During June of 2020, I seriously considered going through a three year Bachelor's degree program, but I unfortunately could not find a University that would be a great fit, considering I still have to work full-time at Bytecode and it was already June. The Open University curriculum did not offer enough of a challenge for me and the TU Delft (less than 5 minutes from both my home and Bytecode's office) requires full-time (and I had to apply before January). 
+
+Another issue was that there would be quite a lot of overlap between the some courses' content and what I already know (especially in the first and second year), not gaining (a lot of) new knowledge while taking quite some time to complete. The thing is, my focus wasn't on getting a degree, it was purely about the knowledge gained in the process. For me, the best solution would be to follow a few Bachelor's courses to fill some knowledge gaps and then follow a Master's track (not getting a degree, just following the lectures and excercises) to gain in-depth knowledge, but this would be very unlikely to happen, as Universities don't tend to be so flexible.
 
 ## Subjects for study
 
@@ -96,18 +98,31 @@ For my learning journey, I have decided to spend around 60% (12 h/week) of my ti
 * The basics of calculus and linear algebra
 * Algorithms and data structures
 
-I am not yet certain on how to exactly learn these subjects. I am very much in the researching phase for this. My aim is to finish this before July ends, then I'll update the points above with my course of action to accomplish them.
+To do this, I will use the following (in roughly this order):
 
-For the 40% left, I have decided to focus on the following subjects:
+* As the resources I will use will be in English, but I only know maths in Dutch, I will use [Brilliant.org](https://brilliant.org/) and maybe some [Khan Academy](https://www.khanacademy.org/) so I can understand the English math jargon and such, this is just to understand maths in English, not to gain new knowledge
+* When my math skills in English are around the same level as in Dutch, I will use the resources mentioned above to gain some additional knowledge, after that, I will continue by reading Concrete Mathematics by Donald Knuth and see if the lectures mentioned on [teachyourselfcs.com](https://teachyourselfcs.com/#math) are helpful
+* For learning from the bottom (from the logic gates level) up how computers work, I will use [nand2tetris](https://www.nand2tetris.org/), although I doubt whether this will be in-depth enough. 
+* If I want to continue after nand2tetris, I will use the book Computer Systems: A Programmer's Perspective by Randal Bryant and David O'Hallaron
+* My first goal will be to learn what's required to understand the maths in The Art of Computer Programming (TAOCP) part 1 by Donald Knuth and then work through this book cover to cover (later I will continue with part 2 to 4A). The reason I chose to go with Concrete Mathematics by Donald Knuth is because he wrote this book to understand the maths in TAOCP
+* For understanding the basics of the Theory of Computation, I will use the book "Introduction to the Theory of Computation" by Michael Sipser
+* For algorithms and data structures, I will follow what [teachyourselfcs.com](https://teachyourselfcs.com/#algorithms) recommends, maybe combined with reading the book Introduction to Algorithms
+
+For the 40% left, I have decided to focus on the following subjects with the corresponding methods:
 
 * The Latin language (using [Lingua Latina Per Se Illustrata, Pars 1](https://www.bol.com/nl/f/familia-romana/36660250/) and a [guide on how to use it](https://docs.google.com/document/d/1PB5HPz2wBDgqWXPnn5ONgZicOPv8P7LbODvkCxjpI3w/edit) I want to get the basics and then see if I want to continue with Latin or another language)
 * Golf (taking lessons together with Thomas, one of my closest friends, when we have our handicaps, practice often on ourselves and then see how to progress further)
-* Music theory (as with the computer science part, details will be added soon)
 * Meditation (I've got a 1 month Headspace subscription to see whether meditation is something I want to spend time on or not)
-* Chess (I will follow a short only video course to learn basic strategies, and then practice online, to get to a rating around 1000, then I'll see how to progress further)
+* Chess (I will follow a short only video course on [Masterclass.com](https://masterclass.com) by Garry Kasparov to learn basic strategies, and then practice online, to get to a rating around 1000, then I'll see how to progress further)
 
 ## Closing notes
 
 As a final note, I'd like to express that - even though I realize my changed opinion about the value of formal education - I do not regret not following the University path. I do believe it is a lot easier, to have people way with way more knowledge about certain subjects than you ever will, telling you what the best path it to gain some of this knowledge. But I also realize that this approach - whilst easier - is also very rigid, and would probably not allow for me staying at Bytecode or learning about other subjects too. Even if I'd be given the possibility to enroll at TU Delft in September, I think I'd still choose to go down the self-learning path, or at least try it out first for a year.
 
 _I will update this page and add a log of what I have used for learning, so that others encountering the same issues as I can reference this list and take inspiration from it for their own learning path._
+
+<br><hr><br>
+
+## Progress and timeline
+
+As time progresses, I will add a sort of timeline of my learnings, mostly for myself as reference later, but also so I can advice others on how to progress.

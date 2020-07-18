@@ -77,6 +77,6 @@ _With mostly **PostgreSQL** as the underlying database._
 
 ## Learning
 
-Currently, I spend around 15 hours per week on self-education. Most of it focussed on computer science, some of it on other subjects (like linguistics or philosophy). You can read more on my [learning page](/learning).
+Currently, I spend around 20 hours per week on self-education. Most of it focussed on computer science, some of it on other subjects (like linguistics or philosophy). You can read more on my [learning page](/learning).
 
 The old learning page is archived [here](/archive/learning).
