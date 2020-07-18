@@ -22,7 +22,7 @@ As a developer, it is important to always continue to learn and to make sure you
 #### What I've been working on lately (most notably):
 
 * Delving deeper into Go/Golang development for enterprise applications
-* Specialisation towards software architecture/design and SRE
+* Specialization towards software architecture/design and SRE
 * Reading books related to productivity, management and soft-skills
 * Reading books related to process/management with software development
 * Reading Start With Why and similar books on startup branding and mission definition
