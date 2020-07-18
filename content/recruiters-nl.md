@@ -19,7 +19,7 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [about](/about)
 
 Mijn beschikbaarheid per week is momenteel:
 
-* In verband met mijn lead-werkzaamheden bij Bytecode in totaal 24 uur per week
+* In totaal 24 uur per week
 * Maximaal 1 dag (of 2 halve dagen) bij de klant on-site
 * Hiernaast maximaal 2 dagen remote
 

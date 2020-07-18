@@ -19,13 +19,13 @@ To read about me as a person and my background, go to the [about](/over)-page.
 
 My availability per week is currently:
 
-* In the context of my lead work at Bytecode a total of 24 hours a week
-* Maximum 1 day (or 2 half days) at the customer's site
+* A total of 24 hours a week
+* Maximum 1 day (or 2 half days) on-site
 * In addition a maximum of 2 days remote
 
 Currently I have an hourly rate of €130. This hourly rate includes travel and accommodation costs, and excludes sales tax.
 
-I live in Delfgauw (Netherlands), and am open for projects with a maximum travel time of 20 minutes by car.
+I live in Delfgauw (Netherlands) and am open to either all-remote projects, or projects with a maximum travel time of 20 minutes by car.
 
 _My preference is for a project with an initial duration of 3-6 months, with extension in consultation_.
 
@@ -45,9 +45,7 @@ Currently I am available for a project with one or more of the following techniq
 
 _Unfortunately it is not possible for me to work with environments that require the Windows operating system._
 
-If there were also a focus on security aspects, that would be ideal.
-
-To read more about my skillset, go to the [expertise page](/expertise). Here, my working method is also explained in more detail.
+To read more about my skills, go to the [expertise page](/expertise). Here, my working method is also explained in more detail.
 
 #### Work and sector
 
