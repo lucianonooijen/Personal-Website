@@ -10,6 +10,9 @@ pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params] # theme parameters
     author = "Luciano Nooijen" # Author's name.
     info = "Technical Lead at Bytecode && Computer Science enthousiast" # Author's job title or info.
