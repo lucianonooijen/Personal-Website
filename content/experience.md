@@ -27,7 +27,7 @@ For more information about Bytecode, see [bytecode.nl](https://bytecode.nl). To 
 
 _To read more about the techniques I'm currently working with and my work process, see the [expertise page](/expertise)._
 
----
+<br><hr><br>
 
 ### Eneco/Dept Agency */ Software Consultant, ad interim*
 
@@ -47,7 +47,7 @@ I've also been involved in platform-wide improvements in the front-end. I've bee
 
 The technology-"stack" used is based on Typescript/Javascript, including ReactJS, Redux and Styled-Components. Project management is based on the Agile/Scrum philosophy. To guarantee the quality of the software, unit tests, integration tests and end-to-end tests (with Jest, Enzyme and Cypress) are used for test-automation. In addition, where possible development is test-driven.
 
----
+<br><hr><br>
 
 ### Stager Software */ Front-end/full-stack developer*
 
@@ -63,7 +63,7 @@ At Stager I worked as a front-end/full-stack developer on Stagers ticketing serv
 * Java: Play! Framework, Hibernate, Groovy
 * Emails: MJML for email templating
 
----
+<br><hr><br>
 
 ### Nooijen Web Solutions */ Owner, Founder, Full-stack developer*
 
@@ -77,7 +77,7 @@ From 2009 on, I regularly made websites for friends and family. In 2014 I starte
 * PHP: Laravel, WordPress, OpenCart, Magento 2
 * Databases: MySQL, NoSQL
 
----
+<br><hr><br>
 
 ### Chemiewinkel.com */ Owner/founder*
 
