@@ -16,7 +16,7 @@ Nooijen Web Solutions consisted of a team of collaborating freelancers. However,
 
 At Bytecode, I fulfill the role of lead-developer and am ultimately responsible for almost everything in the technical field and the delivered products. I am also involved in DevOps and Site Reliability Engineering.
 
-For more information about Bytecode, see [bytecode.nl](https://bytecode.nl).
+For more information about Bytecode, see [bytecode.nl](https://bytecode.nl). To see what I've worked on at Bytecode, take a look at the [cases page](https://bytecode.nl/cases).
 
 ##### Used techniques (most commonly used in bold)
 
@@ -27,7 +27,9 @@ For more information about Bytecode, see [bytecode.nl](https://bytecode.nl).
 
 _To read more about the techniques I'm currently working with and my work process, see the [expertise page](/expertise)._
 
-### Eneco/Dept */ Software Consultant, ad interim*
+---
+
+### Eneco/Dept Agency */ Software Consultant, ad interim*
 
 ##### 01-01-2020 to 31-02-2020
 
@@ -35,7 +37,7 @@ After completion of the initial development, I was asked to continue providing a
 
 My work here mainly consisted of improving the existing structure, documenting the built product, performing code reviews and providing support where needed.
 
-### Eneco/Dept */ Software Engineer, ad interim*
+### Eneco/Dept Agency */ Software Engineer, ad interim*
 
 ##### 13-05-2019 to 31-12-2019
 
@@ -44,6 +46,8 @@ Through [DEPT](https://deptagency.com), I helped Eneco to develop a tool that wi
 I've also been involved in platform-wide improvements in the front-end. I've been involved in accelerating the development-environment and integrating Redux within the codebase. In addition, I provided advice on the source code architecture of the front-end.
 
 The technology-"stack" used is based on Typescript/Javascript, including ReactJS, Redux and Styled-Components. Project management is based on the Agile/Scrum philosophy. To guarantee the quality of the software, unit tests, integration tests and end-to-end tests (with Jest, Enzyme and Cypress) are used for test-automation. In addition, where possible development is test-driven.
+
+---
 
 ### Stager Software */ Front-end/full-stack developer*
 
@@ -59,7 +63,7 @@ At Stager I worked as a front-end/full-stack developer on Stagers ticketing serv
 * Java: Play! Framework, Hibernate, Groovy
 * Emails: MJML for email templating
 
-<br>
+---
 
 ### Nooijen Web Solutions */ Owner, Founder, Full-stack developer*
 
@@ -73,7 +77,7 @@ From 2009 on, I regularly made websites for friends and family. In 2014 I starte
 * PHP: Laravel, WordPress, OpenCart, Magento 2
 * Databases: MySQL, NoSQL
 
-<br>
+---
 
 ### Chemiewinkel.com */ Owner/founder*
 

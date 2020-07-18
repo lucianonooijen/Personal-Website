@@ -73,9 +73,7 @@ _With mostly **PostgreSQL** as the underlying database._
 * Systems programming: Rust, Golang, C
 * Data science: SQL, Python, Scala, Javascript, R
 
-<br>
-<hr>
-<br>
+---
 
 ## Learning
 
