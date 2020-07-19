@@ -77,6 +77,7 @@ Another issue I faced during this time was that in The Netherlands, there is onl
     * Meditation/mindfulness
     * Storytelling
     * Cooking different cuisines
+    * Spencerian writing
 
 _Note: wanting to learn about a subject is not the same as believing in it. For example, wanting to learn about socialism does not mean I'm a socialist._
 
