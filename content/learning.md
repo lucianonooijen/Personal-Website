@@ -19,7 +19,7 @@ In May of 2020, during the COVID-19 pandemic, I finally had the time for self-re
 
 ## Enrolling in formal education?
 
-During June of 2020, I seriously considered going through a three year Bachelor's degree program, but I unfortunately could not find a University that would be a great fit, considering I still have to work full-time at Bytecode and it was already June. The Open University curriculum did not offer enough of a challenge for me and the TU Delft (less than 5 minutes from both my home and Bytecode's office) requires full-time (and I had to apply before January). 
+During June of 2020, I seriously considered going through a three year Bachelor's degree program, but I unfortunately could not find a University that would be a great fit, considering I still have to work full-time at Bytecode and it was already June. The Open University curriculum did not offer enough of a challenge for me and the TU Delft (less than 5 minutes from both my home and Bytecode's office) requires full-time (and I had to apply before January).
 
 Another issue was that there would be quite a lot of overlap between the some courses' content and what I already know (especially in the first and second year), not gaining (a lot of) new knowledge while taking quite some time to complete. The thing is, my focus wasn't on getting a degree, it was purely about the knowledge gained in the process. For me, the best solution would be to follow a few Bachelor's courses to fill some knowledge gaps and then follow a Master's track (not getting a degree, just following the lectures and excercises) to gain in-depth knowledge, but this would be very unlikely to happen, as Universities don't tend to be so flexible.
 
@@ -41,6 +41,7 @@ Another issue I faced during this time was that in The Netherlands, there is onl
     * German
     * Italian
     * French
+    * Spanish
     * Hebrew
     * Arabic
     * Koine Greek
@@ -80,7 +81,7 @@ Another issue I faced during this time was that in The Netherlands, there is onl
 _Note: wanting to learn about a subject is not the same as believing in it. For example, wanting to learn about socialism does not mean I'm a socialist._
 
 As you can see, this is a pretty long list, and it does not even include the detailed subjects, like 'P vs NP' in theory of computation. But this is absolutely not meant as a 'in the coming year I will learn to'-list, far from it. It is my long-term roadmap for learning. I don't believe I can become a _true_ master at any of them, but for the subjects I can come close to mastering the subject, there can only be a select few. When I decide to learn about a topic, even when I initially finished learning about it, I will probably come back to it later, either to improve my skills even further (for example sports), or to revise my knowledge to get a quick refresher, so I can combine it with other things I've learned. When first picking up a subject, my primary goal is understanding what is needed for near-mastery of the subject. To see my own true competence and not to be over-confident (see: [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)).
- 
+
 By the way, notice how there this list is pretty timeless, there is no 'Elm for front-end web development' or 'Haskell for REST API development' on the list. Most subjects would be on this list 10 years ago, and many - if not all - of them will be in 10 years. Learning Elm or Haskell are on my wishlist too, but I see that as separate from learning the fundamentals, the fundamentals I need to actually make the right choices when building with Elm or Haskell. And that's the power of University programs I was too stubborn to see, anyway, back to the topic.
 
 ## Attempting to become a self-taught computer _scientist_
@@ -102,7 +103,7 @@ To do this, I will use the following (in roughly this order):
 
 * As the resources I will use will be in English, but I only know maths in Dutch, I will use [Brilliant.org](https://brilliant.org/) and maybe some [Khan Academy](https://www.khanacademy.org/) so I can understand the English math jargon and such, this is just to understand maths in English, not to gain new knowledge
 * When my math skills in English are around the same level as in Dutch, I will use the resources mentioned above to gain some additional knowledge, after that, I will continue by reading Concrete Mathematics by Donald Knuth and see if the lectures mentioned on [teachyourselfcs.com](https://teachyourselfcs.com/#math) are helpful
-* For learning from the bottom (from the logic gates level) up how computers work, I will use [nand2tetris](https://www.nand2tetris.org/), although I doubt whether this will be in-depth enough. 
+* For learning from the bottom (from the logic gates level) up how computers work, I will use [nand2tetris](https://www.nand2tetris.org/), although I doubt whether this will be in-depth enough.
 * If I want to continue after nand2tetris, I will use the book Computer Systems: A Programmer's Perspective by Randal Bryant and David O'Hallaron
 * My first goal will be to learn what's required to understand the maths in The Art of Computer Programming (TAOCP) part 1 by Donald Knuth and then work through this book cover to cover (later I will continue with part 2 to 4A). The reason I chose to go with Concrete Mathematics by Donald Knuth is because he wrote this book to understand the maths in TAOCP
 * For understanding the basics of the Theory of Computation, I will use the book "Introduction to the Theory of Computation" by Michael Sipser
