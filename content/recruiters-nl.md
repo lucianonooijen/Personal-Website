@@ -58,7 +58,7 @@ Zo liggen mijn interesses vooral bij:
 * _Software architectuur_ en het bepalen van de richting op technisch gebied binnen bedrijven
 * Het _uitdenken_ en _ontwikkelen_ van interne tools om (development)-processen te verbeteren en versnellen
 * _Consultancy_ op IT-gebied, en het opstellen en vertalen van requirements tot de beste technische invulling
-* Het _begeleiden van teams_ binnen een bedrijf en _technisch project management_, door de rol van _technical lead_ te vervullen.
+* Het _begeleiden van teams_ binnen een bedrijf en _technisch project management_ door de rol van _technical lead_ te vervullen.
 * _IT-automatisering_ binnen een bedrijf en _systems integration_ (koppelingen maken tussen verschillende applicaties)
 * Bijdragen aan _open-source/vrije software-projecten_ van bedrijven
 * Bedrijven _moderniseren_ op IT-gebied (bv. van on-premise applicaties naar microservices in public cloud)

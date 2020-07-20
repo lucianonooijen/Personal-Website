@@ -56,11 +56,11 @@ My interests are mainly:
 * _Software architecture_ and determining the direction in the technical field within companies
 * The _inventing_ and _developing_ of internal tools to improve and accelerate (development) processes.
 * _Consultancy_ in the IT field, and creating and translating requirements into the best technical interpretation
-* Supervising teams_ within a company and _technical project management_, by fulfilling the role of _technical lead_.
+* Guiding teams within a company and _technical project management_ by fulfilling the role of _technical lead_
 * _IT automation_ within a company and _systems integration_ (creating links between different applications)
 * Contributions to _open-source/free software projects_ of companies
 * Businesses _modernise_ in IT (e.g. from on-premise applications to microservices in public cloud)
-* _Startups_ where software is the main focus, where important decisions have to be made about _software architecture_.
+* _Startups_ where software is the main focus, where important decisions have to be made about _software architecture_
 
 _I am open to both greenfield and brownfield projects, with a preference for [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
 
