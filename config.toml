@@ -52,7 +52,7 @@ unsafe= true
 [[params.social]]
     name = "Instagram"
     weight = 5
-    url = "https://instagram.com/lucianonooijen.nl/"
+    url = "https://instagram.com/lucianonooijen/"
 [[params.social]]
     name = "LinkedIn"
     weight = 6
