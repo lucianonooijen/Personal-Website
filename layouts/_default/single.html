@@ -1,6 +1,12 @@
 {{ define "title" }}
   {{ .Title }} · {{ .Site.Title }}
 {{ end }}
+
+
 {{ define "content" }}
+  <!-- HACK: Should be stylesheet -->
+  <style>
+      img { width: 80%; margin-left: 10%;}
+  </style>
   {{ partial "page.html" . }}
 {{ end }}
