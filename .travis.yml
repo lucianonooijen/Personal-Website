@@ -4,7 +4,7 @@ go:
   - master
 
 install:
-  - go get github.com/spf13/hugo
+  - go get github.com/gohugoio/hugo
 
 script:
   - make build
