@@ -19,9 +19,9 @@ Within my work (cyber) security also plays a major role. At Bytecode, I take car
 
 #### Career
 
-I started programming at an early age. In 2009 I made my first website, after having been interested in computers and software from an early age. After making this first website, I continued to broaden my knowledge, which enabled me to apply my skills on a professional level from 2014. 
+I started programming at an early age. In 2009 I made my first website, after having been interested in computers and software from an early age. After making this first website, I continued to broaden my knowledge, which enabled me to apply my skills on a professional level from 2014.
 
-In 2018 I developed my own webshop in WooCommerce and started to develop websites under the name Nooijen Web Solutions. After a while I started working together with [Jeroen van Steijn](https://jeroenvansteijn.nl), with whom I later founded Bytecode, and where I am currently working with an awesome 11-headed team.
+In 2014 I developed my own webshop in WooCommerce and started to develop websites under the name Nooijen Web Solutions. After a while I started working together with [Jeroen van Steijn](https://jeroenvansteijn.nl), with whom I later founded Bytecode, and where I am currently working with an awesome 11-headed team.
 
 ### Education
 
@@ -29,7 +29,7 @@ In 2017 I completed my VWO education at the Stanislascollege in Pijnacker. After
 
 In addition to practical applications, I also started to delve into theoretical matters surrounding computer science, because I see the value of the reasons for doing something in a certain way, rather than just learning that it should be done that way. For example, I have been involved in low-level programming, algorithms, data structures and other issues that tend to be more computer science rather than just software development.
 
-In 2020, I came to a realization that even though I can make great impact with the work I do, there was still a feeling that there was more I could achieve. I considered going to University to get formal education about the true fundamentals to be able to understand what I do at the electrical engineering level, but I chose to go the self-education route here too. 
+In 2020, I came to a realization that even though I can make great impact with the work I do, there was still a feeling that there was more I could achieve. I considered going to University to get formal education about the true fundamentals to be able to understand what I do at the electrical engineering level, but I chose to go the self-education route here too.
 
 On my dedicated [learning page](/learning) you can read more about my learning journey, the goals I want to achieve doing this and the path I take to get there, as well as the reasoning behind it all.
 
