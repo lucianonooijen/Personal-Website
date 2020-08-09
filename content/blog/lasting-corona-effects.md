@@ -1,14 +1,14 @@
 +++
 date = "2020-07-28"
-title = "How the corona pandemic might change our work-attitude"
-slug = "lasting-corona-effects-way-we-work"
+title = "How the corona pandemic might permanently change our work-attitude"
+slug = "lasting-effects-corona-pandemic-on-work-attitude"
 tags = ["culture", "corona"]
 categories = ["culture"]
 +++
 
 _This article is a translated and slightly modified version of the article I originally wrote in Dutch for Bytecode. To read the original, click [here](https://bytecode.nl/insights/coronacrisis-positief-effect/)_.
 
-Whether we like it or not, the corona pandemic is far from over. Even though quite some countries are slowly going back to "normal" (albeit with some more distance between each other), others have yet to reach the peak of their first wave. 
+Whether we like it or not, the corona pandemic is far from over. Even though quite some countries are slowly going back to "normal" (albeit with some more distance between each other), others have yet to reach the peak of their first wave.
 
 We should not forget that, for most people, it will take a while to go back to the large office buildings, nearly hugging each other in the elevator while going to the meeting with everyone in person, cramming 8 people into a tiny room. Should we actually go back to this?
 
