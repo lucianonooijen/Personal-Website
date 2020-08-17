@@ -23,7 +23,7 @@ My availability per week is currently:
 * Maximum 1 day (or 2 half days) on-site
 * In addition a maximum of 2 days remote
 
-Currently I have an hourly rate of €130. This hourly rate includes travel and accommodation costs, and excludes sales tax.
+Currently I have an hourly rate of €105. This hourly rate includes travel and accommodation costs, and excludes sales tax.
 
 I live in Delfgauw (Netherlands) and am open to either all-remote projects, or projects with a maximum travel time of 20 minutes by car.
 

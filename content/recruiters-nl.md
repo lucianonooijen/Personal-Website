@@ -23,7 +23,7 @@ Mijn beschikbaarheid per week is momenteel:
 * Maximaal 1 dag (of 2 halve dagen) bij de klant on-site
 * Hiernaast maximaal 2 dagen remote
 
-Momenteel hanteer ik een uurtarief van €130. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €105. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
 Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 20 minuten met de auto.
 
