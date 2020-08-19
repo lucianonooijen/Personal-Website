@@ -8,85 +8,76 @@ h3 em { font-weight: 400; }
 h5 { margin-top: 0 !important; }
 </style>
 
-### Bytecode Digital Agency */ Co-founder & technical lead*
+#### Bytecode Digital Agency B.V.
 
-##### 01-05-2018 to PRESENT
+_05/2018 - present_ ~ **Co-founder and techlead**
 
-Nooijen Web Solutions consisted of a team of collaborating freelancers. However, we noticed that this could cause problems with the ever larger projects, partly because we did not have our own office. This is why Bytecode Digital Agency B.V. was founded. The same team, but now a really permanent team (currently 9 permanent employees), instead of a group of freelancers. From 1 July 2018 we have our own office in Delfgauw from where we work.
+* Team of 11 people, with expertise in development, design, sales and marketing
+* Development of custom software, mostly web/mobile applications with backed by an API server
+* Setting up infrastructure (internally and for clients), provisioning and security hardening
+* Developing internal tooling to make the software development process more efficient
+* Automating manual tasks to reduce the amount of toil involved in the development process
+* Leading client software projects on both front- and back-end and software consultancy
+* Involved in multiple startup, including partnerships and investments
 
-At Bytecode, I fulfill the role of lead-developer and am ultimately responsible for almost everything in the technical field and the delivered products. I am also involved in DevOps and Site Reliability Engineering.
+#### Dearly B.V.
 
-For more information about Bytecode, see [bytecode.nl](https://bytecode.nl). To see what I've worked on at Bytecode, take a look at the [cases page](https://bytecode.nl/cases).
+_06/2020 - present_ ~ **Partner (through Bytecode) and techlead**
 
-##### Used techniques (most commonly used in bold)
+* Startup for supporting mourners cope with their losses through various ways, investor through Bytecode
+* Development of the custom backend application, written in Go, with PostgreSQL database
+* Leading development of the mobile application in React/Typescript/Expo
+* Software architecture and infrastructure setup, deployment automation
+* Currently part-time role to support the development of the mobile app
+* Advisor for technical decisions and determining the feature roadmap
 
-**DevOps**: Ansible, Docker, Linux, Terraform, GitLab
-**Backend**: Go, NodeJS/Deno, Elixir, Rest, Python
-* Frontend: Typescript, ReactJS (+Redux), React Native
-* Databases: PostgreSQL, MySQL
+#### Youngpwr B.V.
 
-_To read more about the techniques I'm currently working with and my work process, see the [expertise page](/expertise)._
+_02/2020 - present_ ~ **Partner (through Bytecode) and techlead**
 
-<br><hr><br>
+* Startup for helping young people to further develop their entrepreneurial side, investor through Bytecode
+* Development of custom backend application in Go and CMS
+* Leading development of the frontend application in React/Typescript/NextJS
+* Software architecture and infrastructure setup, deployment automation
+* Currently part-time role for leading the development of a job matching platform
+* Part of the management team (MT) and advisor for technical decisions
 
-### Eneco/Dept Agency */ Software Consultant, ad interim*
+#### Eneco / Dept Agency
 
-##### 01-01-2020 to 31-02-2020
+_05/2019 - 03/2020_ ~ **Software engineer, ad interim**
 
-After completion of the initial development, I was asked to continue providing advice and support during the period of scaling up when the large-scale product was going live. This means that I took care of a transfer of support from the feature-team to a larger, already existing team.
+* Leading frontend developer for De Omschakelaar project at Eneco, via Dept Agency
+* Front-end development in React/Typescript with Redux connected to .NET Core for data fetching/saving
+* Creating code generation tools to convert different data formats to JSON to be used for calculations
+* Using automation to speed up the development process
+* Creation of tooling to better tackle existing technical debt
 
-My work here mainly consisted of improving the existing structure, documenting the built product, performing code reviews and providing support where needed.
+#### Stager Software
 
-### Eneco/Dept Agency */ Software Engineer, ad interim*
+_05/2015 - 05/2018_ ~ **Full-stack software engineer**
 
-##### 13-05-2019 to 31-12-2019
+* Team with 9 people (4 developers), using SCRUM
+* Working on the Stager ticketing software, built using Java Play! and ReactJS
+* Development of custom email builder using ReactJS, Java Play! and AWS
+* Integration of custom email builder within the rest of the application
+* Email templating solution based on MJML
 
-Through [DEPT](https://deptagency.com), I helped Eneco to develop a tool that will play a crucial role in Eneco's customer-journey, by being able to give customers personal advice on how to become more sustainable, based on their "profile" and living situation.
+#### Nooijen Web Solutions
 
-I've also been involved in platform-wide improvements in the front-end. I've been involved in accelerating the development-environment and integrating Redux within the codebase. In addition, I provided advice on the source code architecture of the front-end.
+_05/2015 - 05/2018_ ~ **Owner, founder and developer**
 
-The technology-"stack" used is based on Typescript/Javascript, including ReactJS, Redux and Styled-Components. Project management is based on the Agile/Scrum philosophy. To guarantee the quality of the software, unit tests, integration tests and end-to-end tests (with Jest, Enzyme and Cypress) are used for test-automation. In addition, where possible development is test-driven.
+* Team with 4 people, working in a SCRUM-like manner
+* Development of websites and web applications
+* Server administration and maintenance
+* Involved in sales, marketing, project management and administrative tasks
+* Discontinued at the start of Bytecode
 
-<br><hr><br>
+#### Chemiewinkel.com
 
-### Stager Software */ Front-end/full-stack developer*
+_07/2014 - 12/2018_ ~ **Owner and founder**
 
-##### 01-12-2017 to 01-06-2018
-
-At Stager I worked as a front-end/full-stack developer on Stagers ticketing service. At Stager we work in a scrum team with two-week sprints. Within this scrum-team I mainly worked on the front-end issues, but if things had to be changed in the Java backend, that wasn't a problem for me either.
-
-###### Techniques
-
-* Javascript: NodeJS, ReactJS, jQuery, Ionic 2 (Angular)
-* Python: Wagtail CMS
-* Databases: MySQL
-* Java: Play! Framework, Hibernate, Groovy
-* Emails: MJML for email templating
-
-<br><hr><br>
-
-### Nooijen Web Solutions */ Owner, Founder, Full-stack developer*
-
-##### 01-05-2015 to 01-05-2018
-
-From 2009 on, I regularly made websites for friends and family. In 2014 I started to do this more professionally. From 2015 I started working under the name Nooijen Web Solutions. In a SCRUM team of 4 freelancers, we worked on different types of projects, varying from one-page marketing websites to customized solutions.
-
-###### Techniques
-
-* Javascript/Typescript: ReactJS, React Native, Angular 4+,
-* PHP: Laravel, WordPress, OpenCart, Magento 2
-* Databases: MySQL, NoSQL
-
-<br><hr><br>
-
-### Chemiewinkel.com */ Owner/founder*
-
-##### 01-07-2014 to 31-12-2018
-
-In the summer holidays during high school, I think I was around 15 years old, I started the webshop Chemiewinkel.com out of a passion for chemistry. Before this, I had worked with WordPress for some smaller projects, but of course this was a great way to get to know the framework better. Unfortunately, I had to discontinue this project, because I wanted to be able to fully focus on Bytecode.
-
-###### Techniques
-
-* PHP
-* WordPress + WooCommerce
-* jQuery
+* Started out of a love for chemistry to support hobby chemists getting started
+* Development of the webshop using WordPress/WooCommerce with custom additions
+* Running and maintaining the webshop on all aspects (including administrative tasks)
+* Marketing-related activities to promote the webshop and generate inbound traffic
+* Discontinued so I could fully focus on Bytecode
