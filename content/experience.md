@@ -22,7 +22,7 @@ _05/2018 - present_ ~ **Co-founder and techlead**
 
 #### Dearly B.V.
 
-_06/2020 - present_ ~ **Partner (through Bytecode) and techlead**
+_06/2020 - present_ ~ **Partner and techlead (part-time)**
 
 * Startup for supporting mourners cope with their losses through various ways, investor through Bytecode
 * Development of the custom backend application, written in Go, with PostgreSQL database
@@ -33,7 +33,7 @@ _06/2020 - present_ ~ **Partner (through Bytecode) and techlead**
 
 #### Youngpwr B.V.
 
-_02/2020 - present_ ~ **Partner (through Bytecode) and techlead**
+_02/2020 - present_ ~ **Partner and techlead (part-time)**
 
 * Startup for helping young people to further develop their entrepreneurial side, investor through Bytecode
 * Development of custom backend application in Go and CMS
