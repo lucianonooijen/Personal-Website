@@ -7,6 +7,8 @@ My name is Luciano Nooijen. In my work I mainly focus on identifying the needs o
 
 What motivates me to do this work every day is to see how the applications I have worked on take an organization to a next level and make it possible for people within the organization to focus on what they are passionate about.
 
+To see my availability and hourly rate, please see the [recruiters](/recruiters) page.
+
 <br><hr><br>
 
 ## Technologies
