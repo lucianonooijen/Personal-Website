@@ -37,25 +37,21 @@ The techniques I'm currently working with the most are in **bold**.
 
 ### Web development
 
-##### Backend/server
+### Backend/server development
 
 * **Golang** (Gin, Echo)
 * Typescript (NodeJS, Express, Deno)
 * Kotlin/Java (Spring Boot)
-* Elixir (Phoenix, OTP)
+* Haskell
 
 _With mostly **PostgreSQL** as the underlying database._
 
-##### Front-end
+### Front-end and mobile development
 
-* **React+Typescript** (icm. Redux, Styled-Components, NextJS)
-* Elm
-
-### Mobile development
-
+* **React+Typescript** (with Redux, Styled-Components, NextJS)
 * **React Native** (Expo)
 * Progressive Web Apps
-* Flutter
+* Elm
 
 ### Site Reliability Engineering and DevOps
 
