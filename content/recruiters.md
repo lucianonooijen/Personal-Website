@@ -9,13 +9,13 @@ slug = "recruiters"
 
 Because my availability and preferences for projects change regularly, I have added this page to my website, specifically for recruiters, where I can answer most questions.
 
-To read about me as a person and my background, go to the [about](/over)-page.
+To read about me as a person and my background, go to the [about](/over)-page. For my resume, go to the [resume](/resume) page.
 
 ### Availability and travel time
 
 **Currently I am open to new freelance/contract work**
 
-*After years of enjoying work as a full-stack developer, I have the ambition to only take on projects with a strong focus on software architecture, infrastructure and systems integration.*
+*After years of enjoying work as a full-stack developer, I have the ambition to mainly on projects where I will be involved with software architecture, infrastructure and systems integration, besides just the software development itself.*
 
 My availability per week is currently:
 
@@ -23,7 +23,7 @@ My availability per week is currently:
 * Maximum 1 day (or 2 half days) on-site
 * In addition a maximum of 2 days remote
 
-Currently I have an hourly rate of €105. This hourly rate includes travel and accommodation costs, and excludes sales tax.
+Currently I have an hourly rate of €95. This hourly rate includes travel and accommodation costs, and excludes sales tax.
 
 I live in Delfgauw (Netherlands) and am open to either all-remote projects, or projects with a maximum travel time of 20 minutes by car.
 
@@ -37,7 +37,7 @@ My preference is for projects where I work closely with the CTO/CIO of a company
 
 Currently I am available for a project with one or more of the following techniques, or a project where these techniques can be implemented:
 
-* Golang, Typescript or Kotlin/Java for the back-end.
+* Golang or Typescript for the back-end.
 * ReactJS (+Redux) for the front-end
 * React Native (+Expo) for mobile
 * DevOps/Cloud automation with Linux environments
@@ -62,7 +62,7 @@ My interests are mainly:
 * Businesses _modernise_ in IT (e.g. from on-premise applications to microservices in public cloud)
 * _Startups_ where software is the main focus, where important decisions have to be made about _software architecture_
 
-_I am open to both greenfield and brownfield projects, with a preference for [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
+_I am open to both greenfield and brownfield projects, with a slight preference for [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
 
 #### Team and mindset
 

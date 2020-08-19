@@ -9,13 +9,13 @@ slug = "recruiters-nl"
 
 Omdat mijn beschikbaarheid en wensen voor projecten regelmatig veranderen, heb ik deze pagina op mijn website toegevoegd, speciaal voor recruiters, waarop ik antwoord kan geven op de meeste vragen.
 
-Om te lezen over mij als persoon en mijn achtergrond, ga naar de [about](/about)-pagina.
+Om te lezen over mij als persoon en mijn achtergrond, ga naar de [about](/about)-pagina. Om mijn CV te bekijken, zie mijn [resume](/resume) pagina.
 
 #### Beschikbaarheid en reistijd
 
 **Momenteel ben ik  wel/~~niet~~ beschikbaar voor een freelance opdracht**
 
-*Na jaren met plezier gewerkt te hebben als full-stack developer heb ik de ambitie om alleen nog projecten aan te nemen waarbij de focus sterk ligt op software architectuur, infrastructuur en systems integration.*
+*Na jaren met plezier gewerkt te hebben als full-stack developer heb ik de ambitie om de focus te leggen op projecten waarbij ik betrokken ben bij de software architectuur, infrastructuur en systems integration, naast de ontwikkeling van software zelf.*
 
 Mijn beschikbaarheid per week is momenteel:
 
@@ -23,7 +23,7 @@ Mijn beschikbaarheid per week is momenteel:
 * Maximaal 1 dag (of 2 halve dagen) bij de klant on-site
 * Hiernaast maximaal 2 dagen remote
 
-Momenteel hanteer ik een uurtarief van €105. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €95. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
 Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 20 minuten met de auto.
 
