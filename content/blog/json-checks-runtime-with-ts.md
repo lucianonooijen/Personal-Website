@@ -6,6 +6,7 @@ tags = []
 categories = []
 +++
 
+_The contents of this article are technical in nature and mainly written for software developers_
 
 Bytecode is currently working on a project for a startup. We are developing an app that is linked to a backend data storage service. For this project, I wanted to have more security around the API calls and validate the types at runtime.
 
