@@ -36,15 +36,17 @@ Another issue I faced during this time was that in The Netherlands, there is onl
     * Databases (not how to use them, but how to build them, how data is stored and retrieved)
     * Robotics (how embedded systems allow hardware to move, the electrical engineering behind it)
     * Computational Science (computer science, applied to solve large problems)
+    * Cyber security fundamentals (not just how to use metasploit, but true cybersec fundamentals)
 * Linguistics
+    * Fundamentals of linguistics
     * Latin
     * German
     * Italian
     * French
+    * Koine Greek
     * Spanish
     * Hebrew
     * Arabic
-    * Koine Greek
 * Philosophy
     * Stoicism
     * Epicureanism
@@ -52,8 +54,8 @@ Another issue I faced during this time was that in The Netherlands, there is onl
     * Theology
     * Modern philosophy
 * History
-    * Ancient Greek
     * Ancient Roman
+    * Ancient Greek
     * Communist revolution
     * American history
     * Enlightenment
@@ -71,12 +73,13 @@ Another issue I faced during this time was that in The Netherlands, there is onl
     * Golf
     * Tennis
 * Misc
-    * Gardening
+    * Rhethoric
     * Speaking and presenting
     * Debating and negotiation
     * Meditation/mindfulness
     * Storytelling
     * Cooking different cuisines
+    * Gardening
 
 _Note: wanting to learn about a subject is not the same as believing in it. For example, wanting to learn about socialism does not mean I'm a socialist._
 
