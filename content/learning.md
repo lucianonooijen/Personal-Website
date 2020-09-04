@@ -130,3 +130,13 @@ _I will update this page and add a log of what I have used for learning, so that
 ## Progress and timeline
 
 As time progresses, I will add a sort of timeline of my learnings, mostly for myself as reference later, but also so I can advice others on how to progress.
+
+### Update September 4th, 2020
+
+My plan was to focus at least 60% on learning computer science. Well, I failed that part. It's been around 10-20%. Although I have learned quite a bit about mathematics in particular, computer science has not been my focus in the last few months.
+
+Instead, I have spent most of my learning hours on philosophy, with some Latin during the weekends. I really, really enjoy learning about philosophy (stoicism in particular - crazy how ancient life is so similar to the present in many ways, and how wise some guys were 2000 years ago, anyway, I digress), as it changes your modus operandi, the way you look at the world. It has been beneficial for me on multiple occasions.
+
+Latin has been way more fun than I imagined. Using [comprehensible input](https://www.youtube.com/watch?v=fnUc_W3xE1w) with Lingua Latina has been awesome. Learning Latin this way even makes working with grammatical cases intuitive, compared to my struggle learning the German case system in high school, having to learn lists of conjugations with limited context.
+
+I do plan to increase the computer science/mathematics part a bit - maybe to 30-40% of the total - but not to the 60% level I initially planned. One last golf-related thing: yesterday, Thomas and I got our course permission! We will practice over the winter and we are planning to get our handicap 54s in the spring of next year.
