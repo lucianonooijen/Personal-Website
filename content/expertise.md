@@ -35,13 +35,12 @@ Since about a year, I fill the role of Technical Lead at Bytecode. This means th
 
 The techniques I'm currently working with the most are in **bold**.
 
-### Web development
-
 ### Backend/server development
 
 * **Golang** (Gin, Echo)
 * Typescript (NodeJS, Express, Deno)
 * Kotlin/Java (Spring Boot)
+* Rust
 * Haskell
 
 _With mostly **PostgreSQL** as the underlying database._
