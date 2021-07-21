@@ -55,10 +55,10 @@ _With mostly **PostgreSQL** as the underlying database._
 ### Site Reliability Engineering and DevOps
 
 * **Linux** (Arch, Ubuntu, CentOS)
+* **Docker and Kubernetes**
 * **Infrastructure and provisioning** (Ansible, Terraform, Shell)
-* **Systems integration**
+* Systems integration
 * CI/CD(GitLab)
-* Docker and Kubernetes
 * Cloud (DigitalOcean, AWS)
 * Nginx
 
@@ -72,6 +72,6 @@ _With mostly **PostgreSQL** as the underlying database._
 
 ## Learning
 
-Currently, I spend around 20 hours per week on self-education. Most of it focussed on computer science, some of it on other subjects (like linguistics or philosophy). You can read more on my [learning page](/learning).
+Currently, I spend around 20 hours per week on self-education. Some of it focused on computer science, most of it on other subjects (like philosophy, history and linguistics). You can read more on my [learning page](/learning).
 
 The old learning page is archived [here](/archive/learning).

@@ -13,19 +13,16 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [about](/about)
 
 #### Beschikbaarheid en reistijd
 
-**Momenteel ben ik  wel/~~niet~~ beschikbaar voor een freelance opdracht**
+**Momenteel ben ik <i>wel</i>/~~niet~~ beschikbaar voor een freelance opdracht**
 
 *Na jaren met plezier gewerkt te hebben als full-stack developer heb ik de ambitie om de focus te leggen op projecten waarbij ik betrokken ben bij de software architectuur, infrastructuur en systems integration, naast de ontwikkeling van software zelf.*
 
 Mijn beschikbaarheid per week is momenteel:
 
-* In totaal 24 uur per week
-* Maximaal 1 dag (of 2 halve dagen) bij de klant on-site
-* Hiernaast maximaal 2 dagen remote
+* In totaal 24-32 uur per week
+* Volledig remote
 
-Momenteel hanteer ik een uurtarief van €95. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
-
-Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 20 minuten met de auto.
+Momenteel hanteer ik een uurtarief van €95. Dit uurtarief is all-in, maar exclusief omzetbelasting.
 
 _Mijn voorkeur gaat uit naar een project met een initiële looptijd van 3-6 maanden, met verlenging in overleg_.
 
@@ -37,11 +34,11 @@ Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van 
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken, of een project waar deze technieken geïmplementeerd kunnen worden:
 
-* Golang, Typescript of Kotlin/Java voor de back-end
+* Golang voor de back-end
 * ReactJS (+Redux) voor de front-end
 * React Native (+Expo) voor mobile
 * DevOps/Cloud-automatisering met Linux-omgevingen
-* Site Reliability Engineering
+* Site Reliability Engineering (met bv. Kubernetes)
 
 _Helaas is het voor mij niet mogelijk om te werken met omgevingen waarvoor het Windows-besturingsysteem benodigd is._
 

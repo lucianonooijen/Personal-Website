@@ -20,6 +20,8 @@ The technologies I'm currently working with the most are in **bold**.
 * **Golang** (Gin, Echo)
 * Typescript (NodeJS, Express, Deno)
 * Kotlin/Java (Spring Boot)
+* Rust
+* Haskell
 
 _With mostly **PostgreSQL** as the underlying database._
 
@@ -33,10 +35,10 @@ _With mostly **PostgreSQL** as the underlying database._
 ### Site Reliability Engineering and DevOps
 
 * **Linux** (Arch, Ubuntu, CentOS)
+* **Docker and Kubernetes**
 * **Infrastructure and provisioning** (Ansible, Terraform, Shell)
-* **Systems integration**
+* Systems integration
 * CI/CD(GitLab)
-* Docker and Kubernetes
 * Cloud (DigitalOcean, AWS)
 * Nginx
 
@@ -62,27 +64,39 @@ _05/2018 - present_ ~ **Co-founder and techlead**
 * Leading client software projects on both front- and back-end and software consultancy
 * Involved in multiple startup, including partnerships and investments
 
+#### Airchip B.V.
+
+_02/2021 - present_ ~ **CTO, ad interim**
+
+* Startup to revolutionize digital ordering of drinks at festivals, even without internet connection
+* Hands-on development for the backend application (Golang) and admin applications (Vue, Javascript)
+* Responsible for the site reliability engineering and automation (Kubernetes, Go, Gitlab)
+* Advisory role for the three native applications (Kotlin, Swift) and the BLE-protocol
+* Leading role in the implementation of new working methodologies and development guidelines
+* Responsible for selecting/screening new developers and onboarding them
+* Project is currently on the back-burner due to COVID-19 restrictions in the festival branche
+
 #### Dearly B.V.
 
-_06/2020 - present_ ~ **Partner and techlead**
+_06/2020 - present_ ~ **Partner and techlead (part-time)**
 
 * Startup for supporting mourners cope with their losses through various ways, investor through Bytecode
 * Development of the custom backend application, written in Go, with PostgreSQL database
 * Leading development of the mobile application in React/Typescript/Expo
 * Software architecture and infrastructure setup, deployment automation
-* Currently part-time role to support the development of the mobile app
 * Advisor for technical decisions and determining the feature roadmap
+* Currently part-time advisory role to support the development of the mobile app
 
 #### Youngpwr B.V.
 
-_02/2020 - present_ ~ **Partner and techlead**
+_02/2020 - present_ ~ **Partner and techlead (part-time)**
 
 * Startup for helping young people to further develop their entrepreneurial side, investor through Bytecode
 * Development of custom backend application in Go and CMS
 * Leading development of the frontend application in React/Typescript/NextJS
 * Software architecture and infrastructure setup, deployment automation
-* Currently part-time role for leading the development of a job matching platform
 * Part of the management team (MT) and advisor for technical decisions
+* Currently part-time advisory role for preparing the development of a job matching platform
 
 #### Eneco / Dept Agency
 

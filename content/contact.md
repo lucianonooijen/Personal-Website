@@ -5,7 +5,7 @@ slug = "contact"
 
 I can best be reached by e-mail [luciano@bytecode.nl](mailto:luciano@bytecode.nl). For telephone contact it is best to make an appointment.
 
-Linken? [Feel free to add me](https://linkedin.com/in/lucianonooijen).
+Want to connect on LinkedIn? [Feel free to add me](https://linkedin.com/in/lucianonooijen).
 
 I can also be found on [GitHub](https://github.com/lucianonooijen/).
 

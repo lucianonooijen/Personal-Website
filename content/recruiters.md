@@ -19,13 +19,10 @@ To read about me as a person and my background, go to the [about](/over)-page. F
 
 My availability per week is currently:
 
-* A total of 24 hours a week
-* Maximum 1 day (or 2 half days) on-site
-* In addition a maximum of 2 days remote
+* A total of 24 to 32 hours a week
+* All remote working
 
-Currently I have an hourly rate of €95. This hourly rate includes travel and accommodation costs, and excludes sales tax.
-
-I live in Delfgauw (Netherlands) and am open to either all-remote projects, or projects with a maximum travel time of 20 minutes by car.
+Currently I have an hourly rate of €95. This hourly rate is all-in but excludes VAT.
 
 _My preference is for a project with an initial duration of 3-6 months, with extension in consultation_.
 
@@ -37,11 +34,11 @@ My preference is for projects where I work closely with the CTO/CIO of a company
 
 Currently I am available for a project with one or more of the following techniques, or a project where these techniques can be implemented:
 
-* Golang or Typescript for the back-end.
+* Golang for the back-end.
 * ReactJS (+Redux) for the front-end
 * React Native (+Expo) for mobile
 * DevOps/Cloud automation with Linux environments
-* Site Reliability Engineering
+* Site Reliability Engineering (f.e. with Kubernetes)
 
 _Unfortunately it is not possible for me to work with environments that require the Windows operating system._
 
@@ -78,5 +75,5 @@ Whether the team is English-speaking or Dutch-speaking does not matter to me, be
 
 For questions, or for an introduction I can be reached by email at [luciano@bytecode.nl](mailto:luciano@bytecode.nl), or go to the [contact page](/contact) to schedule an appointment.
 
-Linking? [Feel free to add me](https://www.linkedin.com/in/lucianonooijen/).
+Want to connect on LinkedIn? [Feel free to add me](https://www.linkedin.com/in/lucianonooijen/).
 

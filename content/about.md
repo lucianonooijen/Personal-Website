@@ -39,9 +39,9 @@ In 2016 I obtained my Anglia Proficiency certificate with a "Distinction" grade.
 
 #### Leisure
 
-Because I strongly believe in free(/open source) software, I try to contribute as much as possible with the development for which I am responsible, with Bytecode and beyond.
+Because I strongly believe in free(/open source) software, I try to contribute to this cause as much as possible with the development for which I am responsible, both with Bytecode and beyond. In my spare time I occasionally watch American Football (New York Giants) or baseball (Los Angeles Dodgers), and I like to play and watch snooker games.
 
-In my spare time I like to watch American Football (New York Giants) or baseball (Los Angeles Dodgers), and I like to play and watch snooker games.
+Most of my free time is taken up by reading and learning about various subjects: mainly philosophy, history and linguistics. I also like playing and learning about chess a lot. Feel free to [challenge me on Lichess](https://lichess.org/@/lucianonooijen)
 
 #### Website
 
