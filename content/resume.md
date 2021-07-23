@@ -110,7 +110,7 @@ _05/2019 - 03/2020_ ~ **Software engineer, ad interim**
 
 #### Stager Ticketing Software
 
-_05/2015 - 05/2018_ ~ **Full-stack software engineer**
+_12/2017 - 05/2018_ ~ **Full-stack software engineer**
 
 * Team with 9 people (4 developers), using SCRUM
 * Working on the Stager ticketing software, built using Java Play! and ReactJS
