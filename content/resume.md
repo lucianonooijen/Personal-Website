@@ -139,6 +139,38 @@ _07/2014 - 12/2018_ ~ **Owner and founder**
 * Marketing-related activities to promote the webshop and generate inbound traffic
 * Discontinued so I could fully focus on Bytecode
 
+## Volunteer experience
+
+#### Bookclub Philosophy
+
+_06-2021 - present_ ~ **Reading group leader and moderator**
+
+Leading the reading groups on Stoicism and general book discussion group. Other resonsibilities include Discord server administration, help out new members and automating tasks.
+
+#### Gaga Animal Care
+
+_04/2017 - present_ ~ **Treasurer and webmaster**
+
+Responsibilities include website creation and maintenance, supervising the administration and financial tasks.
+
+#### Pijnackerse Watervienden
+
+_2013 - 2015_ ~ **Swimming tutor assistant**
+
+Leading and assisting swimming lessons for young children.
+
+#### Atlas Animal Project
+
+_10/2013 - 12/2015_ ~ **Volunteer and assisting where needed**
+
+Occasionally assisting Atlas-representative(s), usually at Schiphol airport with dogs that arrived or collecting dog benches and returning them to Kos via cargo.
+
+#### Animal Rescue Kos
+
+_03/2013_ ~ **Documentary director**
+
+Assisting volunteers living on Kos and filming the activities. After filming I edited, released and promoted the film. Finished documentary: bit.ly/arkfilm or bit.ly/arkfilmgermany
+
 <br><hr><br>
 
 ## Working method
