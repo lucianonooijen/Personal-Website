@@ -6,3 +6,6 @@ dev:
 
 build:
 	hugo -d build -b https://lucianonooijen.com
+
+release:
+	ssh lucianonooijen.com 'cd Personal-Website && ./deploy'
