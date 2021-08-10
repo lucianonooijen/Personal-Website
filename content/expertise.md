@@ -2,7 +2,6 @@
 title = "Skills and Expertise"
 slug = "expertise"
 +++
-
 In the past ten years of programming, I have dealt with an enormous amount of programming languages and frameworks, from C to Ruby on Rails and from Java 6 to Python Django. As a result, I have figured out which languages and frameworks suit me best, and how I can achieve the best results to best meet the needs of the end user.
 
 In recent years I have specialised in a few stacks, as can be read below. Although of course I have my preferences, I will always choose _the best tool for the job_, regardless of my preference.
@@ -28,6 +27,7 @@ Since about a year, I fill the role of Technical Lead at Bytecode. This means th
 * [SOLID](https://en.wikipedia.org/wiki/SOLID), [KISS](https://en.wikipedia.org/wiki/KISS_principle) and [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
 * Versioning according to [Semantic Versioning](https://semver.org/)
 * Use of [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) to improve readability, performance and maintainability
+* Adhere to the [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
 * Use of free (open-source) software where possible
 
 

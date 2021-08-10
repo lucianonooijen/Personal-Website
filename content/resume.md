@@ -190,4 +190,5 @@ Assisting volunteers living on Kos and filming the activities. After filming I e
 * [SOLID](https://en.wikipedia.org/wiki/SOLID), [KISS](https://en.wikipedia.org/wiki/KISS_principle) and [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) code
 * Versioning according to [Semantic Versioning](https://semver.org/)
 * Use of [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) to improve readability, performance and maintainability
+* Adhere to the [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
 * Use of free (open-source) software where possible
