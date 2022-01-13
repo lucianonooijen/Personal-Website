@@ -3,9 +3,11 @@ title = "Resume Luciano Nooijen"
 slug = "resume"
 +++
 
-My name is Luciano Nooijen. In my work I mainly focus on identifying the needs of organizations, and creating solutions that meet those needs. In this way I combine my passion for technology with the fulfillment of business requirements.
+My name is Luciano Nooijen, I am co-founder of [Bytecode Digital Agency B.V.](https://bytecode.nl) and through Bytecode of different start-up ventures.
 
-What motivates me to do this work every day is to see how the applications I have worked on take an organization to a next level and make it possible for people within the organization to focus on what they are passionate about.
+I currently work as a freelance software engineer. I specialize in software development of back-end applications in Golang, where I can also occasionally join the front-end development for integration with the back-end.
+
+With my knowledge about both theoretical computer science and my broad practical experience for many different companies, my aim is to not to create cookie-cutter solutions, but to create software tailored for the specific use-case.
 
 To see my availability and hourly rate, please see the [recruiters](/recruiters) page.
 
@@ -13,7 +15,7 @@ To see my availability and hourly rate, please see the [recruiters](/recruiters)
 
 ## Technologies
 
-The technologies I'm currently working with the most are in **bold**.
+The techniques I'm currently working with the most and am most familar with are in **bold**.
 
 ### Backend/server development
 
@@ -27,8 +29,8 @@ _With mostly **PostgreSQL** as the underlying database._
 
 ### Front-end and mobile development
 
-* **React+Typescript** (with Redux, Styled-Components, NextJS)
-* **React Native** (Expo)
+* **React with Typescript** (with Redux, Styled-Components, NextJS)
+* **React Native** (Expo or bare)
 * Progressive Web Apps
 * Elm
 
@@ -37,8 +39,8 @@ _With mostly **PostgreSQL** as the underlying database._
 * **Linux** (Arch, Ubuntu, CentOS)
 * **Docker and Kubernetes**
 * **Infrastructure and provisioning** (Ansible, Terraform, Shell)
+* **CI/CD** (GitLab)
 * Systems integration
-* CI/CD(GitLab)
 * Cloud (DigitalOcean, AWS)
 * Nginx
 
@@ -46,17 +48,27 @@ _With mostly **PostgreSQL** as the underlying database._
 
 * **Compilers, parsers, DSLs**: Golang, Rust, Haskell
 * Systems programming: Rust, Golang, C
-* Data science: SQL, Python, Scala, Javascript, R
+* Data science: SQL, Python, Javascript
 
 <br><hr><br>
 
 ## Professional work experience
 
+#### Freelance
+
+_08/2021 - present_ ~ **Software engineer, freelance**
+
+I am available as a freelance software engineer. A dedicated page for which can be found [here](/recruiters/).
+
 #### Bytecode Digital Agency B.V.
 
-_05/2018 - present_ ~ **Co-founder and techlead**
+_08/2021 - present_ ~ **Co-founder and techlead, part-time**
 
-* Team of 11 people, with expertise in development, design, sales and marketing
+Since August 2021, I have started working part-time for Bytecode.
+
+_05/2018 - 08/2021_ ~ **Co-founder and techlead**
+
+* Team of 6 people, with expertise in development, design, sales and marketing
 * Development of custom software, mostly web/mobile applications with backed by an API server
 * Setting up infrastructure (internally and for clients), provisioning and security hardening
 * Developing internal tooling to make the software development process more efficient
@@ -64,39 +76,49 @@ _05/2018 - present_ ~ **Co-founder and techlead**
 * Leading client software projects on both front- and back-end and software consultancy
 * Involved in multiple startup, including partnerships and investments
 
+#### VNG Realisering, Team NLX
+
+_08/2021 - 12/2021_ ~  **Senior software engineer**
+
+* Open-source public project share data between organisations in a safe and privacy-proof way
+* Hands-on development on the back-end (Go), front-end (React) and SRE (Kuebernetes, Helm)
+* Improvements in development and build setup to improve development experience and speed
+* Advisory role on technical improvements for the codebase for long-term roadmap
+* Introduced Typescript into the React codebase and build systems
+* Providing React and Typescript training to back-end developers
+* Part of the contributions are public [on GitLab](https://gitlab.com/commonground/nlx/nlx/-/commits/master?search=Luciano)
+
 #### Airchip B.V.
 
-_02/2021 - present_ ~ **CTO, ad interim**
+_02/2021 - 11/2021_ ~ **CTO, ad interim**
 
 * Startup to revolutionize digital ordering of drinks at festivals, even without internet connection
 * Hands-on development for the backend application (Golang) and admin applications (Vue, Javascript)
 * Responsible for the site reliability engineering and automation (Kubernetes, Go, Gitlab)
 * Advisory role for the three native applications (Kotlin, Swift) and the BLE-protocol
 * Leading role in the implementation of new working methodologies and development guidelines
+* Advisory role on how to tackle the existing technical debt
 * Responsible for selecting/screening new developers and onboarding them
-* Project is currently on the back-burner due to COVID-19 restrictions in the festival branche
 
 #### Dearly B.V.
 
-_06/2020 - present_ ~ **Partner and techlead (part-time)**
+_06/2020 - 11/2021_ ~ **Partner and techlead (part-time)**
 
 * Startup for supporting mourners cope with their losses through various ways, investor through Bytecode
 * Development of the custom backend application, written in Go, with PostgreSQL database
 * Leading development of the mobile application in React/Typescript/Expo
 * Software architecture and infrastructure setup, deployment automation
 * Advisor for technical decisions and determining the feature roadmap
-* Currently part-time advisory role to support the development of the mobile app
 
 #### Youngpwr B.V.
 
-_02/2020 - present_ ~ **Partner and techlead (part-time)**
+_02/2020 - 08/2021_ ~ **Partner and techlead (part-time)**
 
 * Startup for helping young people to further develop their entrepreneurial side, investor through Bytecode
 * Development of custom backend application in Go and CMS
 * Leading development of the frontend application in React/Typescript/NextJS
 * Software architecture and infrastructure setup, deployment automation
 * Part of the management team (MT) and advisor for technical decisions
-* Currently part-time advisory role for preparing the development of a job matching platform
 
 #### Eneco / Dept Agency
 
@@ -108,7 +130,7 @@ _05/2019 - 03/2020_ ~ **Software engineer, ad interim**
 * Using automation to speed up the development process
 * Creation of tooling to better tackle existing technical debt
 
-#### Stager Ticketing Software
+#### Stager Software
 
 _12/2017 - 05/2018_ ~ **Full-stack software engineer**
 
@@ -116,8 +138,7 @@ _12/2017 - 05/2018_ ~ **Full-stack software engineer**
 * Working on the Stager ticketing software, built using Java Play! and ReactJS
 * Development of custom email builder using ReactJS, Java Play! and AWS
 * Integration of custom email builder within the rest of the application
-* Technical design and development of email templating solution based on MJML
-* Involved in reducing technical debt and introducing microservices outside of the  monolith
+* Email templating solution based on MJML
 
 #### Nooijen Web Solutions
 
@@ -138,14 +159,15 @@ _07/2014 - 12/2018_ ~ **Owner and founder**
 * Running and maintaining the webshop on all aspects (including administrative tasks)
 * Marketing-related activities to promote the webshop and generate inbound traffic
 * Discontinued so I could fully focus on Bytecode
-
 ## Volunteer experience
 
 #### Bookclub Philosophy
 
 _06-2021 - present_ ~ **Reading group leader and moderator**
 
-Leading the reading groups on Stoicism and general book discussion group. Other resonsibilities include Discord server administration, help out new members and automating tasks.
+Leading the reading groups on Stoicism, Aristotle and general book discussion group.
+
+Other resonsibilities include Discord server administration, development and maintenance of the [custom-made bot](https://github.com/lucianonooijen/socrates-discord-bot), helping out new members and automating tasks.
 
 #### Gaga Animal Care
 
@@ -173,6 +195,17 @@ Assisting volunteers living on Kos and filming the activities. After filming I e
 
 <br><hr><br>
 
+## Languages for humans
+
+* **Dutch** (native)
+* **English** (near-native)
+* **German** (intermediate)
+* **French** (beginner)
+* **Modern Greek** (beginner)
+* **Ancient Greek** (beginner)
+* **Latin** (beginner)
+
+<br><hr><br>
 ## Working method
 
 *Technologies I use to deliver elegant, efficient, readable, understandable and maintainable code that adds value to a company and/or product.*

@@ -4,15 +4,13 @@ slug = "expertise"
 +++
 In the past ten years of programming, I have dealt with an enormous amount of programming languages and frameworks, from C to Ruby on Rails and from Java 6 to Python Django. As a result, I have figured out which languages and frameworks suit me best, and how I can achieve the best results to best meet the needs of the end user.
 
-In recent years I have specialised in a few stacks, as can be read below. Although of course I have my preferences, I will always choose _the best tool for the job_, regardless of my preference.
+In recent years I have specialised in a few stacks, as can be read below. Although of course I have my preferences, I will always choose _the best tool for the job_, regardless of my perfonal preference.
 
-Unless the project requires otherwise, I program according to Bytecode's Coding Standards. The Coding Standards can be found [here](https://github.com/BytecodeBV/Coding-Standards).
-
-Since about a year, I fill the role of Technical Lead at Bytecode. This means that I only spend a small part of my time writing code myself, because I am more involved with software architecture, the design of the code at a higher level, performing code reviews and guiding the developers at Bytecode. Of course, there are still plenty of times when I do write code myself.
+I have worked both as a hands-on software engineer and as a technical lead, with responsibilities that go beyond just software development (software architecture, training developers with new technologies, determining the feature road map).
 
 ## Working method
 
-*Technologies I use to deliver elegant, efficient, readable, understandable and maintainable code that adds value to a company and/or product.*
+*Methods I employ to deliver elegant, efficient, readable, understandable and maintainable code that adds value to a company and/or product.*
 
 * "Always choose the best tool for the job"
 * Cloud and application structure using [The Twelve-Factor App](https://12factor.net/)
@@ -33,7 +31,7 @@ Since about a year, I fill the role of Technical Lead at Bytecode. This means th
 
 ## Technology used
 
-The techniques I'm currently working with the most are in **bold**.
+The techniques I'm currently working with the most and am most familar with are in **bold**.
 
 ### Backend/server development
 
@@ -47,8 +45,8 @@ _With mostly **PostgreSQL** as the underlying database._
 
 ### Front-end and mobile development
 
-* **React+Typescript** (with Redux, Styled-Components, NextJS)
-* **React Native** (Expo)
+* **React with Typescript** (with Redux, Styled-Components, NextJS)
+* **React Native** (Expo or bare)
 * Progressive Web Apps
 * Elm
 
@@ -57,8 +55,8 @@ _With mostly **PostgreSQL** as the underlying database._
 * **Linux** (Arch, Ubuntu, CentOS)
 * **Docker and Kubernetes**
 * **Infrastructure and provisioning** (Ansible, Terraform, Shell)
+* **CI/CD** (GitLab)
 * Systems integration
-* CI/CD(GitLab)
 * Cloud (DigitalOcean, AWS)
 * Nginx
 
@@ -66,7 +64,7 @@ _With mostly **PostgreSQL** as the underlying database._
 
 * **Compilers, parsers, DSLs**: Golang, Rust, Haskell
 * Systems programming: Rust, Golang, C
-* Data science: SQL, Python, Scala, Javascript, R
+* Data science: SQL, Python, Javascript
 
 ---
 

@@ -5,23 +5,25 @@ slug = "about"
 
 #### Introduction
 
-My name is Luciano Nooijen, co-founder of [Bytecode Digital Agency B.V.](https://bytecode.nl) where I currently fulfil the role of technical lead.
+My name is Luciano Nooijen, I am co-founder of [Bytecode Digital Agency B.V.](https://bytecode.nl) and through Bytecode of different start-up ventures.
+
+I currently work as a freelance software engineer, specialized in back-end development for web and mobile applications.
 
 #### Work
 
-After years of pleasure working as a full-stack developer, I started to specialize in software architecture, infrastructure and systems integration, while I still like to do quite a bit of coding myself.
+I specialize in software development of back-end applications in Golang, where I can also occasionally join the front-end development for integration with the back-end.
 
-In my work I mainly focus on identifying the needs of organizations, and creating solutions that meet those needs. In this way I combine my passion for technology with the fulfillment of business requirements.
+With my knowledge about both theoretical computer science and my broad practical experience for many different companies, my aim is to not to create cookie-cutter solutions, but to create software tailored for the specific use-case.
 
-What motivates me to do this work every day is to see how the applications I have worked on take an organization to a next level and make it possible for people within the organization to focus on what they are passionate about.
+In my work I mainly focus on identifying the needs of organizations, and creating solutions that meet those needs. In this way I combine my knowledge about technology with the fulfillment of business requirements.
 
-Within my work (cyber) security also plays a major role. At Bytecode, I take care of the security of both the servers and the applications that run on these servers.
+Within my work (cyber) security also plays a major role, both at the application level and at the server level.
 
 #### Career
 
 I started programming at an early age. In 2009 I made my first website, after having been interested in computers and software from an early age. After making this first website, I continued to broaden my knowledge, which enabled me to apply my skills on a professional level from 2014.
 
-In 2014 I developed my own webshop in WooCommerce and started to develop websites under the name Nooijen Web Solutions. After a while I started working together with [Jeroen van Steijn](https://jeroenvansteijn.nl), with whom I later founded Bytecode, and where I am currently working with an awesome 11-headed team.
+In 2014 I developed my own webshop in WooCommerce and started to develop websites under the name Nooijen Web Solutions. After a while I started working together with [Jeroen van Steijn](https://jeroenvansteijn.nl), with whom I later founded Bytecode, which evolved into a start-up focussed digital agency.
 
 ### Education
 
@@ -39,12 +41,12 @@ In 2016 I obtained my Anglia Proficiency certificate with a "Distinction" grade.
 
 #### Leisure
 
-Because I strongly believe in free(/open source) software, I try to contribute to this cause as much as possible with the development for which I am responsible, both with Bytecode and beyond. In my spare time I occasionally watch American Football (New York Giants) or baseball (Los Angeles Dodgers), and I like to play and watch snooker games.
+Because I strongly believe in free(/open source) software, I try to contribute to this cause where possible. In my spare time I read a lot of books, mostly non-fiction books about philosophy, history, linguistics and the classics.
 
-Most of my free time is taken up by reading and learning about various subjects: mainly philosophy, history and linguistics. I also like playing and learning about chess a lot. Feel free to [challenge me on Lichess](https://lichess.org/@/lucianonooijen)
+I also like to play chess. Feel free to [challenge me on Lichess](https://lichess.org/@/lucianonooijen)
 
 #### Website
 
 The source code of this website is made available on my [Github profile](https://github.com/lucianonooijen/personal-website) under MIT license.
 
-This website was developed using the static website generator Hugo (written in GoLang).
+This website was developed using the static website generator Hugo (written in Golang).

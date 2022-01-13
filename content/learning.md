@@ -131,6 +131,10 @@ _I will update this page and add a log of what I have used for learning, so that
 
 As time progresses, I will add a sort of timeline of my learnings, mostly for myself as reference later, but also so I can advice others on how to progress.
 
+### Update January 12th, 2022
+
+My learning is still mainly focussed on philsophy, history and linguistics. Since I have moved, I have started learning Modern Greek. I have started joining a few online reading groups about philosophy, which have greatly helped me get to know a lot of great people and great thinkers in the past.
+
 ### Update July 21st, 2021
 
 Nearly all of my learning since the last update has been in the subjects I enjoy learning about the most, namely philosophy, history and linguistics. I have not spent much of my free time on learning about computer science. A small part of my time at Bytecode is spent on computer science learning, some of it theorethical, some of it practical. I also find playing chess and learning more about it to be very enjoyable.

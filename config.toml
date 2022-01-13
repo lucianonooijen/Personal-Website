@@ -15,8 +15,8 @@ unsafe= true
 
 [params] # theme parameters
     author = "Luciano Nooijen" # Author's name.
-    info = "Technical Lead at Bytecode && Computer Science enthousiast" # Author's job title or info.
-    description = "My name is Luciano Nooijen, Technical Lead at Bytecode Digital Agency and Computer Science enthousiast" # Site description.
+    info = "Freelance software engineer && philosophy/history enthousiast" # Author's job title or info.
+    description = "My name is Luciano Nooijen, freelance software engineer and philosophy and history enthousiast" # Site description.
     keywords = "luciano nooijen, luciano, nooijen, bytecode, bytecode agency" # Site keywords.
 
     # disqusShortname = "lucianonooijen" # Enable or disable Disqus
@@ -36,7 +36,7 @@ unsafe= true
 [[params.social]]
     name = "Email"
     weight = 1
-    url = "mailto:luciano@bytecode.nl"
+    url = "mailto:luciano@lucianonooijen.com"
 [[params.social]]
     name = "Phone"
     weight = 2

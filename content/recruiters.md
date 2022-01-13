@@ -13,16 +13,14 @@ To read about me as a person and my background, go to the [about](/over)-page. F
 
 ### Availability and travel time
 
-**Currently I am open to new freelance/contract work**
-
-*After years of enjoying work as a full-stack developer, I have the ambition to mainly on projects where I will be involved with software architecture, infrastructure and systems integration, besides just the software development itself.*
+**Currently I _am_ ~~am not~~ open to new freelance/contract work as a software engineer**
 
 My availability per week is currently:
 
-* A total of 24 to 32 hours a week
+* A total of 24 hours a week
 * All remote working
 
-Currently I have an hourly rate of €95. This hourly rate is all-in but excludes VAT.
+Currently I have an hourly rate of €90. This hourly rate is all-in but excludes VAT.
 
 _My preference is for a project with an initial duration of 3-6 months, with extension in consultation_.
 
@@ -50,22 +48,19 @@ I like variety very much, so I don't have a strong preference to work in a certa
 
 My interests are mainly:
 
-* _Software architecture_ and determining the direction in the technical field within companies
-* The _inventing_ and _developing_ of internal tools to improve and accelerate (development) processes.
+* _Software architecture_ and determining the direction in the technical field within companies or teams
+* Improving the _developer experience_ using _CI/CD_ to speed up development and operations
+* The _inventing_ and _developing_ of internal tools to improve (development) processes.
 * _Consultancy_ in the IT field, and creating and translating requirements into the best technical interpretation
-* Guiding teams within a company and _technical project management_ by fulfilling the role of _technical lead_
 * _IT automation_ within a company and _systems integration_ (creating links between different applications)
 * Contributions to _open-source/free software projects_ of companies
-* Businesses _modernise_ in IT (e.g. from on-premise applications to microservices in public cloud)
-* _Startups_ where software is the main focus, where important decisions have to be made about _software architecture_
+* _Startups_ where software is the main focus
 
-_I am open to both greenfield and brownfield projects, with a slight preference for [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
+_I am open to both greenfield and brownfield projects, with no strong preference_
 
 #### Team and mindset
 
 Just as important as the work, I find the team and the mindset.
-
-Because I'm very passionate about what I do, I think it's important that the people I work with are too, because I believe that's the way to achieve the very best results.
 
 Within a team, I find it important that there is a culture that motivates people to write clean code and where quality of the software is paramount, so a mindset that fits [my way of working](https://lucianonooijen.nl/expertise/#werkwijze).
 

@@ -13,16 +13,14 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [about](/about)
 
 #### Beschikbaarheid en reistijd
 
-**Momenteel ben ik <i>wel</i>/~~niet~~ beschikbaar voor een freelance opdracht**
-
-*Na jaren met plezier gewerkt te hebben als full-stack developer heb ik de ambitie om de focus te leggen op projecten waarbij ik betrokken ben bij de software architectuur, infrastructuur en systems integration, naast de ontwikkeling van software zelf.*
+**Momenteel ben ik <i>wel</i>/~~niet~~ beschikbaar voor een freelance opdracht als software engineer**
 
 Mijn beschikbaarheid per week is momenteel:
 
 * In totaal 24-32 uur per week
 * Volledig remote
 
-Momenteel hanteer ik een uurtarief van €95. Dit uurtarief is all-in, maar exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €90. Dit uurtarief is all-in, maar exclusief omzetbelasting.
 
 _Mijn voorkeur gaat uit naar een project met een initiële looptijd van 3-6 maanden, met verlenging in overleg_.
 
@@ -42,7 +40,7 @@ Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgend
 
 _Helaas is het voor mij niet mogelijk om te werken met omgevingen waarvoor het Windows-besturingsysteem benodigd is._
 
-Als er hiernaast ook nog focus zou liggen op security-aspecten, zou dat helemaal top zijn.
+Als er hiernaast ook nog focus zou liggen op security-aspecten, zou dat helemaal goed zijn.
 
 Om meer te lezen over mijn skillset, ga naar de [expertise-pagina](/expertise). Hier wordt ook mijn werkwijze verder toegelicht.
 
@@ -52,22 +50,19 @@ Ik hou erg van afwisseling, dus heb ik geen sterke voorkeur om in een bepaalde s
 
 Zo liggen mijn interesses vooral bij:
 
-* _Software architectuur_ en het bepalen van de richting op technisch gebied binnen bedrijven
-* Het _uitdenken_ en _ontwikkelen_ van interne tools om (development)-processen te verbeteren en versnellen
+* _Software architectuur_ en het bepalen van de richting op technisch gebied binnen bedrijven of teams
+* De _ontwikkelaarervaring_ verbeteren met _CI/CD_ om development en operations te versnellen
+* Het _uitdenken_ en _ontwikkelen_ van interne tools om (development)-processen te verbeteren
 * _Consultancy_ op IT-gebied, en het opstellen en vertalen van requirements tot de beste technische invulling
-* Het _begeleiden van teams_ binnen een bedrijf en _technisch project management_ door de rol van _technical lead_ te vervullen.
 * _IT-automatisering_ binnen een bedrijf en _systems integration_ (koppelingen maken tussen verschillende applicaties)
 * Bijdragen aan _open-source/vrije software-projecten_ van bedrijven
-* Bedrijven _moderniseren_ op IT-gebied (bv. van on-premise applicaties naar microservices in public cloud)
-* _Start-ups_ waarbij software de main-focus is, waarbij er belangrijke beslissingen rondom _software-architectuur_ gemaakt moeten worden
+* _Start-ups_ waarbij software de main-focus is
 
-_Ik sta open voor zowel greenfield als brownfield projecten, met een voorkeur voor [greenfield](https://www.quora.com/What-is-the-difference-between-a-brownfield-project-and-greenfield-projects)._
+_Ik sta open voor zowel greenfield als brownfield projecten, zonder sterke voorkeur_
 
 #### Team en mindset
 
 Net zo belangrijk als de werkzaamheden, vind ik het team en de mindset.
-
-Omdat ik erg gepassioneerd ben over wat ik doe, vind ik het belangrijk dat de mensen waarmee ik werk dit ook zijn, omdat ik geloof dat dat dé manier is om het allerbeste resultaat te behalen.
 
 Binnen een team vind ik het belangrijk dat er een cultuur heerst die motiveert om schone code te schrijven en waar kwaliteit van de software voorop staat, dus een mindset die aansluit op [mijn werkwijze](https://lucianonooijen.nl/expertise/#werkwijze).
 
