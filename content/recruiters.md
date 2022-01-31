@@ -20,7 +20,7 @@ My availability per week is currently:
 * A total of 24 hours a week
 * All remote working
 
-Currently I have an hourly rate of €90. This hourly rate is all-in but excludes VAT.
+Currently I have an hourly rate of €85. This hourly rate is all-in but excludes VAT.
 
 _My preference is for a project with an initial duration of 3-6 months, with extension in consultation_.
 
