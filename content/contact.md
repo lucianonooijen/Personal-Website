@@ -11,4 +11,4 @@ I can also be found on [GitHub](https://github.com/lucianonooijen/).
 
 ## Schedule a call appointment
 
-To prevent phone spam, I don't publically share my number, but feel free to reach out via email to schedule a call.
+To prevent phone spam, I don't publically share my number, but feel free to reach out via email or LinkedIn to schedule a call.

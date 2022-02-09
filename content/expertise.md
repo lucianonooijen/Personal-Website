@@ -2,7 +2,7 @@
 title = "Skills and Expertise"
 slug = "expertise"
 +++
-In the past ten years of programming, I have dealt with an enormous amount of programming languages and frameworks, from C to Ruby on Rails and from Java 6 to Python Django. As a result, I have figured out which languages and frameworks suit me best, and how I can achieve the best results to best meet the needs of the end user.
+In the past ten years of programming, I have dealt with a tremendous amount of programming languages and frameworks, from C to Ruby on Rails and from Java 6 to Python Django. As a result, I have figured out which languages and frameworks suit me best, and how I can achieve the best results to best meet the needs of the end user.
 
 In recent years I have specialised in a few stacks, as can be read below. Although of course I have my preferences, I will always choose _the best tool for the job_, regardless of my perfonal preference.
 

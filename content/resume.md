@@ -23,7 +23,7 @@ To see my availability and hourly rate, please see the [recruiters](/recruiters)
 
 <br><hr><br>
 
-## The languages for humans I speak
+## The human languages I speak
 
 * **Dutch** (native)
 * **English** (near-native)

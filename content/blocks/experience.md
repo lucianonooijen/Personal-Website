@@ -6,9 +6,9 @@ I am available as a freelance software engineer. A dedicated page for which can 
 
 #### Bytecode Digital Agency B.V.
 
-_08/2021 - present_ ~ **Co-founder and techlead, part-time**
+_08/2021 - 02/2022 ~ **Co-founder and techlead, part-time**
 
-Since August 2021, I have started working part-time for Bytecode.
+In August 2021, I announced my exit from Bytecode. As part of my exit, I have continued working for Bytecode part-time, to finish up loose ends and transfer knowledge to other team members.
 
 _05/2018 - 08/2021_ ~ **Co-founder and techlead**
 

@@ -22,7 +22,7 @@ _With mostly **PostgreSQL** as the underlying database._
 ### Site Reliability Engineering and DevOps
 
 * **Linux** (Arch, Ubuntu, CentOS)
-* **Docker and Kubernetes**
+* **Docker and Kubernetes** (Compose, Helm)
 * **Infrastructure and provisioning** (Ansible, Terraform, Shell)
 * **CI/CD** (GitLab)
 * Systems integration

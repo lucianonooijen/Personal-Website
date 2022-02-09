@@ -20,7 +20,7 @@ Mijn beschikbaarheid per week is momenteel:
 * In totaal 24-32 uur per week
 * Volledig remote
 
-Momenteel hanteer ik een uurtarief van €85. Dit uurtarief is all-in, maar exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €85-105 afhankelijk van de details van het project. Dit uurtarief is all-in, maar exclusief omzetbelasting.
 
 _Mijn voorkeur gaat uit naar een project met een initiële looptijd van 3-6 maanden, met verlenging in overleg_.
 
