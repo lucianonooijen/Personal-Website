@@ -9,7 +9,7 @@ slug = "recruiters"
 
 Because my availability and preferences for projects change regularly, I have added this page to my website, specifically for recruiters, where I can answer most questions.
 
-To read about me as a person and my background, go to the [about](/over)-page. For my resume, go to the [resume](/resume) page.
+To read about me as a person and my background, go to the [about](/about)-page. For my resume, go to the [resume](/resume) page.
 
 ### Availability and travel time
 
