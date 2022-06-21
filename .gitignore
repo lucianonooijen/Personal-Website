@@ -1,3 +1,4 @@
 public/
 build/
 .DS_Store
+.vercel
