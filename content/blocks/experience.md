@@ -2,7 +2,19 @@
 
 _08/2021 - present_ ~ **Software engineer, freelance**
 
-I am available as a freelance software engineer. A dedicated page for which can be found [here](/recruiters/).
+I currenly work as a freelance software engineer. A dedicated page for which can be found [here](/recruiters/).
+
+#### CoolGames B.V.
+
+_05/2022 - present_ ~ **Software and data engineer**
+
+* Responsible for migrating data for millions of players from multiple games to a new system
+* Building custom export module into SaaS platform Gamesparks to save data to record server
+* Building custom import module into CoolGames' Nakama setup to consume data from record server
+* Working with other teams to make sure there is no user impact after the migration
+* Heavy use of PostgreSQL's JSON(B) for performance and limiting possible downtime
+* Work on multiple applications, using Golang and Typescript/Deno
+* Involved with DevOps/SRE improvements (Docker, Terraform, Ansible, AWS) 
 
 #### Bytecode Digital Agency B.V.
 

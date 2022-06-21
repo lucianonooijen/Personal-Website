@@ -13,12 +13,12 @@ To read about me as a person and my background, go to the [about](/about)-page. 
 
 ### Availability and travel time
 
-**Currently I _am_ ~~am not~~ open to new freelance/contract work as a software engineer**
+**Currently I ~~am~~ _am not_ open to new freelance/contract work as a software engineer**
 
-My availability per week is currently:
+~~My availability per week is currently:~~
 
-* A total of 24 hours a week
-* All remote working
+* ~~A total of 24 hours a week~~
+* ~~All remote working~~
 
 Currently I have an hourly rate of €85-105 depending on the project details. This hourly rate is all-in but excludes VAT.
 

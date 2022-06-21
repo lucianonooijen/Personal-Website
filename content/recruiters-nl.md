@@ -13,12 +13,12 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [about](/about)
 
 #### Beschikbaarheid en reistijd
 
-**Momenteel ben ik <i>wel</i>/~~niet~~ beschikbaar voor een freelance opdracht als software engineer**
+**Momenteel ben ik ~~wel~~/_niet_ beschikbaar voor een freelance opdracht als software engineer**
 
-Mijn beschikbaarheid per week is momenteel:
+~~Mijn beschikbaarheid per week is momenteel:~~
 
-* In totaal 24-32 uur per week
-* Volledig remote
+* ~~In totaal 24-32 uur per week~~
+* ~~Volledig remote~~
 
 Momenteel hanteer ik een uurtarief van €85-105 afhankelijk van de details van het project. Dit uurtarief is all-in, maar exclusief omzetbelasting.
 
