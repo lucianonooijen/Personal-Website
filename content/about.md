@@ -23,7 +23,7 @@ Within my work (cyber) security also plays a major role, both at the application
 
 I started programming at an early age. In 2009 I made my first website, after having been interested in computers and software from an early age. After making this first website, I continued to broaden my knowledge, which enabled me to apply my skills on a professional level from 2014.
 
-In 2014 I developed my own webshop in WooCommerce and started to develop websites under the name Nooijen Web Solutions. After a while I started working together with [Jeroen van Steijn](https://jeroenvansteijn.nl), with whom I later founded Bytecode, which evolved into a start-up focussed digital agency.
+In 2014 I developed my own webshop in WooCommerce and started to develop websites under the name Nooijen Web Solutions. After a while I started working together with Jeroen van Steijn, with whom I later founded Bytecode, which evolved into a start-up focussed digital agency.
 
 ### Education
 

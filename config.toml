@@ -15,8 +15,8 @@ unsafe= true
 
 [params] # theme parameters
     author = "Luciano Nooijen" # Author's name.
-    info = "Freelance software engineer && philosophy/history enthousiast" # Author's job title or info.
-    description = "My name is Luciano Nooijen, freelance software engineer and philosophy and history enthousiast" # Site description.
+    info = "Freelance software engineer" # Author's job title or info.
+    description = "My name is Luciano Nooijen, freelance software engineer" # Site description.
     keywords = "luciano nooijen, luciano, nooijen, bytecode, bytecode agency" # Site keywords.
 
     # disqusShortname = "lucianonooijen" # Enable or disable Disqus
