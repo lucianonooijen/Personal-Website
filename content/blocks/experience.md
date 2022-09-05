@@ -6,7 +6,7 @@ I currenly work as a freelance software engineer. A dedicated page for which can
 
 #### CoolGames B.V.
 
-_05/2022 - present_ ~ **Software and data engineer**
+_05/2022 - 10/2022 (projected)_ ~ **Software and data engineer**
 
 * Responsible for migrating data for millions of players from multiple games to a new system
 * Building custom export module into SaaS platform Gamesparks to save data to record server
@@ -14,7 +14,7 @@ _05/2022 - present_ ~ **Software and data engineer**
 * Working with other teams to make sure there is no user impact after the migration
 * Heavy use of PostgreSQL's JSON(B) for performance and limiting possible downtime
 * Work on multiple applications, using Golang and Typescript/Deno
-* Involved with DevOps/SRE improvements (Docker, Terraform, Ansible, AWS) 
+* Involved with DevOps/SRE improvements (Docker, Terraform, Ansible, AWS)
 
 #### Bytecode Digital Agency B.V.
 
@@ -130,7 +130,8 @@ Other resonsibilities include Discord server administration, development and mai
 
 _04/2017 - present_ ~ **Treasurer and webmaster**
 
-Responsibilities include website creation and maintenance, supervising the administration and financial tasks.
+Volunteer for the dog shelter in Greece. Involved with planning and executing multiple neutering programs each year.
+Other responsibilities include website creation and maintenance, supervising the administration and financial tasks.
 
 #### Pijnackerse Watervienden
 

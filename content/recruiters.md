@@ -13,14 +13,14 @@ To read about me as a person and my background, go to the [about](/about)-page. 
 
 ### Availability and travel time
 
-**Currently I ~~am~~ _am not_ open to new freelance/contract work as a software engineer**
+**Currently I ~~am~~/~~am not~~/_am per November 1st_ open to new freelance/contract work as a software engineer**
 
-~~My availability per week is currently:~~
+My availability per week is, starting November 1st:
 
-* ~~A total of 24 hours a week~~
-* ~~All remote working~~
+* A total of 24 hours a week
+* All remote working
 
-Currently I have an hourly rate of €85-105 depending on the project details. This hourly rate is all-in but excludes VAT.
+Currently I have an hourly rate of €80-100 depending on the project details and payment period. This hourly rate is all-in but excludes VAT.
 
 _My preference is for a project with an initial duration of 3-6 months, with extension in consultation_.
 
@@ -62,7 +62,7 @@ _I am open to both greenfield and brownfield projects, with no strong preference
 
 Just as important as the work, I find the team and the mindset.
 
-Within a team, I find it important that there is a culture that motivates people to write clean code and where quality of the software is paramount, so a mindset that fits [my way of working](https://lucianonooijen.nl/expertise/#werkwijze).
+Within a team, I find it important that there is a culture that motivates people to write clean code and where quality of the software is paramount, so a mindset that fits [my way of working](https://lucianonooijen.nl/expertise/#working-method).
 
 Whether the team is English-speaking or Dutch-speaking does not matter to me, because I master the English language on a near-native level.
 

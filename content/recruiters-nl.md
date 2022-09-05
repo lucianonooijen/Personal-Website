@@ -13,14 +13,14 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [about](/about)
 
 #### Beschikbaarheid en reistijd
 
-**Momenteel ben ik ~~wel~~/_niet_ beschikbaar voor een freelance opdracht als software engineer**
+**Momenteel ben ik ~~wel~~/~~niet~~/_vanaf 1 november_ beschikbaar voor een freelance opdracht als software engineer**
 
-~~Mijn beschikbaarheid per week is momenteel:~~
+Mijn beschikbaarheid per week is vanaf 1 november:
 
-* ~~In totaal 24-32 uur per week~~
-* ~~Volledig remote~~
+* In totaal maximaal 24 uur per week
+* Volledig remote
 
-Momenteel hanteer ik een uurtarief van €85-105 afhankelijk van de details van het project. Dit uurtarief is all-in, maar exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €80-100 afhankelijk van de details van het project en betaaltermijn. Dit uurtarief is all-in, maar exclusief omzetbelasting.
 
 _Mijn voorkeur gaat uit naar een project met een initiële looptijd van 3-6 maanden, met verlenging in overleg_.
 
@@ -64,7 +64,7 @@ _Ik sta open voor zowel greenfield als brownfield projecten, zonder sterke voork
 
 Net zo belangrijk als de werkzaamheden, vind ik het team en de mindset.
 
-Binnen een team vind ik het belangrijk dat er een cultuur heerst die motiveert om schone code te schrijven en waar kwaliteit van de software voorop staat, dus een mindset die aansluit op [mijn werkwijze](https://lucianonooijen.nl/expertise/#werkwijze).
+Binnen een team vind ik het belangrijk dat er een cultuur heerst die motiveert om schone code te schrijven en waar kwaliteit van de software voorop staat, dus een mindset die aansluit op [mijn werkwijze](https://lucianonooijen.nl/expertise/#working-method).
 
 Of het team Engels-sprekend of Nederlands-sprekend is maakt voor mij niet uit, omdat ik de Engelse taal op near-native niveau beheers.
 
