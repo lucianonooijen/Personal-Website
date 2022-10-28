@@ -6,7 +6,7 @@ I currenly work as a freelance software engineer. A dedicated page for which can
 
 #### CoolGames B.V.
 
-_05/2022 - 10/2022 (projected)_ ~ **Software and data engineer**
+_05/2022 - 10/2022_ ~ **Software and data engineer**
 
 * Responsible for migrating data for millions of players from multiple games to a new system
 * Building custom export module into SaaS platform Gamesparks to save data to record server
