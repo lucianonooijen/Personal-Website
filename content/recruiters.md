@@ -17,7 +17,7 @@ To read about me as a person and my background, go to the [about](/about)-page. 
 
 My availability per week is, starting November 1st:
 
-* A total of 24 hours a week
+* A total of 32 hours a week
 * All remote working
 
 Currently I have an hourly rate of €80-100 depending on the project details and payment period. This hourly rate is all-in but excludes VAT.
