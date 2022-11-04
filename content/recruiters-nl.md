@@ -13,7 +13,7 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [about](/about)
 
 #### Beschikbaarheid en reistijd
 
-**Momenteel ben ik ~~wel~~/~~niet~~/_vanaf 1 november_ beschikbaar voor een freelance opdracht als software engineer**
+**Momenteel ben ik _wel_/~~niet~~ beschikbaar voor een freelance opdracht als software engineer**
 
 Mijn beschikbaarheid per week is vanaf 1 november:
 

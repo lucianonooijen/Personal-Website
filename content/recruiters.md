@@ -13,7 +13,7 @@ To read about me as a person and my background, go to the [about](/about)-page. 
 
 ### Availability and travel time
 
-**Currently I ~~am~~/~~am not~~/_am per November 1st_ open to new freelance/contract work as a software engineer**
+**Currently I _am_/~~am not~~ open to new freelance/contract work as a software engineer**
 
 My availability per week is, starting November 1st:
 
