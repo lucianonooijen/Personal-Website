@@ -2,7 +2,15 @@
 
 _08/2021 - present_ ~ **Software engineer, freelance**
 
-I currenly work as a freelance software engineer. A dedicated page for which can be found [here](/recruiters/).
+I currenly work as a freelance software engineer. A dedicated page for which can beo found [here](/recruiters/).
+
+#### Companion Group Ltd.
+
+_01/2023 - present_ ~ **Senior game backend engineer for VAILVR**
+
+* Migrating to new game server orchestration; client, server and CI/CD side implementation
+* Implementation of various SDKs into game client and server code (C++/Unreal Engine)
+* Also built company website [companiongroup.io](https://companiongroup.io), using Next.JS/React, Typescript, SCSS.
 
 #### CoolGames B.V.
 
