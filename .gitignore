@@ -1,3 +1,6 @@
+.hugo_build.lock
+.vscode/
+hugo/
 public/
 build/
 .DS_Store
