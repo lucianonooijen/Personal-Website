@@ -36,4 +36,4 @@ Feel free to use and modify my dot files for your own use!
 
 ##### Any questions or need help?
 
-I'm very passionate about how I've configured everything, and I'm happy to help others. If you have any questions, [mail me](mailto:luciano@bytecode.nl)!
+I'm very passionate about how I've configured everything, and I'm happy to help others. If you have any questions, [mail me](mailto:luciano@lucianonooijen.com)!

@@ -6,7 +6,7 @@ tags = ["culture", "corona"]
 categories = ["culture"]
 +++
 
-_This article is a translated and slightly modified version of the article I originally wrote in Dutch for Bytecode. To read the original, click [here](https://bytecode.nl/insights/coronacrisis-positief-effect/)_.
+_This article is a translated and slightly modified version of the article I originally wrote in Dutch for Bytecode. To read the original, click [here](https://web.archive.org/web/20210303031257/https://bytecode.nl/insights/coronacrisis-positief-effect/)_.
 
 Whether we like it or not, the corona pandemic is far from over. Even though quite some countries are slowly going back to "normal" (albeit with some more distance between each other), others have yet to reach the peak of their first wave.
 

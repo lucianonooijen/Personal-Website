@@ -68,7 +68,7 @@ Whether the team is English-speaking or Dutch-speaking does not matter to me, be
 
 ### Questions or contact
 
-For questions, or for an introduction I can be reached by email at [luciano@bytecode.nl](mailto:luciano@bytecode.nl), or go to the [contact page](/contact) to schedule an appointment.
+For questions, or for an introduction I can be reached by email at [luciano@lucianonooijen.com](mailto:luciano@lucianonooijen.com), or go to the [contact page](/contact) to schedule an appointment.
 
 Want to connect on LinkedIn? [Feel free to add me](https://www.linkedin.com/in/lucianonooijen/).
 
