@@ -8,8 +8,12 @@ I currenly work as a freelance software engineer. A dedicated page for which can
 
 _01/2023 - present_ ~ **Senior game backend engineer for VAILVR**
 
-* Migrating to new game server orchestration; client, server and CI/CD side implementation
+* Migrating to Armada game server orchestration; client, server and CI/CD side implementation
 * Implementation of various SDKs into game client and server code (C++/Unreal Engine)
+* Guiding adoption and implementation of AccelByte services into the game (C++)
+* Zero-downtime migration of PlayFab to AccelByte for authentication and entitlements (Golang)
+* Creation of custom game modules and tackling technical debt (C++)
+* Development lead for server browser, matchmaking, player progression and marketplace
 * Also built company website [companiongroup.io](https://companiongroup.io), using Next.JS/React, Typescript, SCSS.
 
 #### CoolGames B.V.
