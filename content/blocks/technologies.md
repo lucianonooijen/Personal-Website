@@ -2,13 +2,17 @@
 
 The technologies I'm currently working with the most and am most familiar with are in **bold**.
 
+### Game development
+
+* Game: **Unreal Engine 5** (C++, Blueprints)
+* Backend: **C#** (.NET 6), **Go**
+
 ### Backend/server development
 
 * **Golang** (Gin, Echo)
 * Typescript (NodeJS, Express, Deno)
-* Kotlin/Java (Spring Boot)
 * Rust
-* Haskell
+* C# (.NET 6)
 
 _With mostly **PostgreSQL** as the underlying database._
 
@@ -32,5 +36,5 @@ _With mostly **PostgreSQL** as the underlying database._
 ### Domain specific
 
 * **Compilers, parsers, DSLs**: Golang, Rust, Haskell
-* Systems programming: Rust, Golang, C
+* Systems programming: Rust, Golang, C, C++
 * Data science: SQL, Python, Javascript
