@@ -131,6 +131,10 @@ _I will update this page and add a log of what I have used for learning, so that
 
 As time progresses, I will add a sort of timeline of my learnings, mostly for myself as reference later, but also so I can advice others on how to progress.
 
+### Update September 15th, 2023
+
+The last year and a half, I have mainly focussed on learning philosophy, history, linguistic theory and picking up Modern and Ancient Greek. Since the beginning of this year, I started working on multiplayer games, a lot of things here were new to me, to expand my knowledge I am learning more about Unreal Engine and architectural patterns in multiplayer games. 
+
 ### Update January 12th, 2022
 
 My learning is still mainly focussed on philsophy, history and linguistics. Since I have moved, I have started learning Modern Greek. I have started joining a few online reading groups about philosophy, which have greatly helped me get to know a lot of great people and great thinkers in the past.
