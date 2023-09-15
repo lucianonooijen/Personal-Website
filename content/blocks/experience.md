@@ -28,8 +28,15 @@ _01/2023 - 08/2023_ ~ **Senior game backend engineer for VAIL VR (AEXLAB)**
 * Guiding adoption and implementation of AccelByte services into the game (C++/Unreal Engine)
 * Zero-downtime migration of PlayFab to AccelByte for authentication and entitlements (Golang)
 * Creation of custom game modules and tackling technical debt (C++/Unreal Engine)
+* Implemented game server player progression: stats tracking/uploads, MMR, rewards (C++)
 * Development lead for server browser, matchmaking, player progression and marketplace
-* Also built company website [companiongroup.io](https://companiongroup.io), using Next.JS/React, Typescript, SCSS.
+
+_01/2023 - present_ ~ **Website developer**
+
+* Built company website [companiongroup.io](https://companiongroup.io), (Next.JS/React, Typescript, SCSS)
+* Automatic deployment set-up (GitHub Actions, Vercel)
+* Maintenance and updates of dependencies
+* Occasional small edits or new features
 
 #### CoolGames B.V.
 
