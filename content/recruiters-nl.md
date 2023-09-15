@@ -13,12 +13,14 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [about](/about)
 
 #### Beschikbaarheid en reistijd
 
-**Momenteel ben ik _wel_/~~niet~~ beschikbaar voor een freelance opdracht als software engineer**
+**Momenteel ben ik ~~wel~~/_niet_ beschikbaar voor een freelance opdracht als software engineer**
 
+<!--
 Mijn beschikbaarheid per week is vanaf 1 november:
 
 * In totaal maximaal 32 uur per week
 * Volledig remote
+-->
 
 Momenteel hanteer ik een uurtarief van €80-100 afhankelijk van de details van het project en betaaltermijn. Dit uurtarief is all-in, maar exclusief omzetbelasting.
 
@@ -26,19 +28,20 @@ _Mijn voorkeur gaat uit naar een project met een initiële looptijd van 3-6 maan
 
 #### Technieken
 
-*Om de hoogst mogelijke waarde te leveren, door een kwalitatief hoge oplossing neer te zetten, is het voor mij belangrijk dat [<b>mijn werkwijze</b>](/expertise#werkwijze) bij projecten geïmplementeerd kan worden.*
+*Om de hoogst mogelijke waarde te leveren, door een kwalitatief hoge oplossing neer te zetten, is het voor mij belangrijk dat [<b>mijn werkwijze</b>](/expertise#working-method) bij projecten geïmplementeerd kan worden.*
 
 Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van een bedrijf, lead developers en/of software architecten, of waar ik een van deze rollen vervul.
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken, of een project waar deze technieken geïmplementeerd kunnen worden:
 
+* Unreal Engine 5 voor gameontwikkeling
 * Golang voor de back-end
 * ReactJS (+Redux) voor de front-end
 * React Native (+Expo) voor mobile
 * DevOps/Cloud-automatisering met Linux-omgevingen
 * Site Reliability Engineering (met bv. Kubernetes)
 
-_Helaas is het voor mij niet mogelijk om te werken met omgevingen waarvoor het Windows-besturingsysteem benodigd is._
+_Helaas is het voor mij niet mogelijk om te werken met omgevingen waarvoor het Windows-besturingsysteem benodigd is, tenzij een geschikte computer ter beschikking wordt gesteld door de klant._
 
 Als er hiernaast ook nog focus zou liggen op security-aspecten, zou dat helemaal goed zijn.
 
@@ -50,6 +53,7 @@ Ik hou erg van afwisseling, dus heb ik geen sterke voorkeur om in een bepaalde s
 
 Zo liggen mijn interesses vooral bij:
 
+* _Gameontwikkeling_ van multiplayer games
 * _Software architectuur_ en het bepalen van de richting op technisch gebied binnen bedrijven of teams
 * De _ontwikkelaarervaring_ verbeteren met _CI/CD_ om development en operations te versnellen
 * Het _uitdenken_ en _ontwikkelen_ van interne tools om (development)-processen te verbeteren
@@ -64,7 +68,7 @@ _Ik sta open voor zowel greenfield als brownfield projecten, zonder sterke voork
 
 Net zo belangrijk als de werkzaamheden, vind ik het team en de mindset.
 
-Binnen een team vind ik het belangrijk dat er een cultuur heerst die motiveert om schone code te schrijven en waar kwaliteit van de software voorop staat, dus een mindset die aansluit op [mijn werkwijze](https://lucianonooijen.nl/expertise/#working-method).
+Binnen een team vind ik het belangrijk dat er een cultuur heerst die motiveert om schone code te schrijven en waar kwaliteit van de software voorop staat, dus een mindset die aansluit op [mijn werkwijze](/expertise/#working-method).
 
 Of het team Engels-sprekend of Nederlands-sprekend is maakt voor mij niet uit, omdat ik de Engelse taal op near-native niveau beheers.
 
