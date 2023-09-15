@@ -2,7 +2,7 @@
 
 _08/2021 - present_ ~ **Software engineer, freelance**
 
-I currenly work as a freelance software engineer. A dedicated page for which can beo found [here](/recruiters/).
+I currenly work as a freelance software engineer. A dedicated page for which can be found [here](/recruiters/).
 
 #### Companion Group Ltd.
 
