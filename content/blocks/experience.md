@@ -6,13 +6,28 @@ I currenly work as a freelance software engineer. A dedicated page for which can
 
 #### Companion Group Ltd.
 
-_01/2023 - present_ ~ **Senior game backend engineer for VAILVR**
+_08/2023 - present ~ **Senior game backend engineer (full-time) for [unannounced]**
+
+* Containerization of game servers and integration with CI/CD (Docker, GitLab)
+* Development of custom game server orchestration solution (C# .NET 6, Serverless (SAM), DynamoDB)
+* Integration of game server orchestration into game server code (C++/Unreal Engine)
+* Set-up of game server infrastructure (Terraform, AWS)
+
+_08/2023 - present ~ **Development lead (part-time) for prototype of [unannounced]**
+
+* Initial set-up of prototype in Unreal Engine 5.2
+* Development of proof-of-concept of TeamManager subystem (C++/Unreal Engine)
+* Configuration of game replication set-up for multiplayer elements
+* Creation of various game elements and levels (Unreal Engine Blueprints)
+* Involved with technical oversight and support, advice for production version of game
+
+_01/2023 - 08/2023 ~ **Senior game backend engineer for VAIL VR (AEXLAB)**
 
 * Migrating to Armada game server orchestration; client, server and CI/CD side implementation
 * Implementation of various SDKs into game client and server code (C++/Unreal Engine)
-* Guiding adoption and implementation of AccelByte services into the game (C++)
+* Guiding adoption and implementation of AccelByte services into the game (C++/Unreal Engine)
 * Zero-downtime migration of PlayFab to AccelByte for authentication and entitlements (Golang)
-* Creation of custom game modules and tackling technical debt (C++)
+* Creation of custom game modules and tackling technical debt (C++/Unreal Engine)
 * Development lead for server browser, matchmaking, player progression and marketplace
 * Also built company website [companiongroup.io](https://companiongroup.io), using Next.JS/React, Typescript, SCSS.
 
