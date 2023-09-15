@@ -13,16 +13,18 @@ To read about me as a person and my background, go to the [about](/about)-page. 
 
 ### Availability and travel time
 
-**Currently I _am_/~~am not~~ open to new freelance/contract work as a software engineer**
+**Currently I ~~am~~/_am not_ open to new freelance/contract work as a software engineer or game engineer**
 
-My availability per week is, starting November 1st:
+<!--
+My availability per week is:
 
-* A total of 32 hours a week
+* A total of 40 hours a week
 * All remote working
 
 Currently I have an hourly rate of €80-100 depending on the project details and payment period. This hourly rate is all-in but excludes VAT.
 
 _My preference is for a project with an initial duration of 3-6 months, with extension in consultation_.
+-->
 
 #### Techniques
 
@@ -32,13 +34,14 @@ My preference is for projects where I work closely with the CTO/CIO of a company
 
 Currently I am available for a project with one or more of the following techniques, or a project where these techniques can be implemented:
 
-* Golang for the back-end.
+* Unreal Engine 5 for game development
+* Golang for the back-end
 * ReactJS (+Redux) for the front-end
 * React Native (+Expo) for mobile
 * DevOps/Cloud automation with Linux environments
 * Site Reliability Engineering (f.e. with Kubernetes)
 
-_Unfortunately it is not possible for me to work with environments that require the Windows operating system._
+_Unfortunately it is not possible for me to work with environments that require the Windows operating system, unless a suitable machine is provided by the client._
 
 To read more about my skills, go to the [expertise page](/expertise). Here, my working method is also explained in more detail.
 
@@ -48,9 +51,10 @@ I like variety very much, so I don't have a strong preference to work in a certa
 
 My interests are mainly:
 
+* _Game developent_ of online games with a variety of tasks
 * _Software architecture_ and determining the direction in the technical field within companies or teams
 * Improving the _developer experience_ using _CI/CD_ to speed up development and operations
-* The _inventing_ and _developing_ of internal tools to improve (development) processes.
+* The _inventing_ and _developing_ of internal tools to improve (development) processes
 * _Consultancy_ in the IT field, and creating and translating requirements into the best technical interpretation
 * _IT automation_ within a company and _systems integration_ (creating links between different applications)
 * Contributions to _open-source/free software projects_ of companies
