@@ -6,7 +6,7 @@ I currenly work as a freelance software engineer. A dedicated page for which can
 
 #### Companion Group Ltd.
 
-_08/2023 - present_ ~ **Senior game backend engineer (full-time) for [unannounced] (publisher: Amazon Games)**
+_08/2023 - present_ ~ **Senior game backend engineer (full-time) for [unannounced, AAA]**
 
 * Containerization of game servers and integration with CI/CD (Docker, GitLab)
 * Development of custom game server orchestration solution (C# .NET 6, Serverless (SAM), DynamoDB)
