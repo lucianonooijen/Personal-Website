@@ -6,7 +6,11 @@ I currenly work as a freelance software engineer. A dedicated page for which can
 
 #### Companion Group Ltd.
 
-_08/2023 - present_ ~ **Senior game backend engineer (full-time) for [unannounced, AAA]**
+_04/2024 - present_ ~ **Tech lead position (full-time) for [AAA]**
+
+_Details will be added in due time._
+
+_08/2023 - 03/2024_ ~ **Senior game backend engineer (full-time) for [AAA, Amazon Games, unannounced]**
 
 * Containerization of game servers and integration with CI/CD (Docker, GitLab)
 * Development of custom game server orchestration solution (C# .NET 6, Serverless (SAM), DynamoDB)
@@ -17,7 +21,7 @@ _08/2023 - present_ ~ **Senior game backend engineer (full-time) for [unannounce
 * Development of API server between players and GameLift (Golang, JWT, JWK, Kubernetes, Helm) 
 * Game server deployment automation (AWS, GitLab, Scripting)
 
-_08/2023 - present_ ~ **Development lead (part-time) for prototype of [unannounced]**
+_08/2023 - 04/2024_ ~ **Development lead (part-time) for prototype of [unannounced co-op game]**
 
 * Initial set-up of prototype in Unreal Engine 5.2
 * Development of proof-of-concept of TeamManager subystem (C++/Unreal Engine)
