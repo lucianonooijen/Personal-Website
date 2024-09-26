@@ -34,7 +34,7 @@ Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van 
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken, of een project waar deze technieken geïmplementeerd kunnen worden:
 
-* Unreal Engine 5 voor gameontwikkeling
+* Unreal Engine 5 of custom C++ voor gameontwikkeling
 * Golang voor de back-end
 * ReactJS (+Redux) voor de front-end
 * React Native (+Expo) voor mobile
@@ -49,7 +49,7 @@ Om meer te lezen over mijn skillset, ga naar de [expertise-pagina](/expertise). 
 
 #### Werkzaamheden en sector
 
-Ik hou erg van afwisseling, dus heb ik geen sterke voorkeur om in een bepaalde sector aan de slag te gaan, of in een specifieke rol die ik in zou nemen, maar ik heb natuurlijk wel zaken die me voornamelijk interesseren.
+Ik hou erg van afwisseling, maar heb een lichte voorkeur om binnen de games-industrie te blijven. Echter sta ik ook open voor posities in andere sectoren indien de positie binnen mijn interesses valt.
 
 Zo liggen mijn interesses vooral bij:
 
