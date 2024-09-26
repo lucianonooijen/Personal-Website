@@ -3,6 +3,8 @@ title = "About me"
 slug = "about"
 +++
 
+_Note: this page is currently outdated. I will replace it with an updated text soon._
+
 #### Introduction
 
 My name is Luciano Nooijen, I am co-founder of [Bytecode Digital Agency B.V.](https://bytecode.nl) and through Bytecode of different start-up ventures.
