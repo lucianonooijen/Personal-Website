@@ -29,7 +29,7 @@ _08/2023 - 04/2024_ ~ **Development lead (part-time) for prototype of [unannounc
 * Creation of various game elements and levels (Unreal Engine Blueprints)
 * Involved with technical oversight and support, advice for production version of game
 
-_01/2023 - 08/2023_ ~ **Senior game backend engineer for VAIL VR (AEXLAB)**
+_01/2023 - 08/2023_ ~ **Online game client engineer for VAIL VR (AEXLAB)**
 
 * Migrating to Armada game server orchestration; client, server and CI/CD side implementation
 * Implementation of various SDKs into game client and server code (C++/Unreal Engine)
@@ -81,6 +81,7 @@ _08/2021 - 12/2021_ ~  **Senior software engineer**
 * Open-source public project share data between organisations in a safe and privacy-proof way
 * Hands-on development on the back-end (Go), front-end (React) and SRE (Kubernetes, Helm)
 * Improvements in development and build setup to improve development experience and speed
+* Implementation of custom network logic based on gRPC, including security and encryption
 * Advisory role on technical improvements for the codebase for long-term roadmap
 * Introduced Typescript into the React codebase and build systems
 * Providing React and Typescript training to back-end developers
