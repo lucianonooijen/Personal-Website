@@ -35,7 +35,7 @@ _01/2023 - 08/2023_ ~ **Online game client engineer for VAIL VR (AEXLAB)**
 * Implementation of various SDKs into game client and server code (C++/Unreal Engine)
 * Guiding adoption and implementation of AccelByte services into the game (C++/Unreal Engine)
 * Zero-downtime migration of PlayFab to AccelByte for authentication and entitlements (Golang)
-* Creation of custom game modules and tackling technical debt (C++/Unreal Engine)
+* Creation of custom game modules, RPC calls and tackling technical debt (C++/Unreal Engine)
 * Implemented game server player progression: stats tracking/uploads, MMR, rewards (C++)
 * Development lead for server browser, matchmaking, player progression and marketplace
 
