@@ -5,16 +5,16 @@ The technologies I'm currently working with the most and am most familiar with a
 ### Game development
 
 * Game: **Unreal Engine 5** (C++, Blueprints)
-* Backend: **C#** (.NET 6), **Go**
+* Backend: **C++** (Unreal Engine, custom), **C#** (.NET 6), **Go**
 
 ### Backend/server development
 
-* **Golang** (Gin, Echo)
-* Typescript (NodeJS, Express, Deno)
-* Rust
+* **Golang** (Stdlib, Gin, Echo)
+* Typescript (NodeJS, Deno)
 * C# (.NET 6)
+* Rust
 
-_With mostly **PostgreSQL** as the underlying database._
+_Most often with **PostgreSQL** as the underlying database._
 
 ### Front-end and mobile development
 
@@ -28,13 +28,13 @@ _With mostly **PostgreSQL** as the underlying database._
 * **Linux** (Arch, Ubuntu, CentOS)
 * **Docker and Kubernetes** (Compose, Helm)
 * **Infrastructure and provisioning** (Ansible, Terraform, Shell)
-* **CI/CD** (GitLab)
+* **CI/CD** (GitLab, GitHub Actions, Azure DevOps, Jenkins)
 * Systems integration
-* Cloud (DigitalOcean, AWS)
+* Cloud (DigitalOcean, AWS, Azure)
 * Nginx
 
 ### Domain specific
 
 * **Compilers, parsers, DSLs**: Golang, Rust, Haskell
-* Systems programming: Rust, Golang, C, C++
-* Data science: SQL, Python, Javascript
+* Systems programming: C, C++, Golang, Rust, Golang,
+* Data science: SQL, Python, Javascript/Typescript
