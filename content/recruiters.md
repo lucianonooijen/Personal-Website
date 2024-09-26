@@ -34,24 +34,22 @@ My preference is for projects where I work closely with the CTO/CIO of a company
 
 Currently I am available for a project with one or more of the following techniques, or a project where these techniques can be implemented:
 
-* Unreal Engine 5 for game development
+* Unreal Engine 5 or custom C++ for game development
 * Golang for the back-end
 * ReactJS (+Redux) for the front-end
 * React Native (+Expo) for mobile
 * DevOps/Cloud automation with Linux environments
 * Site Reliability Engineering (f.e. with Kubernetes)
 
-_Unfortunately it is not possible for me to work with environments that require the Windows operating system, unless a suitable machine is provided by the client._
-
 To read more about my skills, go to the [expertise page](/expertise). Here, my working method is also explained in more detail.
 
 #### Work and sector
 
-I like variety very much, so I don't have a strong preference to work in a certain sector, or in a specific role that I would take on, but of course I have things that mainly interest me.
+I appreciate variety of work a lot. I have a slight preference to stay in the games industry with a preference for focus on online/multiplayer, though I am open to other positions that fit my interests too.
 
 My interests are mainly:
 
-* _Game developent_ of online games with a variety of tasks
+* _Game developent_ of online games with a variety of tasks, with a focus on online/multiplayer functionality
 * _Software architecture_ and determining the direction in the technical field within companies or teams
 * Improving the _developer experience_ using _CI/CD_ to speed up development and operations
 * The _inventing_ and _developing_ of internal tools to improve (development) processes
@@ -60,7 +58,7 @@ My interests are mainly:
 * Contributions to _open-source/free software projects_ of companies
 * _Startups_ where software is the main focus
 
-_I am open to both greenfield and brownfield projects, with no strong preference_
+_I am open to both greenfield and brownfield projects, with no preference._
 
 #### Team and mindset
 
