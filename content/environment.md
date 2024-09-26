@@ -3,6 +3,8 @@ title = "Development environment"
 slug = "environment"
 +++
 
+_Note: this page reflects my personal configuration, as my work requires me to work on Windows._
+
 #### Development environment
 
 I often get questions about what my local development environment looks like and how everything is configured. For this reason, I have summarised everything on this page.
