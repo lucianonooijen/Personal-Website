@@ -3,21 +3,19 @@ title = "About me"
 slug = "about"
 +++
 
-_Note: this page is currently outdated. I will replace it with an updated text soon._
-
 #### Introduction
 
-My name is Luciano Nooijen, I am co-founder of [Bytecode Digital Agency B.V.](https://bytecode.nl) and through Bytecode of different start-up ventures.
+My name is Luciano Nooijen, currently working in the games industry as an engineer focusing on online game client development and multiplayer functionality. 
 
-I currently work as a freelance software engineer, specialized in back-end development for web and mobile applications.
+My current position is technical lead at Companion Group, a co-development agency focussing on multiplayer games.
 
 #### Work
 
-I specialize in software development of back-end applications in Golang, where I can also occasionally join the front-end development for integration with the back-end.
+Although I was introduced to software engineering via website development, I have quickly moved more towards back-end development, integration work and site-reliability engineering. My work often includes work related to build automation, data processing and optimization. Given the chance, I love to work on compilers and low-level systems programming. 
 
-With my knowledge about both theoretical computer science and my broad practical experience for many different companies, my aim is to not to create cookie-cutter solutions, but to create software tailored for the specific use-case.
+A few years ago, I was given the opportunity to enter the gaming industry, in which I currently work in various positions on various projects, working mostly with Unreal Engine, C++ and various back-end technologies, mostly Golang and C#. Where necessary, I use my experience in web development to assist in the development of internal web-based tooling used during the game development process.
 
-In my work I mainly focus on identifying the needs of organizations, and creating solutions that meet those needs. In this way I combine my knowledge about technology with the fulfillment of business requirements.
+With my knowledge about both theoretical computer science and my broad practical experience for many different companies, my aim is to not to create cookie-cutter solutions, but to create software tailored for the specific use-case that is build to last and is easy to maintain for years to come.
 
 Within my work (cyber) security also plays a major role, both at the application level and at the server level.
 
@@ -25,7 +23,7 @@ Within my work (cyber) security also plays a major role, both at the application
 
 I started programming at an early age. In 2009 I made my first website, after having been interested in computers and software from an early age. After making this first website, I continued to broaden my knowledge, which enabled me to apply my skills on a professional level from 2014.
 
-In 2014 I developed my own webshop in WooCommerce and started to develop websites under the name Nooijen Web Solutions. After a while I started working together with Jeroen van Steijn, with whom I later founded Bytecode, which evolved into a start-up focussed digital agency.
+In 2014 I developed my own webshop in WooCommerce and started to develop websites under the name Nooijen Web Solutions. After a while I started working together with Jeroen van Steijn, with whom I later founded Bytecode, which evolved into a start-up focussed digital agency. Though Bytecode, I have co-founded multiple start-ups and assumed the position of technical lead in others, leading the development of their software products.
 
 ### Education
 
