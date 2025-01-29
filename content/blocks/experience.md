@@ -6,7 +6,11 @@ I currenly work as a freelance software engineer. A dedicated page for which can
 
 #### Companion Group Ltd.
 
-_04/2024 - present_ ~ **Tech lead position (full-time) for [AAA]**
+_01/2025 - present_ ~ **AI Bot Engineer, Unreal Engine (full-time) for [AA]**
+
+_Details will be added in due time._
+
+_04/2024 - 12/2024 ~ **Tech lead position (full-time) for [AAA]**
 
 _Details will be added in due time._
 
