@@ -4,37 +4,38 @@ The technologies I'm currently working with the most and am most familiar with a
 
 ### Game development
 
-* Game: **Unreal Engine 5** (C++, Blueprints)
-* Backend: **C++** (Unreal Engine, custom), **C#** (.NET 6), **Go**
+* Client: **Unreal Engine 5** (C++, Blueprints)
+* Backend: **C++** (Unreal Engine, custom), **C#** (.NET), **Go**
 
 ### Backend/server development
 
-* **Golang** (Stdlib, Gin, Echo)
-* Typescript (NodeJS, Deno)
-* C# (.NET 6)
-* Rust
+* **Golang** (Gin, Echo, Stdlib)
+* Typescript (NodeJS, Deno, Bun)
+* C# (.NET)
+* Elixir (Phoenix, OTP)
 
 _Most often with **PostgreSQL** as the underlying database._
 
 ### Front-end and mobile development
 
-* **React with Typescript** (with Redux, Styled-Components, NextJS)
-* **React Native** (Expo or bare)
+* **React with Typescript** (NextJS)
+* **Web Assembly** (Golang, Zig, Odin, Jai, C/C++)
+* React Native (Expo or bare)
 * Progressive Web Apps
 * Elm
 
 ### Site Reliability Engineering and DevOps
 
-* **Linux** (Arch, Ubuntu, CentOS)
-* **Docker and Kubernetes** (Compose, Helm)
-* **Infrastructure and provisioning** (Ansible, Terraform, Shell)
+* **Linux** (Ubuntu, Debian, Arch, CentOS)
 * **CI/CD** (GitLab, GitHub Actions, Azure DevOps, Jenkins)
+* Cloud (DigitalOcean, AWS, Azure, GCP)
+* Docker and Kubernetes (Compose, Helm)
+* Infrastructure and provisioning (Ansible, Terraform, Shell)
 * Systems integration
-* Cloud (DigitalOcean, AWS, Azure)
 * Nginx
 
 ### Domain specific
 
-* **Compilers, parsers, DSLs**: Golang, Rust, Haskell
-* Systems programming: C, C++, Golang, Rust, Golang,
+* **Compilers, parsers, DSLs**: Golang, C, C++
+* Systems programming: C, C++, Zig, Odin, Jai
 * Data science: SQL, Python, Javascript/Typescript
