@@ -25,7 +25,7 @@ _08/2023 - 03/2024_ ~ **Senior game backend engineer (full-time) for [AAA, Amazo
 * Development of API server between players and GameLift (Golang, JWT, JWK, Kubernetes, Helm) 
 * Game server deployment automation (AWS, GitLab, Scripting)
 
-_08/2023 - 04/2024_ ~ **Development lead (part-time) for prototype of [unannounced co-op game]**
+_08/2023 - 04/2024_ ~ **Development lead (part-time) for prototype of Project Dual**
 
 * Initial set-up of prototype in Unreal Engine 5.2
 * Development of proof-of-concept of TeamManager subystem (C++/Unreal Engine)

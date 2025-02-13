@@ -13,7 +13,7 @@ My current position is technical lead at Companion Group, a co-development agenc
 
 Although I was introduced to software engineering via website development, I have quickly moved more towards back-end development, integration work and site-reliability engineering. My work often includes work related to build automation, data processing and optimization. Given the chance, I love to work on compilers and low-level systems programming. 
 
-A few years ago, I was given the opportunity to enter the gaming industry, in which I currently work in various positions on various projects, working mostly with Unreal Engine, C++ and various back-end technologies, mostly Golang and C#. Where necessary, I use my experience in web development to assist in the development of internal web-based tooling used during the game development process.
+A few years ago, I was given the opportunity to enter the gaming industry, in which I currently work in various positions on various projects (details on my [experience page](/experience)), working mostly with Unreal Engine, C++ and various back-end technologies, mostly Golang and C#. Where necessary, I use my experience in web development to assist in the development of internal web-based tooling used during the game development process.
 
 With my knowledge about both theoretical computer science and my broad practical experience for many different companies, my aim is to not to create cookie-cutter solutions, but to create software tailored for the specific use-case that is build to last and is easy to maintain for years to come.
 

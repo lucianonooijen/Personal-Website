@@ -17,6 +17,10 @@ To see my availability and hourly rate, please see the [recruiters](/recruiters)
 
 <br><hr><br>
 
+## Game titles I worked on
+
+{{< mdfile file="content/blocks/gametitles.md" >}}
+
 ## Professional work experience
 
 {{< mdfile file="content/blocks/experience.md" >}}

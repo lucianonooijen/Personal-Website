@@ -8,4 +8,10 @@ h3 em { font-weight: 400; }
 h5 { margin-top: 0 !important; }
 </style>
 
+## Game titles
+
+{{< mdfile file="content/blocks/gametitles.md" >}}
+
+## Positions
+
 {{< mdfile file="content/blocks/experience.md" >}}
