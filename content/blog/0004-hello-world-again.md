@@ -4,6 +4,9 @@ title = "Hello, world! Again!"
 slug = "hello-world-again"
 tags = [""]
 categories = ["Updates"]
+[params]
+  metadescription = 'A short update on this blog'
+  metakeywords = 'luciano nooijen, blog'
 +++
 
 Recently, I have had quite a lot of ideas about interesting blog posts, some short, some long; some general notes and some more technical. All in the hope that this can be helpful or at least somewhat insightful for others.

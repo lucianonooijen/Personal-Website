@@ -4,6 +4,9 @@ title = "Easy help command for Makefiles"
 slug = "help-makefile"
 tags = ["QOL"]
 categories = ["Tools"]
+[params]
+  metadescription = 'Adding a help command to your Makefile'
+  metakeywords = 'makefile, help command'
 +++
 
 I love Makefiles, they are my prefered way to manage builds. Not just for C or C++, I also use it for Golang for example. To me, it is the best way to manage build commands in a single place.

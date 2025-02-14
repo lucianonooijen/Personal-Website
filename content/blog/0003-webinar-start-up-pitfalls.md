@@ -4,6 +4,9 @@ title = "Webinar replay: common pitfalls for software start-ups and how to avoid
 slug = "webinar-replay-software-start-up-pitfalls"
 tags = ["Webinar", "Start-ups"]
 categories = ["Video"]
+[params]
+  metadescription = 'Webinar replay for start-up pitfalls'
+  metakeywords = 'start-ups, pitfalls, webinar, luciano nooijen'
 +++
 
 On November 29th, 2021, I gave a webinar for Bytecode about common pitfalls for software start-ups and how to avoid them.

@@ -4,6 +4,9 @@ title = "Hello, world!"
 slug = "hello-world"
 tags = [""]
 categories = ["Updates"]
+[params]
+  metadescription = 'Hello world!'
+  metakeywords = 'luciano nooijen, blog'
 +++
 
 ## Welcome

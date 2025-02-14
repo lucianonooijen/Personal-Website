@@ -4,6 +4,9 @@ title = "The best way to handle SQL in Golang"
 slug = "best-golang-sql-handling"
 tags = ["Golang", "SQL"]
 categories = ["Backend"]
+[params]
+  metadescription = 'How to best handle SQL logic in Golang applications for migrations and queries'
+  metakeywords = 'golang, sqlc, go, sql, migrations, code generation'
 +++
 
 _tl;dr: using sqlc and golang-migrate allows plain easy SQL in your application_

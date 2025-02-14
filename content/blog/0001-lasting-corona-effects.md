@@ -4,6 +4,9 @@ title = "How the corona pandemic might permanently change our work-attitude"
 slug = "lasting-effects-corona-pandemic-on-work-attitude"
 tags = ["Covid19", "Work from home"]
 categories = ["Society"]
+[params]
+  metadescription = 'Lasting effects of the corona pandemic'
+  metakeywords = 'covid, covid19, work from home'
 +++
 
 _This article is a translated and slightly modified version of the article I originally wrote in Dutch for Bytecode. To read the original, click [here](https://web.archive.org/web/20210303031257/https://bytecode.nl/insights/coronacrisis-positief-effect/)_.

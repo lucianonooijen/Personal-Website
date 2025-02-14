@@ -6,8 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-    {{ with site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-    {{ with site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+    {{ if eq .Type "blog" }}
+      {{ with .Params.metadescription }}<meta name="description" content="{{ . }}">{{ end }}
+      {{ with .Params.metakeywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+    {{ else }}
+      {{ with site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+      {{ with site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+    {{ end }}
+
 
     <base href="{{ .Site.BaseURL }}">
     <title>{{ block "title" . }}{{ site.Title }}{{ end }}</title>
