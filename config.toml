@@ -3,7 +3,7 @@ title = "Luciano Nooijen" # Site title.
 theme = "lucianonooijen" # Set the theme.
 languageCode = "en"
 
-paginate = 20 # Default number of pages per page in pagination.
+paginate = 100 # Default number of pages per page in pagination.
 canonifyurls = true # Enable to turn relative URLs into absolute.
 
 pygmentsstyle = "xcode" # Color-theme or style for syntax highlighting.

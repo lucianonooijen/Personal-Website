@@ -2,8 +2,8 @@
 date = "2020-08-24"
 title = "Runtime JSON typechecks with Typescript interfaces"
 slug = "runtime-json-typechecks-with-typescript-interfaces"
-tags = []
-categories = []
+tags = ["Typescript", "Code Generation"]
+categories = ["Frontend"]
 +++
 
 _The contents of this article are technical in nature and mainly written for software developers_

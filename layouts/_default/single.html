@@ -4,7 +4,6 @@
 
 
 {{ define "content" }}
-  <!-- HACK: Should be stylesheet -->
   <style>
     /* Styling for articles */
     img { width: 80%; margin-left: 10%;}
@@ -17,5 +16,11 @@
       html { font-size: 40%; padding: 32px; }
     }
   </style>
-  {{ partial "page.html" . }}
+
+  {{ if eq .Type "blog" }} 
+    {{ partial "post.html" . }}
+  {{ else }}
+    {{ partial "page.html" . }}
+  {{ end }}
+
 {{ end }}

@@ -2,8 +2,8 @@
 date = "2020-07-28"
 title = "How the corona pandemic might permanently change our work-attitude"
 slug = "lasting-effects-corona-pandemic-on-work-attitude"
-tags = ["culture", "corona"]
-categories = ["culture"]
+tags = ["Covid19", "Work from home"]
+categories = ["Society"]
 +++
 
 _This article is a translated and slightly modified version of the article I originally wrote in Dutch for Bytecode. To read the original, click [here](https://web.archive.org/web/20210303031257/https://bytecode.nl/insights/coronacrisis-positief-effect/)_.
@@ -22,7 +22,7 @@ Before the corona crisis, few people were lucky enough to have the opportunity t
 
 ## Our mindset about working can be improved
 
-Is it really necessary to work in this "pre-corona" way? Do you have to be in the office for everything? Of course not everyone can (or wants to) be a [digital nomad](https://nl.wikipedia.org/wiki/Digitale_nomade), flying across the world to work online in hotels. However, there are possibilities to make work more enjoyable for everyone. I don't envision a shelf filler, car mechanic or electrician who works from home at times that suit him. But a translator, consultant or marketeer?
+Is it really necessary to work in this "pre-corona" way? Do you have to be in the office for everything? Of course not everyone can (or wants to) be a [digital nomad](https://en.wikipedia.org/wiki/Digital_nomad), flying across the world to work online in hotels. However, there are possibilities to make work more enjoyable for everyone. I don't envision a shelf filler, car mechanic or electrician who works from home at times that suit him. But a translator, consultant or marketeer?
 
 Personally, I am very attracted to the ideas from the [async manifesto](http://asyncmanifesto.org/), a set of insights on how software development can be better implemented. The ideas come down to this: use modern tools, create a flexible work environment, do not disturb people's concentration unless it's urgent and only hold meetings when it's really necessary. The async manifesto is focused primarily on software developers, but I think anyone with a non-physical profession can benefit from the tips given here.
 

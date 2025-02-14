@@ -3,7 +3,7 @@ title = "Contact"
 slug = "contact"
 +++
 
-I can best be reached by e-mail [luciano@lucianonooijen.com](mailto:luciano@lucianonooijen.com). For telephone contact it is best to make an appointment.
+I used to share my email here publically, but I started receiving a lot of spam from people scraping this website. You can email me at luciano@{thisdomain}, or drop me a message on LinkedIn.
 
 Want to connect on LinkedIn? [Feel free to add me](https://linkedin.com/in/lucianonooijen).
 

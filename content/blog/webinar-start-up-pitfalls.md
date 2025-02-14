@@ -2,8 +2,8 @@
 date = "2022-01-13"
 title = "Webinar replay: common pitfalls for software start-ups and how to avoid them"
 slug = "webinar-replay-software-start-up-pitfalls"
-tags = ["webinar", "start-ups"]
-categories = ["start-ups"]
+tags = ["Webinar", "Start-ups"]
+categories = ["Video"]
 +++
 
 On November 29th, 2021, I gave a webinar for Bytecode about common pitfalls for software start-ups and how to avoid them.

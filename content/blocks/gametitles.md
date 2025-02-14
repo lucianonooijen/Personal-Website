@@ -1,4 +1,15 @@
-<table>
+<style>
+  .gametitles-fallback { display: none }
+
+  @media screen and (max-width: 1000px) {
+      .gametitles-fallback { display: block }
+      .gametitles { display: none }
+  }
+</style>
+
+<p class="gametitles-fallback"><i>Mobile not supported</i></p>
+
+<table class="gametitles">
   <thead>
     <tr>
       <th>Type</th>
