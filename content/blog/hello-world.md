@@ -3,7 +3,7 @@ date = "2020-07-18"
 title = "Hello, world!"
 slug = "hello-world"
 tags = [""]
-categories = [""]
+categories = ["Updates"]
 +++
 
 ## Welcome
