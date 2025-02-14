@@ -6,8 +6,6 @@ tags = [""]
 categories = ["Updates"]
 +++
 
-## Coming soon
-
 Recently, I have had quite a lot of ideas about interesting blog posts, some short, some long; some general notes and some more technical. All in the hope that this can be helpful or at least somewhat insightful for others.
 
 I have updated my website to add slightly better blog support, including categories and tags to make this possible/
