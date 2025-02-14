@@ -1,6 +1,6 @@
 # Luciano Nooijen personal website
 
-[![Build Status](https://travis-ci.org/lucianonooijen/Personal-Website.svg?branch=master)](https://travis-ci.org/lucianonooijen/Personal-Website)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b597d94-711a-4772-8ca2-b95a39733a18/deploy-status)](https://app.netlify.com/sites/lucianonooijen/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flucianonooijen%2FPersonal-Website.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flucianonooijen%2FPersonal-Website?ref=badge_shield)
 
