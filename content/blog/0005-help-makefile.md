@@ -1,5 +1,5 @@
 +++
-date = "2025-02-14"
+date = "2025-02-13"
 title = "Easy help command for Makefiles"
 slug = "help-makefile"
 tags = ["QOL"]
