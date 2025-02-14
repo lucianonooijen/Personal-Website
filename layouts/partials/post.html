@@ -3,7 +3,8 @@
         <header>
             <h1 class="title">{{ .Title }}</h1>
             <h2 class="date">{{ .Date.Format "January 2, 2006" }}</h2>
-            <p style="margin-bottom: 0">
+            <p style="margin-bottom: 0"><b>Reading time</b>: {{ .ReadingTime }} minutes</p>
+            <p style="margin-bottom: 0; margin-top: 0;">
                 {{ with .GetTerms "categories" }}
                     <b>Categories:</b> 
                     {{ range . }}
