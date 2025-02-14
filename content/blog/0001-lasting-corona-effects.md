@@ -18,7 +18,7 @@ If you think about it, the current mindset about work is pretty crazy. Why do I 
 
 Before the corona crisis, few people were lucky enough to have the opportunity to decide their own approach to work. Mostly, remote work is only allowed when ill. Starting earlier in the morning, so that you can finish earlier in the day? No chance of success. Starting later and finishing later because you're not a morning person? Certainly not.
 
-![lecture hall](/img/corona-1.jpg)
+![lecture hall](/img/0001-1.jpg)
 
 ## Our mindset about working can be improved
 
@@ -30,7 +30,7 @@ When it comes to productivity, it seems that working from home (in a quiet offic
 
 How great would it be, instead of being constantly interrupted for some trivial question, to just answer non-urgent questions a few times per day? To not be disturbed by people who talk too loudly about yesterday's soccer game? As Jason Fried explains in his [TED talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work), you have to be able to work long uninterrupted stretches  to really get something done.
 
-![cat on keyboard tired of hearing corporate office jargon](/img/corona-2.jpg)
+![cat on keyboard tired of hearing corporate office jargon](/img/0002-2.jpg)
 
 ## The corona pandemic offers an opportunity to reflect on the current way of thinking
 
