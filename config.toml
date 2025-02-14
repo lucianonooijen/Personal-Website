@@ -48,6 +48,10 @@ unsafe= true
     weight = 3
     url = "https://github.com/lucianonooijen/"
 [[params.social]]
+    name = "Twitter"
+    weight = 4
+    url = "https://x.com/LucianoNooijen"
+[[params.social]]
     name = "LinkedIn"
     weight = 6
     url = "https://www.linkedin.com/in/lucianonooijen/"
