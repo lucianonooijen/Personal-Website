@@ -7,17 +7,21 @@
             <p style="margin-bottom: 0; margin-top: 0;">
                 {{ with .GetTerms "categories" }}
                     <b>Categories:</b> 
+                    {{ $categories := slice }}
                     {{ range . }}
-                        <span><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+                        {{ $categories = $categories | append (printf `<a href="%s">%s</a>` .RelPermalink .LinkTitle) }}
                     {{ end }}
+                    {{ delimit $categories ", " | safeHTML }}
                 {{ end }}
             </p>
             <p style="margin-top: 0">
                 {{ with .GetTerms "tags" }}
-                    <b>Tags:</b> 
+                    <b>Tags:</b>
+                    {{ $tags := slice }}
                     {{ range . }}
-                        <span><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+                        {{ $tags = $tags | append (printf `<a href="%s">%s</a>` .RelPermalink .LinkTitle) }}
                     {{ end }}
+                    {{ delimit $tags ", " | safeHTML }}
                 {{ end }}
             </p>
         </header>
