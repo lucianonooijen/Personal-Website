@@ -6,6 +6,8 @@ tags = ["Golang", "SQL"]
 categories = ["Backend"]
 +++
 
+_tl;dr: using sqlc and golang-migrate allows plain easy SQL in your application_
+
 Golang is a great language when building web/API services. And that makes a lot of sense, as Go was created for building scalable, performant applications. The language is very cohesive, compiles fast, has great performance and has a great ecosystem in addition to its rich standard library and great toolchain. Whenever I need to build a web service or API, I tend to reach for Go when possible, hence why I built quite a lot of applications with it so far, including around a dozen or so application back-ends.
 
 But this is not an article about why Go is great, but rather on how to handle SQL. Considering Golang is not made to be used in Ruby on Rails-type frameworks, you'll most likely have to set up the SQL-logic yourself.
