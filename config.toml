@@ -21,9 +21,6 @@ unsafe= true
     description = "My name is Luciano Nooijen, freelance software engineer and lifelong learner" # Site description.
     keywords = "luciano nooijen, luciano, nooijen" # Site keywords.
 
-    # disqusShortname = "lucianonooijen" # Enable or disable Disqus
-    disqusShortname = "" # Enable or disable Disqus
-
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
     hideCopyright = true

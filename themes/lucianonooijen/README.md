@@ -41,8 +41,6 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     description = "John Doe's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
-    disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
-
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
     hideCopyright = false
@@ -102,15 +100,6 @@ make demo
 ```
  The above command copies current state of the theme to exampleSite/themes and starts hugo with hugo serve -D (Go does not support Symlink directories)
 
-### Disqus
-Add the following line to your config,
-```disqusShortname = "yourdiscussshortname"``` When this is set, all posts are disqus enabled   
-You can disable comments for a post by adding the following to your page meta data.
-```disable_comments: true```
-
-
-## To Do
-- Tags, Categories and Series
 
 ## License
 
