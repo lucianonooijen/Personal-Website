@@ -29,10 +29,15 @@ The Meditations was not a book to be published, for Marcus Aurelius, it was most
 
 If you are interested in reading Meditations, or if you have read it before but want to understand it better, you cannot go wrong with this edition.
 
-## ISBNs
-
+The ISBNs are: 
 * Hardcover: 9781541673854
 * Paperback: 9781541673861
+
+## Other translations worth checking out
+
+* _If you can read Ancient Greek_: Haine's translation from the Loeb Classical Library is not an amazing translation, but has the original text on the left, and the English translation side-by-side on the right, which can be great.
+* _Dutch translation_: I have not read as many Dutch translations as English ones, but I like Simone Mooij-Valk's "Persoonlijke notities" best so far.
+* _German Translation_: there is a German translation of Waterfield's edition (Selbstbetrachtungen: Die kommentierte Edition, translated by Elisabeth Liebl), which I have partly read and quite liked.
 
 <br>
 
