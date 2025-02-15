@@ -1,6 +1,6 @@
 +++
 date = "2025-02-14"
-title = "The best way to handle SQL in Golang"
+title = "My favourite way to handle SQL in Golang"
 slug = "best-golang-sql-handling"
 tags = ["Golang", "SQL"]
 categories = ["Backend"]
