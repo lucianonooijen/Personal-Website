@@ -28,9 +28,6 @@ unsafe= true
     # Custom CSS
     custom_css = []
 
-    # RTL support
-    rtl = false
-
 # Social links
 [[params.social]]
     name = "Email"
