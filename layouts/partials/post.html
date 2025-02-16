@@ -14,10 +14,19 @@
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
+
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-font-smoothing: antialiased !important;
+        -moz-font-smoothing: antialiased !important;
+        text-rendering: optimizelegibility !important;
     }
 
     .post-content {
         margin-top: 64px;
+    }
+
+    .content {
+        margin-bottom: 0;
     }
 
     .post-content h1, 
@@ -44,7 +53,8 @@
 
     code {
         color: #223244;
-        background-color: #eee;
+        background-color: #dadada;
+        font-family: 'Anonymous Pro', monospace;
     }
     .highlight code {
         color: unset;
@@ -61,6 +71,16 @@
     }
     article a:hover {
         color: #0056b3 !important;  
+    }
+
+    .endofpost {
+        max-width: 400px;
+        margin: 3em auto 3.4em;
+        display: block;
+        height: 1px;
+        border: 0;
+        border-top: 1px solid #888;
+        padding: 0;
     }
 
     @media (max-width: 800px) {
@@ -107,12 +127,19 @@
             {{ .Content }}
         </div>
 
-        <br><br><br>
+        <hr class="endofpost" />
+
         <p style="text-align: center;">
-            <i>Thoughts or questions about this article? Feel free to drop me a <a href="https://www.linkedin.com/in/lucianonooijen/" target="_blank">message on LinkedIn</a> or <a href="https://x.com/LucianoNooijen">Twitter DM</a>!</i>
+            <i>
+                Thoughts or questions about this article? 
+                <br>
+                Feel free to drop me a 
+                <a href="https://www.linkedin.com/in/lucianonooijen/" target="_blank">message on LinkedIn</a> 
+                or a 
+                <a href="https://x.com/LucianoNooijen">Twitter DM</a>!
+            </i>
         </p>
-        <p style="text-align: center;">
-            <i>A note on the use of AI: all blog posts on this website are handwritten.<br>This website does not contain AI-generated content.</i>
-        </p>
+
+        <hr class="endofpost" />
     </article>
 </section>

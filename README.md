@@ -31,6 +31,7 @@ The `make` command can also be used:
 
 ### License
 
-MIT
+- [MIT](https://mit-license.org/) for all website code
+- [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for text content
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flucianonooijen%2FPersonal-Website.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flucianonooijen%2FPersonal-Website?ref=badge_large)
