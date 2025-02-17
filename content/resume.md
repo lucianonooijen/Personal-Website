@@ -13,17 +13,17 @@ To see my availability and hourly rate, please see the [recruiters](/recruiters)
 
 <br><hr><br>
 
-{{< mdfile file="blocks/technologies.md" >}}
+{{< mdfile file="assets/blocks/technologies.md" >}}
 
 <br><hr><br>
 
 ## Game titles I worked on
 
-{{< mdfile file="blocks/gametitles.md" >}}
+{{< mdfile file="assets/blocks/gametitles.md" >}}
 
 ## Professional work experience
 
-{{< mdfile file="blocks/experience.md" >}}
+{{< mdfile file="assets/blocks/experience.md" >}}
 
 <br><hr><br>
 
@@ -39,4 +39,4 @@ To see my availability and hourly rate, please see the [recruiters](/recruiters)
 
 <br><hr><br>
 
-{{< mdfile file="blocks/workmethod.md" >}}
+{{< mdfile file="assets/blocks/workmethod.md" >}}
