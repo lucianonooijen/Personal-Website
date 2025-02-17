@@ -4,9 +4,9 @@ languageCode = "en"
 
 canonifyurls = true # Enable to turn relative URLs into absolute.
 
-pygmentsstyle = "monokai" # Color-theme or style for syntax highlighting.
-pygmentscodefences = true # Enable code fence background highlighting.
-pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [markup.goldmark.extensions]
 table = true
@@ -14,7 +14,7 @@ table = true
 [markup.goldmark.renderer]
 unsafe= true
 
-[params] # theme parameters
+[params]
     author = "Luciano Nooijen"
     info = "Software, Gamedev, Sourdough, Philosophy, History"
     description = "My name is Luciano Nooijen, freelance software engineer and lifelong learner"
@@ -23,42 +23,38 @@ unsafe= true
 [[params.social]]
     name = "Email"
     weight = 1
-    url = "mailto:luciano@lucianonooijen.com"
-[[params.social]]
-    name = "Phone"
-    weight = 2
-    url = "/contact/"
+    url = "/contact"
 [[params.social]]
     name = "Github"
-    weight = 3
+    weight = 2
     url = "https://github.com/lucianonooijen/"
 [[params.social]]
     name = "Twitter"
-    weight = 4
+    weight = 3
     url = "https://x.com/LucianoNooijen"
 [[params.social]]
     name = "LinkedIn"
-    weight = 6
+    weight = 4
     url = "https://www.linkedin.com/in/lucianonooijen/"
 
 # Menu links
 [[menu.main]]
     name = "About"
-    weight = 2
+    weight = 1
     url  = "/about/"
 [[menu.main]]
     name = "Expertise"
-    weight = 3
+    weight = 2
     url = "/expertise/"
 [[menu.main]]
     name = "Experience"
-    weight = 4
+    weight = 3
     url = "/experience/"
 [[menu.main]]
     name = "Blog"
-    weight = 5
+    weight = 4
     url = "/blog/"
 [[menu.main]]
     name = "Contact"
-    weight = 6
+    weight = 5
     url = "/contact/"
