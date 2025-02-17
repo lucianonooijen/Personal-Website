@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flucianonooijen%2FPersonal-Website.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flucianonooijen%2FPersonal-Website?ref=badge_shield)
 
-Luciano Nooijen's personal website built in [Hugo](https://gohugo.io).
+Luciano Nooijen's personal website built with [Hugo](https://gohugo.io). Requires `sass` command to be in PATH.
 
 ## Development
 
@@ -26,6 +26,7 @@ The `make` command can also be used:
 | Command | Functionality |
 | ------- | ------------- |
 | `make server` | Runs hugo server |
+| `make css` | Converts scss to css |
 | `make dev` | Runs hugo server and opens `localhost:1313` in browser |
 | `make build` | Runs hugo build command as explained under the "production" header |
 
