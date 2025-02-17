@@ -1,5 +1,31 @@
 @use "_vars.scss";
+@use "_responsive.scss";
 
-// body {
-//   background-color: vars.$color-bg !important;
-// }
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; // Set base to 10px
+}
+
+body {
+    display: flex;
+    color: vars.$color-text;
+    background-color: vars.$color-bg;
+
+    font-family: "Noto Sans Mono", monospace;
+    font-size: 1.8em;
+    font-weight: 400;
+    
+    letter-spacing: 0.0625em;
+    line-height: 1.8em;
+    
+    @include responsive.max-lg() {
+        font-size: 1.4em;
+        line-height: 1.6em;
+    }
+  }

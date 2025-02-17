@@ -17,31 +17,6 @@ $darker-bg-color: #dcdcdc;
 $darker-fg-color: #000;
 $link-color: #3366cc;
 
-*,
-*:after,
-*:before {
-  box-sizing: inherit;
-}
-
-html {
-  box-sizing: border-box;
-  font-size: 62.5%;
-}
-
-body {
-  display: flex;
-  color: $fg-color;
-  background-color: $bg-color;
-  font-family: "Roboto Mono", monospace;
-  font-size: 1.6em;
-  font-weight: 400;
-  letter-spacing: 0.0625em;
-  line-height: 1.8em;
-  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-    font-size: 1.4em;
-    line-height: 1.6em;
-  }
-}
 
 a {
   font-weight: 700;

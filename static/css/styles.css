@@ -251,13 +251,13 @@ body {
   display: flex;
   color: #323232;
   background-color: #eee;
-  font-family: "Roboto Mono", monospace;
-  font-size: 1.6em;
+  font-family: "Noto Sans Mono", monospace;
+  font-size: 1.8em;
   font-weight: 400;
   letter-spacing: 0.0625em;
   line-height: 1.8em;
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+@media screen and (max-width: 1000px) {
   body {
     font-size: 1.4em;
     line-height: 1.6em;
