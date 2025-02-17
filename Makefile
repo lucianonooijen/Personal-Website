@@ -2,7 +2,10 @@ server:
 	hugo server
 
 css:
-	sass ./assets/styles/style.scss ./static/css/styles.css --no-source-map 
+	npm run build:css
+
+fmt:
+	npm run fmt
 
 dev:
 	open http://localhost:1313 && hugo server

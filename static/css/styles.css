@@ -12,7 +12,7 @@ html {
 body {
   display: flex;
   color: #323232;
-  background-color: #fefefe;
+  background-color: #eee;
   font-family: "Roboto Mono", monospace;
   font-size: 1.6em;
   font-weight: 400;
@@ -128,7 +128,7 @@ pre {
 
 code {
   background-color: #000;
-  color: #fefefe;
+  color: #eee;
   padding: 0.4rem 0.8rem 0.4rem 0.8rem;
 }
 
