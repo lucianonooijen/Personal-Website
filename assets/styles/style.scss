@@ -1,3 +1,16 @@
+// Start new code
+@use "normalize.scss";
+
+@use "src/_vars.scss"; // Variables
+@use "src/base.scss"; // Base styles, including layout etc.
+@use "src/typography.scss"; // Typography setup
+
+@use "src/navigation.scss"; // Navbar styling
+@use "src/footer.scss"; // Footer styling
+@use "src/table.scss"; // Tables styling
+@use "src/blog.scss"; // Blog specific code
+// End new code
+
 $bg-color: #eee;
 $fg-color: #323232;
 $darker-bg-color: #dcdcdc;
