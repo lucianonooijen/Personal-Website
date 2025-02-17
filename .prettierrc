@@ -1,0 +1,20 @@
+{
+    "printWidth": 80,
+    "singleQuote": false,
+    "bracketSameLine": true,
+    "proseWrap": "preserve",
+    "plugins": ["prettier-plugin-go-template"],
+    "overrides": [
+        {
+            "files": ["*.html"],
+            "options": {
+                "printWidth": 180,
+                "parser": "go-template",
+                "singleQuote": false,
+                "goTemplateBracketSpacing": true,
+                "bracketSameLine": true
+            }
+        }
+    ],
+    "goTemplateBracketSpacing": true
+}
