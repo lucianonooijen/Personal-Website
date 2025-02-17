@@ -1,32 +1,29 @@
 @mixin max-xs() {
-    @media screen and (max-width: 400px) {
-        @content;
-    }
+  @media screen and (max-width: 400px) {
+    @content;
+  }
 }
 
 @mixin max-sm() {
   @media screen and (max-width: 600px) {
-      @content;
+    @content;
   }
 }
-
 
 @mixin max-md() {
   @media screen and (max-width: 800px) {
-      @content;
+    @content;
   }
 }
-
 
 @mixin max-lg() {
   @media screen and (max-width: 1000px) {
-      @content;
+    @content;
   }
 }
 
-
 @mixin max-xl() {
   @media screen and (max-width: 1200px) {
-      @content;
+    @content;
   }
 }

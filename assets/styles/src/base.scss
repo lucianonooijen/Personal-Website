@@ -13,19 +13,19 @@ html {
 }
 
 body {
-    display: flex;
-    color: vars.$color-text;
-    background-color: vars.$color-bg;
+  display: flex;
+  color: vars.$color-text;
+  background-color: vars.$color-bg;
 
-    font-family: "Noto Sans Mono", monospace;
-    font-size: 1.8em;
-    font-weight: 400;
-    
-    letter-spacing: 0.0625em;
-    line-height: 1.8em;
-    
-    @include responsive.max-lg() {
-        font-size: 1.4em;
-        line-height: 1.6em;
-    }
+  font-family: "Noto Sans Mono", monospace;
+  font-size: 1.8em;
+  font-weight: 400;
+
+  letter-spacing: 0.0625em;
+  line-height: 1.8em;
+
+  @include responsive.max-lg() {
+    font-size: 1.4em;
+    line-height: 1.6em;
   }
+}

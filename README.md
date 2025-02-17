@@ -36,4 +36,3 @@ The `make` command can also be used:
 
 - [MIT](https://mit-license.org/) for all website code
 - [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for text content
-
