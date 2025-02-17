@@ -28,18 +28,18 @@ _My preference is for a project with an initial duration of 3-6 months, with ext
 
 #### Techniques
 
-*In order to deliver the highest possible value by delivering a high quality solution, it is important to me that <b>[my working method](/expertise#working-method)</b> can be implemented in projects.*
+_In order to deliver the highest possible value by delivering a high quality solution, it is important to me that <b>[my working method](/expertise#working-method)</b> can be implemented in projects._
 
 My preference is for projects where I work closely with the CTO/CIO of a company, lead developers and/or software architects, or where I fulfill one of these roles.
 
 Currently I am available for a project with one or more of the following techniques, or a project where these techniques can be implemented:
 
-* Unreal Engine 5 or custom C++ for game development
-* Golang for the back-end
-* ReactJS (+Redux) for the front-end
-* React Native (+Expo) for mobile
-* DevOps/Cloud automation with Linux environments
-* Site Reliability Engineering (f.e. with Kubernetes)
+- Unreal Engine 5 or custom C++ for game development
+- Golang for the back-end
+- ReactJS (+Redux) for the front-end
+- React Native (+Expo) for mobile
+- DevOps/Cloud automation with Linux environments
+- Site Reliability Engineering (f.e. with Kubernetes)
 
 To read more about my skills, go to the [expertise page](/expertise). Here, my working method is also explained in more detail.
 
@@ -49,14 +49,14 @@ I appreciate variety of work a lot. I have a slight preference to stay in the ga
 
 My interests are mainly:
 
-* _Game developent_ of online games with a variety of tasks, with a focus on online/multiplayer functionality
-* _Software architecture_ and determining the direction in the technical field within companies or teams
-* Improving the _developer experience_ using _CI/CD_ to speed up development and operations
-* The _inventing_ and _developing_ of internal tools to improve (development) processes
-* _Consultancy_ in the IT field, and creating and translating requirements into the best technical interpretation
-* _IT automation_ within a company and _systems integration_ (creating links between different applications)
-* Contributions to _open-source/free software projects_ of companies
-* _Startups_ where software is the main focus
+- _Game developent_ of online games with a variety of tasks, with a focus on online/multiplayer functionality
+- _Software architecture_ and determining the direction in the technical field within companies or teams
+- Improving the _developer experience_ using _CI/CD_ to speed up development and operations
+- The _inventing_ and _developing_ of internal tools to improve (development) processes
+- _Consultancy_ in the IT field, and creating and translating requirements into the best technical interpretation
+- _IT automation_ within a company and _systems integration_ (creating links between different applications)
+- Contributions to _open-source/free software projects_ of companies
+- _Startups_ where software is the main focus
 
 _I am open to both greenfield and brownfield projects, with no preference._
 
@@ -73,4 +73,3 @@ Whether the team is English-speaking or Dutch-speaking does not matter to me, be
 For questions, or for an introduction I can be reached by email at [luciano@lucianonooijen.com](mailto:luciano@lucianonooijen.com), or go to the [contact page](/contact) to schedule an appointment.
 
 Want to connect on LinkedIn? [Feel free to add me](https://www.linkedin.com/in/lucianonooijen/).
-

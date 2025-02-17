@@ -22,11 +22,13 @@ As most applications that I build deal with quite a lot of data, I don't want to
 So how then do I approach SQL in Golang?
 
 ## Code generation with sqlc
-One of the things I like about the Go ecosystem is that there are a lot of code generation tools. Code generation is something that is quite underused in my opinion, and [sqlc](https://sqlc.dev/) is an amazing example of how code generation can be very powerful. 
+
+One of the things I like about the Go ecosystem is that there are a lot of code generation tools. Code generation is something that is quite underused in my opinion, and [sqlc](https://sqlc.dev/) is an amazing example of how code generation can be very powerful.
 
 With sqlc, you can write plain sql, and then run a command that generates the Go code in a module you can use in your application.
 
 ## Configuring sqlc
+
 After [installing sqlc](https://docs.sqlc.dev/en/latest/overview/install.html) on your device, getting up and running with sqlc is quite trivial. The generic installation instructions are found in the [sqlc docs](https://docs.sqlc.dev/en/latest/tutorials/getting-started-postgresql.html), but I'm using a bit of a modified configuration.
 
 We start with creating the `sql/` and `migrations/` folders, for SQL queries and database migrations.
@@ -52,6 +54,7 @@ COMMIT;
 Make sure to add the down migrations as well. The migrations are used by sqlc to generate the database structure and add typed columns for database manipulations. They will also be used to perform actual database migrations. Wrap your migration logic in `BEGIN` and `COMMIT` so you can `ROLLBACK` on a failed migration.
 
 ## Full sqlc config example
+
 Here is the full configuration I'm using for the Capsa API service:
 
 ```yaml
@@ -103,13 +106,17 @@ sql:
 This configuration replaces the pgx (Postgres database driver) UUID and Timestamps with the Google and standard library implementations respectively. It also specifies a few column types to be used, so the returned data has better compatibility with my domain logic. For further explanation on this, see the [docs](https://docs.sqlc.dev/en/latest/reference/config.html).
 
 ## Writing SQL statements
+
 With sqlc configured, we can write some SQL code! The [docs](https://docs.sqlc.dev/en/latest/howto/select.html) explain things in more detail, but here are two very simple examples:
+
 ```sql
 -- name: GetUserByID :one
 SELECT * FROM users
 WHERE id = $1;
 ```
+
 Gets a user by their ID. The `*` return value here will use the database schema to determine the return type to make it fully typesafe.
+
 ```sql
 -- name: UpdateUser :one
 -- Update a user with optional parameters
@@ -120,10 +127,13 @@ SET first_name = @first_name,
 WHERE id = $1
 RETURNING *;
 ```
+
 For updating a user, this also shows how arguments can be named with sqlc for clarity in the domain logic.
 
 ## Complex SQL
+
 The two examples above are the 'hello world' equivalent of SQL statements. In larger applications things become more complex. An example of this is searching. Although there might be better ways, this is the way I have implemented search for Capsa, which is not too complex:
+
 ```sql
 -- name: SearchResources :many
 -- Searches in some database tables to find matching resources based on a "contains string" pattern (LIKE '%<arg>%')
@@ -154,7 +164,9 @@ FROM resources
 WHERE identifier LIKE '%' || lower(@search) || '%'
 LIMIT sqlc.arg('limit');
 ```
+
 Another more complex example is filtering with optional arguments. The full statement is over 50 lines long, but here is the most important part of the implementation for Capsa:
+
 ```sql
 -- name: ListAvailableLogs :many
 -- Fetches all log chunks and aggregates an overview.
@@ -176,13 +188,17 @@ GROUP BY l.id, t.name, e.name, cd.line_count, cd.chunk_count, cd.earliest_start,
 ORDER BY earliest DESC
 LIMIT @fetchlimit::int;
 ```
+
 This will simply ignore all arguments that are not set, or include them if they are. In all honesty: the syntax with an ORM would be cleaner, but I do suspect the performance will take a hit. If performance with `ListAvailableLogs` becomes an issue, I can optimize it, with ORMs, that is a lot harder.
 
 ## Generating the code
+
 To generate the code, simply run `sqlc generate` in the root of your project, and you should have your code! There are more commands you can use for analysis and linting, which are outlined in the [docs](https://docs.sqlc.dev/en/latest/howto/generate.html).
 
 ## Using the generated code
+
 During the application start, you can use your config to generate the instance of the sql-generated structs:
+
 ```go
 package example
 
@@ -213,13 +229,17 @@ func NewDatabase(c *entities.Config) (*database.Queries, error) {
 	return db, nil
 }
 ```
-You now have a `*database.Queries` instance that you can use to use query the database! Using it is as simple as 
+
+You now have a `*database.Queries` instance that you can use to use query the database! Using it is as simple as
+
 ```go
 user, err := db.GetUserByID(ctx, userId)
 ```
+
 There is also support for performing logic inside of a transaction, as outlined in the [docs](https://docs.sqlc.dev/en/latest/howto/transactions.html#using-transactions).
 
 ## Handling migrations
+
 You should only be changing the database structure using migrations. We already have the migration scripts used by sqlc, which we can use to perform the database migrations.
 
 For migrations, I'm using the golang-migrate package, with a small wrapper. This is the full code of the migrator package for Capsa:
@@ -298,7 +318,8 @@ func handleMigratorErrors(err error) error {
 }
 ```
 
-With this, performing the database migrations is as simple as 
+With this, performing the database migrations is as simple as
+
 ```go
 import "path/to/migrator"
 
@@ -309,4 +330,5 @@ err = migrate(migrationDirection)
 Now you have good 'ol plain SQL for migrations as well as database queries in Golang with code generation!
 
 ## Example to see this in action
+
 An example of this approach in action can be found in the [Capsa API server](https://github.com/capsa-gg/capsa/blob/main/server/). Capsa is still work in progress, but I highly doubt the SQL approach will change.

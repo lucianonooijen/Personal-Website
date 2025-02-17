@@ -2,29 +2,29 @@ $bg-color: #eee;
 $fg-color: #323232;
 $darker-bg-color: #dcdcdc;
 $darker-fg-color: #000;
-$link-color: #3366CC;
+$link-color: #3366cc;
 
 *,
 *:after,
 *:before {
-	box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 html {
-	box-sizing: border-box;
-	font-size: 62.5%;
+  box-sizing: border-box;
+  font-size: 62.5%;
 }
 
 body {
-  display:flex;
+  display: flex;
   color: $fg-color;
   background-color: $bg-color;
-	font-family: 'Roboto Mono', monospace;
-	font-size: 1.6em;
-	font-weight: 400;
-	letter-spacing: 0.0625em;
+  font-family: "Roboto Mono", monospace;
+  font-size: 1.6em;
+  font-weight: 400;
+  letter-spacing: 0.0625em;
   line-height: 1.8em;
-  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     font-size: 1.4em;
     line-height: 1.6em;
   }
@@ -69,7 +69,7 @@ h6 {
 h1 {
   font-size: 3.2rem;
   line-height: 3.2rem;
-  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     font-size: 2.8rem;
     line-height: 2.8rem;
   }
@@ -77,7 +77,7 @@ h1 {
 h2 {
   font-size: 2.8rem;
   line-height: 2.8rem;
-  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     font-size: 2.4rem;
     line-height: 2.4rem;
   }
@@ -85,23 +85,23 @@ h2 {
 h3 {
   font-size: 2.4rem;
   line-height: 2.4rem;
-  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-    font-size: 2.0rem;
-    line-height: 2.0rem;
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    font-size: 2rem;
+    line-height: 2rem;
   }
 }
 h4 {
   font-size: 2.2rem;
   line-height: 2.2rem;
-  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     font-size: 1.8rem;
     line-height: 1.8rem;
   }
 }
 h5 {
-  font-size: 2.0rem;
-  line-height: 2.0rem;
-  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  font-size: 2rem;
+  line-height: 2rem;
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     font-size: 1.6rem;
     line-height: 1.6rem;
   }
@@ -112,7 +112,7 @@ h6 {
 }
 
 pre {
-  margin: 1.6rem 0 1.0rem 0;
+  margin: 1.6rem 0 1rem 0;
   padding: 1.6rem;
   overflow-x: auto;
 }
@@ -129,13 +129,15 @@ blockquote {
   font-style: italic;
 }
 
-th, td {
+th,
+td {
   padding: 1.6rem;
 }
 table {
   border-collapse: collapse;
 }
-table td, table th {
+table td,
+table th {
   border: 2px solid $darker-fg-color;
 }
 table tr:first-child th {
@@ -150,7 +152,7 @@ table tr th:first-child {
 }
 table tr td:last-child,
 table tr th:last-child {
-    border-right: 0;
+  border-right: 0;
 }
 
 img {
@@ -166,22 +168,22 @@ img {
 
 .container {
   margin: 0 auto;
-  max-width: 120.0rem;
+  max-width: 120rem;
   width: 100%;
-  padding-left: 2.0rem;
-  padding-right: 2.0rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .navigation {
-  height: 6.0rem;
+  height: 6rem;
   width: 100%;
   a {
     display: inline;
     font-size: 1.6rem;
     text-transform: uppercase;
-    line-height: 6.0rem;
+    line-height: 6rem;
     letter-spacing: 0.1rem;
-    @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       font-size: 1.4rem;
     }
   }
@@ -194,8 +196,8 @@ img {
       margin: 0;
       position: relative;
       a {
-        margin-left: 1.0rem;
-        margin-right: 1.0rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
       }
     }
   }
@@ -209,14 +211,15 @@ img {
     header {
       margin-top: 3.2rem;
       margin-bottom: 3.2rem;
-      h1, h2 {
+      h1,
+      h2 {
         margin: 0;
       }
       h2 {
-        margin-top: 1.0rem;
+        margin-top: 1rem;
         font-size: 1.8rem;
         color: $fg-color;
-        @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+        @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
           font-size: 1.6rem;
         }
       }
@@ -231,16 +234,16 @@ img {
     padding: 0;
     li {
       font-size: 1.6rem;
-      @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+      @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
         font-size: 1.4rem;
         margin: 1.6rem 0 1.6rem 0;
       }
       span {
         display: inline-block;
         text-align: right;
-        width: 20.0rem;
-        margin-right: 3.0rem;
-        @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+        width: 20rem;
+        margin-right: 3rem;
+        @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
           display: block;
           text-align: left;
         }
@@ -253,7 +256,7 @@ img {
 }
 
 .pagination {
-  margin-top: 6.0rem;
+  margin-top: 6rem;
   text-align: center;
   li {
     display: inline;
@@ -281,30 +284,30 @@ img {
   .about {
     text-align: center;
     h1 {
-      margin-top: 2.0rem;
+      margin-top: 2rem;
       margin-bottom: 0.5rem;
     }
     h2 {
-      margin-top: 1.0rem;
+      margin-top: 1rem;
       margin-bottom: 0.5rem;
       font-size: 2.4rem;
-      @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-        font-size: 2.0rem;
+      @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+        font-size: 2rem;
       }
     }
     ul {
       list-style: none;
-      margin: 3.0rem 0 1.0rem 0;
+      margin: 3rem 0 1rem 0;
       padding: 0;
       li {
         display: inline-block;
         position: relative;
         a {
           text-transform: uppercase;
-          margin-left: 1.0rem;
-          margin-right: 1.0rem;
+          margin-left: 1rem;
+          margin-right: 1rem;
           font-size: 1.6rem;
-          @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+          @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
             font-size: 1.4rem;
           }
         }
@@ -315,18 +318,18 @@ img {
   .error {
     text-align: center;
     h1 {
-      margin-top: 2.0rem;
+      margin-top: 2rem;
       margin-bottom: 0.5rem;
       font-size: 4.6rem;
-      @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+      @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
         font-size: 3.2rem;
       }
     }
     h2 {
-      margin-top: 2.0rem;
+      margin-top: 2rem;
       margin-bottom: 3.2rem;
       font-size: 3.2rem;
-      @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+      @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
         font-size: 2.8rem;
       }
     }
@@ -336,7 +339,7 @@ img {
 .footer {
   width: 100%;
   text-align: center;
-  line-height: 6.0rem;
+  line-height: 6rem;
 }
 
 .float-right {

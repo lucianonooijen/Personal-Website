@@ -35,9 +35,9 @@
 </style>
 
 <script>
-  function toggleMenu(){
+  function toggleMenu() {
     const x = document.getElementById("topnav");
-    console.log(x)
+    console.log(x);
     if (x.className === "navigation-list float-right") {
       x.className += " navopen";
     } else {
@@ -52,14 +52,14 @@
       {{ .Site.Title }}
     </a>
     {{ with .Site.Menus.main }}
-    <a href="javascript:void(0);" class="mobilemenu float-right" onclick="toggleMenu()">Menu</a>
-    <ul id="topnav" class="navigation-list float-right">
-      {{ range sort . }}
-      <li class="navigation-item">
-        <a class="navigation-link" href="{{ .URL }}">{{ .Name }}</a>
-      </li>
-      {{ end }}
-    </ul>
+      <a href="javascript:void(0);" class="mobilemenu float-right" onclick="toggleMenu()">Menu</a>
+      <ul id="topnav" class="navigation-list float-right">
+        {{ range sort . }}
+          <li class="navigation-item">
+            <a class="navigation-link" href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      </ul>
     {{ end }}
   </section>
 </nav>

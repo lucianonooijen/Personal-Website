@@ -45,7 +45,7 @@ p a {
   text-underline-position: under;
 }
 p a:focus, p a:hover {
-  color: #3366CC;
+  color: #3366cc;
 }
 
 h1,
@@ -138,7 +138,8 @@ blockquote {
   font-style: italic;
 }
 
-th, td {
+th,
+td {
   padding: 1.6rem;
 }
 
@@ -146,7 +147,8 @@ table {
   border-collapse: collapse;
 }
 
-table td, table th {
+table td,
+table th {
   border: 2px solid #000;
 }
 
@@ -227,7 +229,8 @@ img {
   margin-top: 3.2rem;
   margin-bottom: 3.2rem;
 }
-.content article header h1, .content article header h2 {
+.content article header h1,
+.content article header h2 {
   margin: 0;
 }
 .content article header h2 {

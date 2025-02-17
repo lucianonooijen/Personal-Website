@@ -27,59 +27,59 @@ Another issue was that there would be quite a lot of overlap between the some co
 
 Another issue I faced during this time was that in The Netherlands, there is only a very small part for study in other fields. In the US, there is a concept called a Major, in The Netherlands, the Major will be your only focus, with a 6-month period for a Minor where you can choose what to do. During my self-reflection I noticed I was laser-focussed on software engineering for many years, neglecting other parts of study that would help me develop into a better human being and in turn helping me grow in my day-job too. I wrote down what areas interest me, what I'd like to learn more about and categorized them:
 
-* Computer science
-    * Fundamentals (maths and physics that allow computers to work on the metal-level, algorithms and data structures)
-    * Theories (theory of computation, automata, complexity theory, computability)
-    * Networking (how computers communicate on the lowest level, the ones and zeroes)
-    * Computer graphics (how it's possible to display graphics onto a screen, AR/VR)
-    * Compilers (the mathematical and scientific side of compilers)
-    * Databases (not how to use them, but how to build them, how data is stored and retrieved)
-    * Robotics (how embedded systems allow hardware to move, the electrical engineering behind it)
-    * Computational Science (computer science, applied to solve large problems)
-    * Cyber security fundamentals (not just how to use metasploit, but true cybersec fundamentals)
-* Linguistics
-    * Fundamentals of linguistics
-    * Latin
-    * German
-    * Italian
-    * French
-    * Koine Greek
-    * Spanish
-    * Hebrew
-    * Arabic
-* Philosophy
-    * Stoicism
-    * Epicureanism
-    * Platonism
-    * Theology
-    * Modern philosophy
-* History
-    * Ancient Roman
-    * Ancient Greek
-    * Communist revolution
-    * American history
-    * Enlightenment
-* Economic and political theories
-    * Libertarianism
-    * Communism/socialism
-    * Keynes
-    * Anarchism
-* Music
-    * Music theory
-    * Classical music
-    * Jazz
-* Sport
-    * Chess
-    * Golf
-    * Tennis
-* Misc
-    * Rhethoric
-    * Speaking and presenting
-    * Debating and negotiation
-    * Meditation/mindfulness
-    * Storytelling
-    * Cooking different cuisines
-    * Gardening
+- Computer science
+  - Fundamentals (maths and physics that allow computers to work on the metal-level, algorithms and data structures)
+  - Theories (theory of computation, automata, complexity theory, computability)
+  - Networking (how computers communicate on the lowest level, the ones and zeroes)
+  - Computer graphics (how it's possible to display graphics onto a screen, AR/VR)
+  - Compilers (the mathematical and scientific side of compilers)
+  - Databases (not how to use them, but how to build them, how data is stored and retrieved)
+  - Robotics (how embedded systems allow hardware to move, the electrical engineering behind it)
+  - Computational Science (computer science, applied to solve large problems)
+  - Cyber security fundamentals (not just how to use metasploit, but true cybersec fundamentals)
+- Linguistics
+  - Fundamentals of linguistics
+  - Latin
+  - German
+  - Italian
+  - French
+  - Koine Greek
+  - Spanish
+  - Hebrew
+  - Arabic
+- Philosophy
+  - Stoicism
+  - Epicureanism
+  - Platonism
+  - Theology
+  - Modern philosophy
+- History
+  - Ancient Roman
+  - Ancient Greek
+  - Communist revolution
+  - American history
+  - Enlightenment
+- Economic and political theories
+  - Libertarianism
+  - Communism/socialism
+  - Keynes
+  - Anarchism
+- Music
+  - Music theory
+  - Classical music
+  - Jazz
+- Sport
+  - Chess
+  - Golf
+  - Tennis
+- Misc
+  - Rhethoric
+  - Speaking and presenting
+  - Debating and negotiation
+  - Meditation/mindfulness
+  - Storytelling
+  - Cooking different cuisines
+  - Gardening
 
 _Note: wanting to learn about a subject is not the same as believing in it. For example, wanting to learn about socialism does not mean I'm a socialist._
 
@@ -95,29 +95,29 @@ As of writing this, we are halfway through July 2020, with 5 of my Bytecode team
 
 For my learning journey, I have decided to spend around 60% (12 h/week) of my time on computer science, and 40% (8 h/wk) on a small selection of other subjects. For the computer science part of the journey, the website [Teach Yourself CS](https://teachyourselfcs.com/) has helped me a great deal for how to get started and giving me a roadmap and a list of resources to use. For the computer science part, I will start with:
 
-* Computer science fundamentals
-    * Learning about how maths and physics allow computers to work the way they do, computer architecture and basic automata;
-    * Dipping my toes into some theories to get to know them (and go in-depth later on);
-    * While learning some discrete maths, physics and electrical engineering along the way
-* The basics of calculus and linear algebra
-* Algorithms and data structures
+- Computer science fundamentals
+  - Learning about how maths and physics allow computers to work the way they do, computer architecture and basic automata;
+  - Dipping my toes into some theories to get to know them (and go in-depth later on);
+  - While learning some discrete maths, physics and electrical engineering along the way
+- The basics of calculus and linear algebra
+- Algorithms and data structures
 
 To do this, I will use the following (in roughly this order):
 
-* As the resources I will use will be in English, but I only know maths in Dutch, I will use [Brilliant.org](https://brilliant.org/) and maybe some [Khan Academy](https://www.khanacademy.org/) so I can understand the English math jargon and such, this is just to understand maths in English, not to gain new knowledge
-* When my math skills in English are around the same level as in Dutch, I will use the resources mentioned above to gain some additional knowledge, after that, I will continue by reading Concrete Mathematics by Donald Knuth and see if the lectures mentioned on [teachyourselfcs.com](https://teachyourselfcs.com/#math) are helpful
-* For learning from the bottom (from the logic gates level) up how computers work, I will use [nand2tetris](https://www.nand2tetris.org/), although I doubt whether this will be in-depth enough.
-* If I want to continue after nand2tetris, I will use the book Computer Systems: A Programmer's Perspective by Randal Bryant and David O'Hallaron
-* My first goal will be to learn what's required to understand the maths in The Art of Computer Programming (TAOCP) part 1 by Donald Knuth and then work through this book cover to cover (later I will continue with part 2 to 4A). The reason I chose to go with Concrete Mathematics by Donald Knuth is because he wrote this book to understand the maths in TAOCP
-* For understanding the basics of the Theory of Computation, I will use the book "Introduction to the Theory of Computation" by Michael Sipser
-* For algorithms and data structures, I will follow what [teachyourselfcs.com](https://teachyourselfcs.com/#algorithms) recommends, maybe combined with reading the book Introduction to Algorithms
+- As the resources I will use will be in English, but I only know maths in Dutch, I will use [Brilliant.org](https://brilliant.org/) and maybe some [Khan Academy](https://www.khanacademy.org/) so I can understand the English math jargon and such, this is just to understand maths in English, not to gain new knowledge
+- When my math skills in English are around the same level as in Dutch, I will use the resources mentioned above to gain some additional knowledge, after that, I will continue by reading Concrete Mathematics by Donald Knuth and see if the lectures mentioned on [teachyourselfcs.com](https://teachyourselfcs.com/#math) are helpful
+- For learning from the bottom (from the logic gates level) up how computers work, I will use [nand2tetris](https://www.nand2tetris.org/), although I doubt whether this will be in-depth enough.
+- If I want to continue after nand2tetris, I will use the book Computer Systems: A Programmer's Perspective by Randal Bryant and David O'Hallaron
+- My first goal will be to learn what's required to understand the maths in The Art of Computer Programming (TAOCP) part 1 by Donald Knuth and then work through this book cover to cover (later I will continue with part 2 to 4A). The reason I chose to go with Concrete Mathematics by Donald Knuth is because he wrote this book to understand the maths in TAOCP
+- For understanding the basics of the Theory of Computation, I will use the book "Introduction to the Theory of Computation" by Michael Sipser
+- For algorithms and data structures, I will follow what [teachyourselfcs.com](https://teachyourselfcs.com/#algorithms) recommends, maybe combined with reading the book Introduction to Algorithms
 
 For the 40% left, I have decided to focus on the following subjects with the corresponding methods:
 
-* The Latin language (using [Lingua Latina Per Se Illustrata, Pars 1](https://www.bol.com/nl/f/familia-romana/36660250/) and a [guide on how to use it](https://docs.google.com/document/d/1PB5HPz2wBDgqWXPnn5ONgZicOPv8P7LbODvkCxjpI3w/edit) I want to get the basics and then see if I want to continue with Latin or another language)
-* Golf (taking lessons together with Thomas, one of my closest friends, when we have our handicaps, practice often on ourselves and then see how to progress further)
-* Meditation (I've got a 1 month Headspace subscription to see whether meditation is something I want to spend time on or not)
-* Chess (I will follow a short only video course on [Masterclass.com](https://masterclass.com) by Garry Kasparov to learn basic strategies, and then practice online, to get to a rating around 1000, then I'll see how to progress further)
+- The Latin language (using [Lingua Latina Per Se Illustrata, Pars 1](https://www.bol.com/nl/f/familia-romana/36660250/) and a [guide on how to use it](https://docs.google.com/document/d/1PB5HPz2wBDgqWXPnn5ONgZicOPv8P7LbODvkCxjpI3w/edit) I want to get the basics and then see if I want to continue with Latin or another language)
+- Golf (taking lessons together with Thomas, one of my closest friends, when we have our handicaps, practice often on ourselves and then see how to progress further)
+- Meditation (I've got a 1 month Headspace subscription to see whether meditation is something I want to spend time on or not)
+- Chess (I will follow a short only video course on [Masterclass.com](https://masterclass.com) by Garry Kasparov to learn basic strategies, and then practice online, to get to a rating around 1000, then I'll see how to progress further)
 
 ## Closing notes
 
@@ -137,7 +137,7 @@ In the last year I have shifted my learning focus on online/multiplayer game dev
 
 ### Update September 15th, 2023
 
-The last year and a half, I have mainly focussed on learning philosophy, history, linguistic theory and picking up Modern and Ancient Greek. Since the beginning of this year, I started working on multiplayer games, a lot of things here were new to me, to expand my knowledge I am learning more about Unreal Engine and architectural patterns in multiplayer games. 
+The last year and a half, I have mainly focussed on learning philosophy, history, linguistic theory and picking up Modern and Ancient Greek. Since the beginning of this year, I started working on multiplayer games, a lot of things here were new to me, to expand my knowledge I am learning more about Unreal Engine and architectural patterns in multiplayer games.
 
 ### Update January 12th, 2022
 

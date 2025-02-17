@@ -26,9 +26,10 @@ Another reason to use a separate API package, is our desire to be able to set up
 ## Requirements and research
 
 Our research question consisted of several parts:
-* How can we generically check a JSON object against a Typescript interface, without the need for duplicate code for type definitions?
-* How can we achieve the above without having to modify other production code outside the API package to make this check possible?
-* How can this be done in NodeJS, React Native and in the browser?
+
+- How can we generically check a JSON object against a Typescript interface, without the need for duplicate code for type definitions?
+- How can we achieve the above without having to modify other production code outside the API package to make this check possible?
+- How can this be done in NodeJS, React Native and in the browser?
 
 There are enough libraries that make it possible to check a JSON structure, based on a DSL (domain specific language). However, this wasn't what we were looking for, because we were already using Typescript and didn't want to maintain the same type definition in multiple ways. We would prefer to develop a solution where no code generation or extra step in compilation is needed, but everything on-the-fly during runtime (like Go).
 
@@ -37,9 +38,10 @@ A few months ago, I read a [blog post by Picnic](https://blog.picnic.nl/guarding
 On the Subreddit of Typescript I had placed a [post](https://www.reddit.com/r/typescript/comments/i8yk6i/validating_objects_type_at_runtime/), where I submitted my question. I primarily received responses with examples of code generation solutions. Some responses discussed runtime solutions, but these solutions were unnecessarily complex and/or required modifications within the build configuration of Typescript. We prefer to avoid this, because we prefer to keep something experimental separate from the rest of our production code, so that if we are not satisfied, we can revert the changes.
 
 A possible solution that popped into my head was the following:
-* Load all type-definitions through the file system as strings
-* Use the Typescript compiler as production dependency and parse these strings
-* Compare the result of parsing against the JSON data to see if it matches the interfaces
+
+- Load all type-definitions through the file system as strings
+- Use the Typescript compiler as production dependency and parse these strings
+- Compare the result of parsing against the JSON data to see if it matches the interfaces
 
 However, this would mean that a substantial part of the Typescript compiler would have to become part of the app and thus increase the bundle size. The Typescript compiler is not the fastest in the world either, so this would take a considerable amount of extra time when it has to be done on-the-fly. In addition, the filesystem is only suitable for Node.js and not for browser environments, so compatibility could not be maintained. Unfortunately this solution was not feasible.
 
@@ -57,24 +59,29 @@ The production code of the API package already used an internal `returnOrThrow` 
 import { Decoder } from "decoders/types";
 import { guard } from "decoders";
 
-interface APIResultSuccess<T> { data: T; error?: undefined; }
-interface APIResultFailure { data?: undefined; error: string; }
+interface APIResultSuccess<T> {
+  data: T;
+  error?: undefined;
+}
+interface APIResultFailure {
+  data?: undefined;
+  error: string;
+}
 type APIResult<T> = APIResultSuccess<T> | APIResultFailure;
 
 const throwOrReturn = <T>(result: APIResult<T>, decoder: Decoder<T>): T => {
-    if (result.error) {
-        throw new Error(result.error);
-    }
-    // We can assume that data is valid (type T) if no error was found
-    const data = result.data as T;
+  if (result.error) {
+    throw new Error(result.error);
+  }
+  // We can assume that data is valid (type T) if no error was found
+  const data = result.data as T;
 
-    const decodeChecker = guard(decoder);
-    const _ = decodeChecker(data); // Throws if it's not valid
-    return data;
+  const decodeChecker = guard(decoder);
+  const _ = decodeChecker(data); // Throws if it's not valid
+  return data;
 };
 
 export default throwOrReturn;
-
 ```
 
 If the return body does not satisfy the decoder, an error is thrown, which can be caught when calling the API call.

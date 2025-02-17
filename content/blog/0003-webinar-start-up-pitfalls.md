@@ -14,4 +14,3 @@ On November 29th, 2021, I gave a webinar for Bytecode about common pitfalls for 
 A replay of this webinar can be seen here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yl2wDvipw38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-

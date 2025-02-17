@@ -3,8 +3,8 @@
   <p>Posts are also available as an <a href="/blog/index.xml" target="_blank">RSS feed</a>.</p>
   <p style="text-align: center;">
     <b>Categories: </b>
-    <a href="/blog"><i>all</i></a> 
-    <br>
+    <a href="/blog"><i>all</i></a>
+    <br />
     {{ $categories := slice }}
     {{ range site.Taxonomies.categories.Alphabetical }}
       {{ $term := .Term }}
@@ -15,9 +15,7 @@
   </p>
   <ul>
     {{ range .Paginator.Pages }}
-    <li>
-      <span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+      <li><span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
   {{ partial "pagination.html" . }}

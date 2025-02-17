@@ -31,7 +31,7 @@ Personally, I am very attracted to the ideas from the [async manifesto](http://a
 
 When it comes to productivity, it seems that working from home (in a quiet office) is a lot [more productive](https://www.inc.com/marcel-schwantes/new-study-reveals-why-working-from-home-makes-workers-more-productive.html) than working at the office. It is fairly easy to understand why this is the case for many people. Every time you are interrupted in a "[deep-work](https://www.nrc.nl/nieuws/2016/03/30/de-superkracht-van-de-21ste-eeuw-1603307-a382406)" session, it takes [25 minutes](http://blog.idonethis.com/distractions-at-work/) to get your focus back. Not to mention the "this-could-have-been-an-email"-meetings that take an hour each.
 
-How great would it be, instead of being constantly interrupted for some trivial question, to just answer non-urgent questions a few times per day? To not be disturbed by people who talk too loudly about yesterday's soccer game? As Jason Fried explains in his [TED talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work), you have to be able to work long uninterrupted stretches  to really get something done.
+How great would it be, instead of being constantly interrupted for some trivial question, to just answer non-urgent questions a few times per day? To not be disturbed by people who talk too loudly about yesterday's soccer game? As Jason Fried explains in his [TED talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work), you have to be able to work long uninterrupted stretches to really get something done.
 
 ![cat on keyboard tired of hearing corporate office jargon](/img/0001-2.jpg)
 

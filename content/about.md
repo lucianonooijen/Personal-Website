@@ -5,13 +5,13 @@ slug = "about"
 
 #### Introduction
 
-My name is Luciano Nooijen, currently working in the games industry as an engineer focusing on online game client development and multiplayer functionality. 
+My name is Luciano Nooijen, currently working in the games industry as an engineer focusing on online game client development and multiplayer functionality.
 
 My current position is technical lead at Companion Group, a co-development agency focussing on multiplayer games.
 
 #### Work
 
-Although I was introduced to software engineering via website development, I have quickly moved more towards back-end development, integration work and site-reliability engineering. My work often includes work related to build automation, data processing and optimization. Given the chance, I love to work on compilers and low-level systems programming. 
+Although I was introduced to software engineering via website development, I have quickly moved more towards back-end development, integration work and site-reliability engineering. My work often includes work related to build automation, data processing and optimization. Given the chance, I love to work on compilers and low-level systems programming.
 
 A few years ago, I was given the opportunity to enter the gaming industry, in which I currently work in various positions on various projects (details on my [experience page](/experience)), working mostly with Unreal Engine, C++ and various back-end technologies, mostly Golang and C#. Where necessary, I use my experience in web development to assist in the development of internal web-based tooling used during the game development process.
 

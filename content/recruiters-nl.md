@@ -28,18 +28,18 @@ _Mijn voorkeur gaat uit naar een project met een initiële looptijd van 3-6 maan
 
 #### Technieken
 
-*Om de hoogst mogelijke waarde te leveren, door een kwalitatief hoge oplossing neer te zetten, is het voor mij belangrijk dat [<b>mijn werkwijze</b>](/expertise#working-method) bij projecten geïmplementeerd kan worden.*
+_Om de hoogst mogelijke waarde te leveren, door een kwalitatief hoge oplossing neer te zetten, is het voor mij belangrijk dat [<b>mijn werkwijze</b>](/expertise#working-method) bij projecten geïmplementeerd kan worden._
 
 Mijn voorkeur gaat uit naar projecten waar ik nauw samenwerk met de CTO/CIO van een bedrijf, lead developers en/of software architecten, of waar ik een van deze rollen vervul.
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken, of een project waar deze technieken geïmplementeerd kunnen worden:
 
-* Unreal Engine 5 of custom C++ voor gameontwikkeling
-* Golang voor de back-end
-* ReactJS (+Redux) voor de front-end
-* React Native (+Expo) voor mobile
-* DevOps/Cloud-automatisering met Linux-omgevingen
-* Site Reliability Engineering (met bv. Kubernetes)
+- Unreal Engine 5 of custom C++ voor gameontwikkeling
+- Golang voor de back-end
+- ReactJS (+Redux) voor de front-end
+- React Native (+Expo) voor mobile
+- DevOps/Cloud-automatisering met Linux-omgevingen
+- Site Reliability Engineering (met bv. Kubernetes)
 
 _Helaas is het voor mij niet mogelijk om te werken met omgevingen waarvoor het Windows-besturingsysteem benodigd is, tenzij een geschikte computer ter beschikking wordt gesteld door de klant._
 
@@ -53,14 +53,14 @@ Ik hou erg van afwisseling, maar heb een lichte voorkeur om binnen de games-indu
 
 Zo liggen mijn interesses vooral bij:
 
-* _Gameontwikkeling_ van multiplayer games
-* _Software architectuur_ en het bepalen van de richting op technisch gebied binnen bedrijven of teams
-* De _ontwikkelaarervaring_ verbeteren met _CI/CD_ om development en operations te versnellen
-* Het _uitdenken_ en _ontwikkelen_ van interne tools om (development)-processen te verbeteren
-* _Consultancy_ op IT-gebied, en het opstellen en vertalen van requirements tot de beste technische invulling
-* _IT-automatisering_ binnen een bedrijf en _systems integration_ (koppelingen maken tussen verschillende applicaties)
-* Bijdragen aan _open-source/vrije software-projecten_ van bedrijven
-* _Start-ups_ waarbij software de main-focus is
+- _Gameontwikkeling_ van multiplayer games
+- _Software architectuur_ en het bepalen van de richting op technisch gebied binnen bedrijven of teams
+- De _ontwikkelaarervaring_ verbeteren met _CI/CD_ om development en operations te versnellen
+- Het _uitdenken_ en _ontwikkelen_ van interne tools om (development)-processen te verbeteren
+- _Consultancy_ op IT-gebied, en het opstellen en vertalen van requirements tot de beste technische invulling
+- _IT-automatisering_ binnen een bedrijf en _systems integration_ (koppelingen maken tussen verschillende applicaties)
+- Bijdragen aan _open-source/vrije software-projecten_ van bedrijven
+- _Start-ups_ waarbij software de main-focus is
 
 _Ik sta open voor zowel greenfield als brownfield projecten, zonder sterke voorkeur_
 

@@ -1,34 +1,32 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ .Site.LanguageCode }}">
-
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    {{ with site.Params.author }}<meta name="author" content="{{ . }}" />{{ end }}
     {{ if eq .Type "blog" }}
-      {{ with .Params.metadescription }}<meta name="description" content="{{ . }}">{{ end }}
-      {{ with .Params.metakeywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+      {{ with .Params.metadescription }}<meta name="description" content="{{ . }}" />{{ end }}
+      {{ with .Params.metakeywords }}<meta name="keywords" content="{{ . }}" />{{ end }}
     {{ else }}
-      {{ with site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-      {{ with site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+      {{ with site.Params.description }}<meta name="description" content="{{ . }}" />{{ end }}
+      {{ with site.Params.keywords }}<meta name="keywords" content="{{ . }}" />{{ end }}
     {{ end }}
 
 
-    <base href="{{ .Site.BaseURL }}">
+    <base href="{{ .Site.BaseURL }}" />
     <title>{{ block "title" . }}{{ site.Title }}{{ end }}</title>
 
-    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="canonical" href="{{ .Permalink }}" />
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,600,700">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700">
-    <link rel="stylesheet" href="{{ "css/normalize.css" | absURL }}">
-    <link rel="stylesheet" href="{{ "css/styles.css" | absURL }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,600,700" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700" />
+    <link rel="stylesheet" href="{{ "css/normalize.css" | absURL }}" />
+    <link rel="stylesheet" href="{{ "css/styles.css" | absURL }}" />
 
-    <link rel="icon" type="image/png" href="{{ "/images/favicon-32x32.png" | absURL }}" sizes="32x32">
-    <link rel="icon" type="image/png" href="{{ "/images/favicon-16x16.png" | absURL }}" sizes="16x16">
+    <link rel="icon" type="image/png" href="{{ "/images/favicon-32x32.png" | absURL }}" sizes="32x32" />
+    <link rel="icon" type="image/png" href="{{ "/images/favicon-16x16.png" | absURL }}" sizes="16x16" />
 
-    
     {{ with .OutputFormats.Get "RSS" }}
       <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ site.Title }}" />
       <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ site.Title }}" />
@@ -39,6 +37,7 @@
     <main class="wrapper">
       {{ partial "header.html" . }}
 
+
       <div class="content">
         {{ block "content" . }}{{ end }}
       </div>
@@ -46,5 +45,4 @@
       {{ partial "footer.html" . }}
     </main>
   </body>
-
 </html>

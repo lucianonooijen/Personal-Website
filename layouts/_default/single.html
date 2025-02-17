@@ -1,23 +1,38 @@
 {{ define "title" }}
-  {{ .Title }} · {{ .Site.Title }}
+  {{ .Title }} ·
+  {{ .Site.Title }}
 {{ end }}
-
 
 {{ define "content" }}
   <style>
     /* Styling for articles */
-    img { width: 80%; margin-left: 10%;}
-    code { background-color: unset; color: #666; }
+    img {
+      width: 80%;
+      margin-left: 10%;
+    }
+    code {
+      background-color: unset;
+      color: #666;
+    }
 
     /* CSS for making page prints better */
-    @page { size: auto;  margin: 0mm; }
+    @page {
+      size: auto;
+      margin: 0mm;
+    }
     @media print {
-      nav, footer { display: none; }
-      html { font-size: 40%; padding: 32px; }
+      nav,
+      footer {
+        display: none;
+      }
+      html {
+        font-size: 40%;
+        padding: 32px;
+      }
     }
   </style>
 
-  {{ if eq .Type "blog" }} 
+  {{ if eq .Type "blog" }}
     {{ partial "post.html" . }}
   {{ else }}
     {{ partial "page.html" . }}

@@ -25,13 +25,13 @@ Now upload the contents of the `build` folder to the webhost and you're done.
 
 The `make` command can also be used:
 
-| Command | Functionality |
-| ------- | ------------- |
-| `make server` | Runs hugo server |
-| `make css` | Converts scss to css |
-| `make dev` | Runs hugo server and opens `localhost:1313` in browser |
-| `make build` | Runs hugo build command as explained under the "production" header |
-| `make fmt` | Runs Prettier formatting for all files (should be in PATH) |
+| Command       | Functionality                                                      |
+| ------------- | ------------------------------------------------------------------ |
+| `make server` | Runs hugo server                                                   |
+| `make css`    | Converts scss to css                                               |
+| `make dev`    | Runs hugo server and opens `localhost:1313` in browser             |
+| `make build`  | Runs hugo build command as explained under the "production" header |
+| `make fmt`    | Runs Prettier formatting for all files (should be in PATH)         |
 
 ### License
 

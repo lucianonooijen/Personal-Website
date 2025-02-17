@@ -19,7 +19,7 @@ So, back to Marcus Aurelius. After reading the Meditation and several secondary 
 
 ## Waterfield's Annotated Edition
 
-By far the best translation of the Meditations in English is _Robin Waterfield's Annotated Edition_. 
+By far the best translation of the Meditations in English is _Robin Waterfield's Annotated Edition_.
 
 In this Translation, Waterfield does an amazing job of capturing the conciseness of the original work. The English text 'feels' very similar to the original, literary, yet direct.
 
@@ -29,19 +29,19 @@ The Meditations was not a book to be published, for Marcus Aurelius, it was most
 
 If you are interested in reading Meditations, or if you have read it before but want to understand it better, you cannot go wrong with this edition.
 
-The ISBNs are: 
-* Hardcover: 9781541673854
-* Paperback: 9781541673861
+The ISBNs are:
+
+- Hardcover: 9781541673854
+- Paperback: 9781541673861
 
 ## Other translations worth checking out
 
-* _If you can read Ancient Greek_: Haine's translation from the Loeb Classical Library is not an amazing translation, but has the original text on the left, and the English translation side-by-side on the right, which can be great.
-* _Dutch translation_: I have not read as many Dutch translations as English ones, but I like Simone Mooij-Valk's "Persoonlijke notities" best so far.
-* _German Translation_: there is a German translation of Waterfield's edition (Selbstbetrachtungen: Die kommentierte Edition, translated by Elisabeth Liebl), which I have partly read and quite liked.
+- _If you can read Ancient Greek_: Haine's translation from the Loeb Classical Library is not an amazing translation, but has the original text on the left, and the English translation side-by-side on the right, which can be great.
+- _Dutch translation_: I have not read as many Dutch translations as English ones, but I like Simone Mooij-Valk's "Persoonlijke notities" best so far.
+- _German Translation_: there is a German translation of Waterfield's edition (Selbstbetrachtungen: Die kommentierte Edition, translated by Elisabeth Liebl), which I have partly read and quite liked.
 
 <br>
 
-> ἐξετάζειν τί μοί ἐστι νῦν ἐν τούτῳ τῷ μορίῳ, ὃ δὴ ἡγεμονικὸν καλοῦσι, καὶ τίνος ἄρα νῦν ἔχω ψυχήν; 
+> ἐξετάζειν τί μοί ἐστι νῦν ἐν τούτῳ τῷ μορίῳ, ὃ δὴ ἡγεμονικὸν καλοῦσι, καὶ τίνος ἄρα νῦν ἔχω ψυχήν;
 >
 > At this moment, what is occupying that part of me they call the command center? What kind of a soul do I actually have at the moment? (Waterfield's translation of Meditations 5.11)
-

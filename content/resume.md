@@ -29,13 +29,13 @@ To see my availability and hourly rate, please see the [recruiters](/recruiters)
 
 ## The human languages I speak
 
-* **Dutch** (native)
-* **English** (near-native)
-* **German** (intermediate)
-* **French** (beginner)
-* **Modern Greek** (beginner)
-* **Ancient Greek** (beginner)
-* **Latin** (beginner)
+- **Dutch** (native)
+- **English** (near-native)
+- **German** (intermediate)
+- **French** (beginner)
+- **Modern Greek** (beginner)
+- **Ancient Greek** (beginner)
+- **Latin** (beginner)
 
 <br><hr><br>
 
