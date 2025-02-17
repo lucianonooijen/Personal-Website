@@ -20,14 +20,27 @@
 
     <link rel="canonical" href="{{ .Permalink }}">
 
-    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,600,700">
-    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,600,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700">
     <link rel="stylesheet" href="{{ "css/normalize.css" | absURL }}">
-    <link rel="stylesheet" href="{{ "css/style.min.css" | absURL }}">
     <link rel="stylesheet" href="{{ "css/style-custom.css" | absURL }}">
 
-    {{ range .Site.Params.custom_css }}
-      <link rel="stylesheet" href="{{ . | absURL }}">
+    {{ with resources.Get "styles/style.scss" }}
+      {{ $opts := dict
+        "enableSourceMap" true
+        "outputStyle" (cond hugo.IsProduction "compressed" "expanded")
+        "targetPath" "css/style.css"
+        "transpiler" "dartsass"
+      }}
+      {{ with . | toCSS $opts }}
+        {{ if hugo.IsProduction }}
+          {{ with . | fingerprint }}
+            <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+          {{ end }}
+        {{ else }}
+          <link rel="stylesheet" href="{{ .RelPermalink }}">
+        {{ end }}
+      {{ end }}
     {{ end }}
 
     <link rel="icon" type="image/png" href="{{ "/images/favicon-32x32.png" | absURL }}" sizes="32x32">

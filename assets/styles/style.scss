@@ -1,4 +1,8 @@
-@import "colors.less";
+$bg-color: #fefefe;
+$fg-color: #323232;
+$darker-bg-color: #dcdcdc;
+$darker-fg-color: #000;
+$link-color: #3366CC;
 
 *,
 *:after,
@@ -13,8 +17,8 @@ html {
 
 body {
   display:flex;
-  color: @fg-color;
-  background-color: @bg-color;
+  color: $fg-color;
+  background-color: $bg-color;
 	font-family: 'Roboto Mono', monospace;
 	font-size: 1.6em;
 	font-weight: 400;
@@ -28,7 +32,7 @@ body {
 
 a {
   font-weight: 700;
-  color: @darker-fg-color;
+  color: $darker-fg-color;
   text-decoration: none;
   &:focus,
   &:hover {
@@ -40,12 +44,12 @@ p {
   margin: 1.6rem 0 1.6rem 0;
   a {
     font-weight: 400;
-    color: @darker-fg-color;
+    color: $darker-fg-color;
     text-decoration: underline;
     text-underline-position: under;
     &:focus,
     &:hover {
-      color: @link-color;
+      color: $link-color;
     }
   }
 }
@@ -56,7 +60,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: @darker-fg-color;
+  color: $darker-fg-color;
   text-transform: uppercase;
   letter-spacing: 0.0625em;
   margin: 3.2rem 0 1.6rem 0;
@@ -114,13 +118,13 @@ pre {
 }
 
 code {
-  background-color: @darker-fg-color;
-  color: @bg-color;
+  background-color: $darker-fg-color;
+  color: $bg-color;
   padding: 0.4rem 0.8rem 0.4rem 0.8rem;
 }
 
 blockquote {
-  border-left: 2px solid @darker-bg-color;
+  border-left: 2px solid $darker-bg-color;
   padding-left: 1.6rem;
   font-style: italic;
 }
@@ -132,7 +136,7 @@ table {
   border-collapse: collapse;
 }
 table td, table th {
-  border: 2px solid @darker-fg-color;
+  border: 2px solid $darker-fg-color;
 }
 table tr:first-child th {
   border-top: 0;
@@ -211,7 +215,7 @@ img {
       h2 {
         margin-top: 1.0rem;
         font-size: 1.8rem;
-        color: @fg-color;
+        color: $fg-color;
         @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
           font-size: 1.6rem;
         }

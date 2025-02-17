@@ -3,5 +3,6 @@
 hugo/
 public/
 build/
+resources/_gen/
 .DS_Store
 .vercel

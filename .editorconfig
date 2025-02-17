@@ -11,3 +11,13 @@ insert_final_newline = false
 [Makefile]
 indent_style = tab
 indent_size = 8
+
+[*.md]
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.toml]
+indent_size = 2
+
+[*.{html,css,less}]
+indent_size = 2
