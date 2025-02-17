@@ -15,11 +15,11 @@ You can also just use `open http://localhost:1313 && hugo server`, but not all s
 
 ## Production
 
-As Hugo is a static website builder, you can just host the website on any hosting service. To build the static files, run `rm -rf build && hugo -d build -b [url]`.
-
-I run `hugo -d build -b https://lucianonooijen.com`.
+As Hugo is a static website builder, you can just host the website on any hosting service. To build the static files, run `rm -rf build && hugo -d build -b [url]`. I run `hugo -d build -b https://lucianonooijen.com`.
 
 Now upload the contents of the `build` folder to the webhost and you're done.
+
+When using `make build` it also builds the css and runs the formatter before building.
 
 ## Make
 

@@ -10,5 +10,5 @@ fmt:
 dev:
 	open http://localhost:1313 && hugo server
 
-build:
+build: css fmt
 	hugo -d build -b https://lucianonooijen.com --minify --gc
