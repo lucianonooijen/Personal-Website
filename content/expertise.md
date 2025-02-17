@@ -8,9 +8,9 @@ In recent years I have specialised in a few stacks, as can be read below. Althou
 
 I have worked both as a hands-on software engineer and as a technical lead, with responsibilities that go beyond just software development (software architecture, training developers with new technologies, determining the feature road map).
 
-{{< mdfile file="content/blocks/workmethod.md" >}}
+{{< mdfile file="blocks/workmethod.md" >}}
 
-{{< mdfile file="content/blocks/technologies.md" >}}
+{{< mdfile file="blocks/technologies.md" >}}
 
 ---
 

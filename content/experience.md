@@ -10,8 +10,8 @@ h5 { margin-top: 0 !important; }
 
 ## Game titles
 
-{{< mdfile file="content/blocks/gametitles.md" >}}
+{{< mdfile file="blocks/gametitles.md" >}}
 
 ## Positions
 
-{{< mdfile file="content/blocks/experience.md" >}}
+{{< mdfile file="blocks/experience.md" >}}
