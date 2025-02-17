@@ -8,6 +8,9 @@ pygmentsstyle = "monokai" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
+[markup.goldmark.extensions]
+table = true
+
 [markup.goldmark.renderer]
 unsafe= true
 
