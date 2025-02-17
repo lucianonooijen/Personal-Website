@@ -1,0 +1,45 @@
+@use "_vars.scss";
+@use "_responsive.scss";
+
+article.blogpost {
+  max-width: vars.$blogpost-width;
+  margin-left: auto;
+  margin-right: auto;
+
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-font-smoothing: antialiased !important;
+  text-rendering: optimizelegibility !important;
+}
+
+.post-content {
+  margin-top: 64px;
+
+  img {
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  .highlight {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  @include responsive.max-md() {
+    .post-content {
+      margin-top: 36px;
+    }
+    .highlight {
+      font-size: 12px;
+    }
+  }
+}
+.endofpost {
+  max-width: 400px;
+  margin: 3em auto 3.4em;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #888;
+  padding: 0;
+}

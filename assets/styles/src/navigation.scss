@@ -1,1 +1,67 @@
 @use "_vars.scss";
+@use "_responsive.scss";
+
+//
+// Menu base
+//
+
+.topnav {
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.topnav-title {
+  color: vars.$color-text;
+  letter-spacing: 0;
+}
+.topnav-list {
+  list-style: none;
+  display: flex;
+  gap: 24px;
+}
+.topnav-link {
+  color: vars.$color-text;
+  letter-spacing: 0;
+}
+
+//
+// Mobile menu
+//
+
+.mobilemenu {
+  display: none;
+}
+
+@include responsive.max-md() {
+  .mobilemenu {
+    display: initial;
+    color: vars.$color-text;
+  }
+  .topnav-list {
+    display: none;
+    gap: 0;
+  }
+  .topnav-list.navopen {
+    display: block;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    padding-left: 0 !important;
+
+    height: auto;
+    text-align: right;
+    background-color: #ddd;
+    display: flex;
+    flex-direction: column;
+  }
+  .topnav-item {
+    display: inline-block;
+    border-top: solid 1px #999;
+    min-width: 200px;
+    padding: 12px 24px;
+  }
+  .topnav-item:first-of-type {
+    border-top: none;
+  }
+}

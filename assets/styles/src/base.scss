@@ -21,11 +21,64 @@ body {
   font-size: 1.8em;
   font-weight: 400;
 
-  letter-spacing: 0.0625em;
+  letter-spacing: 0.032em;
   line-height: 1.8em;
 
-  @include responsive.max-lg() {
+  @include responsive.max-md() {
     font-size: 1.4em;
     line-height: 1.6em;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: vars.$container-max-width;
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.content {
+  flex: 1;
+  margin-top: 1.6rem;
+  margin-bottom: 2.4rem;
+}
+
+.centered {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+//
+// Print
+//
+@media print {
+  @page {
+    size: auto;
+    margin: 0;
+  }
+  nav,
+  footer {
+    display: none !important;
+  }
+  html {
+    font-size: 36%;
+    padding: 32px;
+  }
+  .content {
+    margin-top: -24px;
   }
 }

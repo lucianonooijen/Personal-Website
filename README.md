@@ -1,6 +1,6 @@
 # Luciano Nooijen personal website
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 Luciano Nooijen's personal website built with [Hugo](https://gohugo.io).
 
@@ -34,5 +34,5 @@ The `make` command can also be used:
 
 ### License
 
-- [MIT](https://mit-license.org/) for all website code
+- [AGPL3.0](https://www.gnu.org/licenses/agpl-3.0) for all website code
 - [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for text content

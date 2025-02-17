@@ -1,8 +1,33 @@
 {{ define "content" }}
   <style>
+    .home {
+      text-align: center;
+    }
+    .home h1 {
+      margin-bottom: 1.6rem;
+    }
+    .home h2 {
+      font-size: 2.4rem;
+      margin-top: 0;
+      margin-bottom: 3.6rem;
+    }
+    .home ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .home li {
+      display: inline-block;
+      position: relative;
+    }
+    .home li a {
+      margin: 0 0.6rem;
+    }
+
     footer .ai-disclaimer {
       display: none;
     }
+
     @media screen and (max-width: 1000px) {
       h2 {
         font-size: 1.2em !important;
@@ -11,7 +36,7 @@
   </style>
 
   <section class="container centered">
-    <div class="about">
+    <div class="home">
       <h1>{{ .Site.Params.author }}</h1>
       <h2>{{ .Site.Params.info }}</h2>
       {{ with .Site.Params.social }}

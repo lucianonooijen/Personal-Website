@@ -47,6 +47,6 @@ I also like to play chess. Feel free to [challenge me on Lichess](https://liches
 
 #### Website
 
-The source code of this website is made available on my [Github profile](https://github.com/lucianonooijen/personal-website) under MIT license.
+The source code of this website is made available on my [Github profile](https://github.com/lucianonooijen/personal-website) under AGPL3.0 license.
 
 This website was developed using the static website generator Hugo (written in Golang).

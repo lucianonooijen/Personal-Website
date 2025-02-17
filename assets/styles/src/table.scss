@@ -1,1 +1,29 @@
 @use "_vars.scss";
+
+table {
+  border-collapse: collapse;
+  td,
+  th {
+    text-align: left;
+    border: 1px solid vars.$color-quote;
+    padding: 0.8rem;
+  }
+
+  tr {
+    &:first-child th {
+      border-top: 0;
+    }
+    &:last-child td {
+      border-bottom: 0;
+    }
+
+    td:first-child,
+    th:first-child {
+      border-left: 0;
+    }
+    td:last-child,
+    th:last-child {
+      border-right: 0;
+    }
+  }
+}

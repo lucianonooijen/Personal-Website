@@ -1,0 +1,45 @@
+@use "_vars.scss";
+@use "_responsive.scss";
+
+.list {
+  ul {
+    list-style: none;
+    margin: 4rem 0;
+    padding: 0;
+
+    li {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-direction: row-reverse;
+      padding: 0.4rem 0;
+      border-bottom: 1px solid #bbb;
+
+      span {
+        display: block;
+        width: 100%;
+        max-width: 20rem;
+        margin-left: 3rem;
+      }
+
+      a {
+        color: vars.$color-text;
+        line-height: 1.1;
+      }
+    }
+
+    @include responsive.max-md() {
+      li {
+        flex-direction: column;
+        align-items: flex-start;
+        border-bottom: none;
+        padding: 0.6rem 0;
+
+        span {
+          margin-left: 0;
+          font-size: 1.2rem;
+        }
+      }
+    }
+  }
+}
