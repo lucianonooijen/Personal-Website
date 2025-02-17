@@ -21,13 +21,6 @@ unsafe= true
     description = "My name is Luciano Nooijen, freelance software engineer and lifelong learner" # Site description.
     keywords = "luciano nooijen, luciano, nooijen" # Site keywords.
 
-    # Whether you want to hide copyright and credits in the footer.
-    hideCredits = true
-    hideCopyright = true
-
-    # Custom CSS
-    custom_css = []
-
 # Social links
 [[params.social]]
     name = "Email"
@@ -51,10 +44,6 @@ unsafe= true
     url = "https://www.linkedin.com/in/lucianonooijen/"
 
 # Menu links
-# [[menu.main]]
-    # name = "Home"
-    # weight = 1
-    # url  = "/"
 [[menu.main]]
     name = "About"
     weight = 2
