@@ -1,5 +1,5 @@
-baseurl = "https://lucianonooijen.com" # Hostname (and path) to the root.
-title = "Luciano Nooijen" # Site title.
+baseurl = "https://lucianonooijen.com"
+title = "Luciano Nooijen"
 languageCode = "en"
 
 canonifyurls = true # Enable to turn relative URLs into absolute.
@@ -15,12 +15,11 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 unsafe= true
 
 [params] # theme parameters
-    author = "Luciano Nooijen" # Author's name.
-    info = "Software, Gamedev, Sourdough, Philosophy, History" # Author's job title or info.
-    description = "My name is Luciano Nooijen, freelance software engineer and lifelong learner" # Site description.
-    keywords = "luciano nooijen, luciano, nooijen" # Site keywords.
+    author = "Luciano Nooijen"
+    info = "Software, Gamedev, Sourdough, Philosophy, History"
+    description = "My name is Luciano Nooijen, freelance software engineer and lifelong learner"
+    keywords = "luciano nooijen, luciano, nooijen"
 
-# Social links
 [[params.social]]
     name = "Email"
     weight = 1
