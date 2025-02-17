@@ -3,7 +3,7 @@ title = "Contact"
 slug = "contact"
 +++
 
-I used to share my email here in plain text, but I started receiving a lot of spam from people scraping this website. 
+I used to share my email here in plain text, but I started receiving a lot of spam from people scraping this website.
 
 You can email me at _iamnotabot@{thisdomain}_, or drop me a message on LinkedIn.
 
