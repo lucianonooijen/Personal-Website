@@ -4,9 +4,6 @@ languageCode = "en"
 
 canonifyurls = true # Enable to turn relative URLs into absolute.
 
-[pagination]
-    pagerSize = 420
-
 pygmentsstyle = "monokai" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.

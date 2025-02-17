@@ -14,9 +14,8 @@
     {{ delimit $categories " | " | safeHTML }}
   </p>
   <ul>
-    {{ range .Paginator.Pages }}
+    {{ range .Pages }}
       <li><span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
-  {{ partial "pagination.html" . }}
 </section>
