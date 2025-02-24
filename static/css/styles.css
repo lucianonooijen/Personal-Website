@@ -322,8 +322,8 @@ html {
 
 body {
   display: flex;
-  color: #424242;
-  background-color: #eee;
+  color: #2E2B26;
+  background-color: #FAF3E0;
   font-family: "Noto Sans Mono", monospace;
   font-size: 1.8em;
   font-weight: 400;
@@ -392,7 +392,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #222;
+  color: #2E2B26;
   font-weight: 600;
   margin: 3.2rem 0 1.4rem 0;
   letter-spacing: 0.024em;
@@ -446,16 +446,17 @@ h6 {
 }
 a {
   font-weight: 600;
-  color: #184680;
+  color: #8B4513;
   text-decoration: none;
 }
 a:focus, a:hover {
-  color: #192c3e;
+  color: #cd4416;
   text-decoration: underline;
 }
 
 p {
   margin: 1.8rem 0;
+  text-shadow: 0.5px 0.5px 0px rgba(0, 0, 0, 0.05);
 }
 
 blockquote {
@@ -505,7 +506,7 @@ code {
 }
 
 .topnav-title {
-  color: #424242;
+  color: #2E2B26;
   letter-spacing: 0;
 }
 
@@ -516,7 +517,7 @@ code {
 }
 
 .topnav-link {
-  color: #424242;
+  color: #2E2B26;
   letter-spacing: 0;
 }
 
@@ -527,7 +528,7 @@ code {
 @media screen and (max-width: 800px) {
   .mobilemenu {
     display: initial;
-    color: #424242;
+    color: #2E2B26;
   }
   .topnav-list {
     display: none;
@@ -599,7 +600,7 @@ table tr th:last-child {
   margin-left: 3rem;
 }
 .list ul li a {
-  color: #424242;
+  color: #2E2B26;
   line-height: 1.1;
 }
 @media screen and (max-width: 800px) {
