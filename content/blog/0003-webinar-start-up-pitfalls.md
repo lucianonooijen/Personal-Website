@@ -2,8 +2,8 @@
 date = "2022-01-13"
 title = "Webinar replay: common pitfalls for software start-ups and how to avoid them"
 slug = "webinar-replay-software-start-up-pitfalls"
-tags = ["Webinar", "Start-ups"]
-categories = ["Video"]
+tags = ["Webinar", "Start-ups", "Video"]
+categories = []
 [params]
   metadescription = 'Webinar replay for start-up pitfalls'
   metakeywords = 'start-ups, pitfalls, webinar, luciano nooijen'
