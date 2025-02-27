@@ -3,6 +3,8 @@ title = "Learning"
 slug = "learning"
 +++
 
+Date: July 18, 2020
+
 _Below is quite a personal story about my particular past and experiences. I have decided to share this publicly, hoping that this might help others in some way._
 
 ## How I got started
