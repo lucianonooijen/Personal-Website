@@ -7,9 +7,11 @@ With more than a decade under my belt in software development, I have dealt with
 
 I have experience in hands-on software development positions, as well as leadership positions, with responsibilities that extend further than lines of code (determining roadmaps, mentoring developers, business decisions).
 
-{{< mdfile file="assets/blocks/workmethod.md" >}}
-
 {{< mdfile file="assets/blocks/technologies.md" >}}
+
+---
+
+{{< mdfile file="assets/blocks/workmethod.md" >}}
 
 ---
 

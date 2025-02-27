@@ -322,8 +322,8 @@ html {
 
 body {
   display: flex;
-  color: #2E2B26;
-  background-color: #EFEBE0;
+  color: #2e2b26;
+  background-color: #efebe0;
   font-family: "Noto Sans Mono", monospace;
   font-size: 1.8em;
   font-weight: 400;
@@ -392,7 +392,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #2E2B26;
+  color: #2e2b26;
   font-weight: 600;
   margin: 3.2rem 0 1.4rem 0;
   letter-spacing: 0.024em;
@@ -446,7 +446,7 @@ h6 {
 }
 a {
   font-weight: 600;
-  color: #8B4513;
+  color: #8b4513;
   text-decoration: none;
 }
 a:focus, a:hover {
@@ -506,7 +506,7 @@ code {
 }
 
 .topnav-title {
-  color: #2E2B26;
+  color: #2e2b26;
   letter-spacing: 0;
 }
 
@@ -517,7 +517,7 @@ code {
 }
 
 .topnav-link {
-  color: #2E2B26;
+  color: #2e2b26;
   letter-spacing: 0;
 }
 
@@ -528,7 +528,7 @@ code {
 @media screen and (max-width: 800px) {
   .mobilemenu {
     display: initial;
-    color: #2E2B26;
+    color: #2e2b26;
   }
   .topnav-list {
     display: none;
@@ -563,7 +563,8 @@ table td,
 table th {
   text-align: left;
   border: 1px solid #666;
-  padding: 0.8rem;
+  padding: 0.2rem 1rem;
+  font-size: 1.6rem;
 }
 table tr:first-child th {
   border-top: 0;
@@ -600,7 +601,7 @@ table tr th:last-child {
   margin-left: 3rem;
 }
 .list ul li a {
-  color: #2E2B26;
+  color: #2e2b26;
   line-height: 1.1;
 }
 @media screen and (max-width: 800px) {
