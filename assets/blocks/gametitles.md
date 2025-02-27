@@ -26,7 +26,7 @@
       <td><i>NDA</i></td>
       <td>Survival/PvP</td>
       <td><i>NDA</i></td>
-      <td>Unreal Engine 5</td>
+      <td>UE5</td>
       <td>Game client AI bot engineer</td>
     </tr>
     <tr>
@@ -38,19 +38,19 @@
       <td>Technical lead</td>
     </tr>
     <tr>
-      <td>Prototype</td>
+      <td>Indie</td>
       <td>Project Dual</td>
       <td>Platformer</td>
       <td>Companion Group</td>
-      <td>Unreal Engine 5</td>
-      <td>Lead developer</td>
+      <td>UE5</td>
+      <td>Lead developer prototype</td>
     </tr>
     <tr>
       <td>AAA</td>
-      <td>Unannounced</td>
+      <td><i>Unannounced</i></td>
       <td>PvP/PvE</td>
       <td>Amazon Games</td>
-      <td>Unreal Engine 5, .NET</td>
+      <td>UE5, C++, .NET</td>
       <td>Game backend engineer</td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@
       <td>VAIL VR</td>
       <td>VR FPS</td>
       <td>AEXLAB, Meta</td>
-      <td>Unreal Engine 4/5</td>
+      <td>UE4/5, C++</td>
       <td>Online Client Engineer</td>
     </tr>
     <tr>
