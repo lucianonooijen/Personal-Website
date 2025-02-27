@@ -2,7 +2,7 @@
 
 _08/2021 - present_ ~ **Software engineer, freelance**
 
-I currenly work as a freelance software engineer. <!--A dedicated page for which can be found [here](/recruiters/).-->
+I currenly work as a freelance software engineer. A dedicated page for which can be found [here](/recruiters/).
 
 #### Companion Group Ltd.
 
@@ -107,7 +107,7 @@ _02/2021 - 11/2021_ ~ **CTO, ad interim**
 
 _06/2020 - 11/2021_ ~ **Partner and techlead (part-time)**
 
-- Startup for supporting mourners cope with their losses through various ways, investor through Bytecode
+- Startup for changing how society deals with mourning, investor through Bytecode
 - Development of the custom backend application, written in Go, with PostgreSQL database
 - Leading development of the mobile application in React/Typescript/Expo
 - Software architecture and infrastructure setup, deployment automation
@@ -117,7 +117,7 @@ _06/2020 - 11/2021_ ~ **Partner and techlead (part-time)**
 
 _02/2020 - 08/2021_ ~ **Partner and techlead (part-time)**
 
-- Startup for helping young people to further develop their entrepreneurial side, investor through Bytecode
+- Startup for helping young people develop their entrepreneurial side, investor through Bytecode
 - Development of custom backend application in Go and CMS
 - Leading development of the frontend application in React/Typescript/NextJS
 - Software architecture and infrastructure setup, deployment automation
@@ -128,8 +128,8 @@ _02/2020 - 08/2021_ ~ **Partner and techlead (part-time)**
 _05/2019 - 03/2020_ ~ **Software engineer, ad interim**
 
 - Leading frontend developer for De Omschakelaar project at Eneco, via Dept Agency
-- Front-end development in React/Typescript with Redux connected to .NET Core for data fetching/saving
-- Creating code generation tools to convert different data formats to JSON to be used for calculations
+- Front-end development in React/Typescript with Redux connected to .NET Core for storage
+- Creating code generation tools to convert different data formats to JSON for calculations
 - Using automation to speed up the development process
 - Creation of tooling to better tackle existing technical debt
 

@@ -11,8 +11,6 @@ categories = ["Tools", "Games"]
 
 _tl;dr: Capsa makes Unreal Engine logging a lot better, especially for those working on multiplayer. Check it out [here](https://capsa.gg/blog/announcing-capsa)._
 
-
-
 I'm very excited to share what I've been working on over the last few months by announcing the v0.1 release of Capsa.
 
 ## Introducing Capsa

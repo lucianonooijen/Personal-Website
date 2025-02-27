@@ -3,6 +3,8 @@ title = "About me"
 slug = "about"
 +++
 
+<!-- TODO: UPDATE CONTENT -->
+
 #### Introduction
 
 My name is Luciano Nooijen, currently working in the games industry as an engineer focusing on online game client development and multiplayer functionality.

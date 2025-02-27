@@ -4,7 +4,7 @@ The technologies I'm currently working with the most and am most familiar with a
 
 ### Game development
 
-- Client: **Unreal Engine 5** (C++, Blueprints)
+- Client: **Unreal Engine 5** (C++, Blueprints), C, C++
 - Backend: **C++** (Unreal Engine, custom), **C#** (.NET), **Go**
 
 ### Backend/server development
@@ -19,7 +19,7 @@ _Most often with **PostgreSQL** as the underlying database._
 ### Front-end and mobile development
 
 - **React with Typescript** (NextJS)
-- **Web Assembly** (Golang, Zig, Odin, Jai, C/C++)
+- Web Assembly (Golang, Zig, Odin, Jai, C/C++)
 - React Native (Expo or bare)
 - Progressive Web Apps
 - Elm

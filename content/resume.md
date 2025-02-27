@@ -79,6 +79,8 @@ _Most often with **PostgreSQL** as the underlying database._
 - **Ancient Greek** (beginner)
 - **Latin** (beginner)
 
+<!--
 <br><hr><br>
 
 {{< mdfile file="assets/blocks/workmethod.md" >}}
+-->

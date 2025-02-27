@@ -1,6 +1,5 @@
 # TODOs
 
-- [ ] Improve, then comment out recruiters page
+- [ ] Update learning page
 - [ ] Expand/improve About page
-- [ ] Clean up blocks, improve copy
 - [ ] Dark mode support

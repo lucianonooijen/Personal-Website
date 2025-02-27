@@ -131,6 +131,8 @@ _I will update this page and add a log of what I have used for learning, so that
 
 As time progresses, I will add a sort of timeline of my learnings, mostly for myself as reference later, but also so I can advice others on how to progress.
 
+<!-- TODO: UPDATE -->
+
 ### Update September 26th, 2024
 
 In the last year I have shifted my learning focus on online/multiplayer game development as well as low-level programming. I have familiarized myself with Unreal Engine more, mostly in the multiplayer/online parts of the engine, as well as with custom C/C++ games. Recently, I started to pick up assembly as well as learning more about operating system and kernal programming. As part of my learning, I am catching up on some parts of mathematics as well, as this is crucial in games.
