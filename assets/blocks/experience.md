@@ -2,7 +2,7 @@
 
 _08/2021 - present_ ~ **Software engineer, freelance**
 
-I currenly work as a freelance software engineer. A dedicated page for which can be found [here](/recruiters/).
+I currenly work as a freelance software engineer. <!--A dedicated page for which can be found [here](/recruiters/).-->
 
 #### Companion Group Ltd.
 
@@ -10,7 +10,7 @@ _01/2025 - present_ ~ **AI Bot Engineer, Unreal Engine (full-time) for [AA]**
 
 _Details will be added in due time._
 
-\_04/2024 - 12/2024 ~ **Tech lead position (full-time) for [AAA]**
+_04/2024 - 12/2024_ ~ **Tech lead position (full-time) for [AAA]**
 
 _Details will be added in due time._
 
