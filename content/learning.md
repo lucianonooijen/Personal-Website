@@ -131,7 +131,9 @@ _I will update this page and add a log of what I have used for learning, so that
 
 As time progresses, I will add a sort of timeline of my learnings, mostly for myself as reference later, but also so I can advice others on how to progress.
 
-<!-- TODO: UPDATE -->
+### Update February 27th, 2025
+
+I've been getting more serious about low-level programming and game engine development. As with most things I learn, I'm starting at the basics. It's been a blast working with things like Unix sockets, SIMD operations and optimizing for cache hits, and learning more about quaternions in games, custom performant network protocols on top of UDP and how kernels handle syscalls. Learning this theory while at the same time becoming a better game engine programmer feels like a great balance between theory and practical skills.
 
 ### Update September 26th, 2024
 
