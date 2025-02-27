@@ -1,0 +1,16 @@
+@use "_vars.scss";
+@use "_responsive.scss";
+
+.block-experience {
+    h4 {
+        margin-bottom: 0.4rem;
+    }
+    p {
+        margin-top: 0;
+        margin-bottom: 0.8rem;
+    }
+    ul {
+        margin-top: 0;
+        margin-bottom: 2.4rem;
+    }
+}   

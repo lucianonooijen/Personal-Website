@@ -175,10 +175,10 @@ Other resonsibilities include Discord server administration, development and mai
 
 #### Gaga Animal Care
 
-_04/2017 - present_ ~ **Treasurer and webmaster**
+_04/2017 - present_ ~ **Board member, webmaster**
 
 Volunteer for the dog shelter in Greece. Involved with planning and executing multiple neutering programs each year.
-Other responsibilities include website creation and maintenance, supervising the administration and financial tasks.
+Other responsibilities include website creation and maintenance.
 
 #### Pijnackerse Watervienden
 

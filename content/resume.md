@@ -65,7 +65,9 @@ _Most often with **PostgreSQL** as the underlying database._
 
 ## Professional work experience
 
+<div class="block-experience">
 {{< mdfile file="assets/blocks/experience.md" >}}
+</div>
 
 <br><hr><br>
 

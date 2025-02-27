@@ -9,4 +9,6 @@ slug = "experience"
 
 ## Positions
 
+<div class="block-experience">
 {{< mdfile file="assets/blocks/experience.md" >}}
+</div>
