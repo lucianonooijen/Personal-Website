@@ -25,6 +25,8 @@ Mijn beschikbaarheid per week is:
 
 Momenteel hanteer ik een uurtarief van €80-90 afhankelijk van de details van het project. Dit uurtarief is all-in, maar exclusief omzetbelasting.
 
+_Ik ben niet beschikbaar voor full-time posities of projecten waarbij werkzaamheden structureel on-site verricht moeten worden._
+
 <!--_Mijn voorkeur gaat uit naar een project met een initiële looptijd van maximaal 3 maanden, met verlenging in overleg_.-->
 
 #### Technologie

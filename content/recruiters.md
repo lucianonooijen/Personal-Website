@@ -25,6 +25,8 @@ My availability per week is:
 
 My hourly rate is €80-90 depending on the project details. This hourly rate is all-in, excl. VAT.
 
+_I am not available for full-time positions or projects that require me to work on-site._
+
 <!--_My preference is for a project with an initial duration of at most 3 months, with extension in consultation_.-->
 
 #### Technologies
