@@ -11,7 +11,7 @@ categories = ["Books", "Philosophy"]
 
 I have read quite a lot of book on Greek and Roman philosophy and Marcus Aurelius' Meditations is the book I have read most often by far. In total, I own around 7 translations and I have read sections of other translations as well. In addition to this, I have read several secondary works, in addition to the sections of the Meditations that I have read in the original Greek. In 2021/2022, I have hosted an eight-month long weekly reading group on the Meditations as well.
 
-One important note about reading philosophical works, is that translation is a very important aspect if it was written in a different. There are many features present in Ancient Greek (the language that Meditations was written in) that are not present in English, or words with no English equivalent.
+One important note about reading philosophical works, is that translation is a very important aspect if it was written in a different language. There are many features present in Ancient Greek (the language that Meditations was written in) that are not present in English, or words with no English equivalent.
 
 Translation is not just about translating the words but - especially with philosophy - it is also important to capture the style, tone, etc. of a text as this is essential to communicate the meaning of the source material. If that is not possible due to linguistic challenges, that should be clarified by the translator.
 
