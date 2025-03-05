@@ -21,7 +21,7 @@ So, back to Marcus Aurelius. After reading the Meditation and several secondary 
 
 By far the best translation of the Meditations in English is _Robin Waterfield's Annotated Edition_.
 
-In this Translation, Waterfield does an amazing job of capturing the conciseness of the original work. The English text 'feels' very similar to the original, literary, yet direct.
+In this translation, Waterfield does an amazing job of capturing the conciseness of the original work. The English text 'feels' very similar to the original, literary, yet direct.
 
 In addition to the great translation, this edition has a great introduction, clarification on translating certain terminology of Greek philosophy, but to me the best part are the tons of annotations present as footnotes.
 
