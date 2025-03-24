@@ -26,7 +26,7 @@
       <td><i>NDA</i></td>
       <td>Survival/PvP</td>
       <td><i>NDA</i></td>
-      <td>UE5</td>
+      <td>UE5, C++ </td>
       <td>Game client AI bot engineer</td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@
       <td>Project Dual</td>
       <td>Platformer</td>
       <td>Companion Group</td>
-      <td>UE5</td>
+      <td>UE5, C++</td>
       <td>Lead developer prototype</td>
     </tr>
     <tr>
