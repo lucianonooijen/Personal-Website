@@ -15,7 +15,9 @@ I should preface this by saying that I have never played Dungeons and Dragons in
 
 I am not a huge gamer. Even though I work on games, I tend to enjoy that more than actually playing games. I am quite picky with the games I play. There are quite a lot of games that I have enjoyed a ton, but nothing comes close to Baldur's Gate 3, it is by far the best game I have ever played.
 
-My first playthrough took me around 80 hours, where I took my time but didn't do most side-quests (which I didn't even know existed). My partner's playthrough is, at the time of writing, 196 hours long and we're only now moving into the end game. I have also started a few playthroughs to explore different classes and approaches to the game at higher difficulties. It will be a long time before I'm done playing this game.
+My first playthrough took me around 80 hours, where I took my time but didn't do most side-quests (which I didn't even know existed). My partner's playthrough is, at the time of writing, 196 hours long and we're only now moving into the end game [^finished]. I have also started a few playthroughs to explore different classes and approaches to the game at higher difficulties. It will be a long time before I'm done playing this game.
+
+[^finished]: After 214.5h we finished the game on March 23, 2025. 
 
 For brevity, I'll abbreviate Baldur's Gate 3 to BG3 going forward.
 
