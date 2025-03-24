@@ -8,11 +8,15 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
 [markup.goldmark.extensions]
 table = true
+footnote = true
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 [params]
     author = "Luciano Nooijen"

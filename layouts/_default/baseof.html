@@ -14,7 +14,7 @@
     {{ end }}
 
 
-    <base href="{{ .Site.BaseURL }}" />
+    <base href="{{ .Permalink }}">
     <title>{{ block "title" . }}{{ site.Title }}{{ end }}</title>
 
     <link rel="canonical" href="{{ .Permalink }}" />

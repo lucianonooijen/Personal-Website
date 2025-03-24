@@ -34,6 +34,7 @@ article.blogpost {
     }
   }
 }
+
 .endofpost {
   max-width: 400px;
   margin: 3em auto 3.4em;
@@ -42,4 +43,13 @@ article.blogpost {
   border: 0;
   border-top: 1px solid #888;
   padding: 0;
+}
+
+a[href^="#fn:"]:before{ content: '[' }
+a[href^="#fn:"]:after{ content: ']' }
+
+.footnotes hr {
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #888;
 }
