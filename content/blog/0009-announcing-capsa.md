@@ -5,8 +5,8 @@ slug = "announcing-capsa"
 tags = ["Capsa", "Tools", "Unreal Engine"]
 categories = ["Tools", "Games"]
 [params]
-  metadescription = ""
-  metakeywords = 'meditations, translation, marcus aurelius, waterfield'
+  metadescription = "Capsa makes Unreal Engine logging a lot better, especially for those working on multiplayer"
+  metakeywords = 'capsa, unreal engine, logging'
 +++
 
 _tl;dr: Capsa makes Unreal Engine logging a lot better, especially for those working on multiplayer. Check it out [here](https://capsa.gg/blog/announcing-capsa)._
