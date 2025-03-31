@@ -1,6 +1,7 @@
 baseurl = "https://lucianonooijen.com"
 title = "Luciano Nooijen"
 languageCode = "en"
+timeZone = "Europe/Athens"
 
 canonifyurls = true # Enable to turn relative URLs into absolute.
 
