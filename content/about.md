@@ -9,7 +9,7 @@ My name is Luciano Nooijen, currently working in the games industry as an engine
 
 My current position is senior/lead engineer at Companion Group, a co-development agency focussing on multiplayer games where I work on various projects and in various roles.
 
-I am also open to part-time freelance/consultancy work for multiplayer games or web development. More info can be found [here](/freelance/).
+I am also open to part-time freelance/consultancy work for multiplayer games, start-up consultancy or web development. More info can be found on my [freelance page](/freelance/).
 
 #### Work
 
@@ -49,6 +49,6 @@ I also like to play chess. Feel free to [challenge me on Lichess](https://liches
 
 #### Website
 
-The source code of this website is made available on my [Github profile](https://github.com/lucianonooijen/personal-website) under AGPL3.0 license.
+The source code of this website is made available on my [Github profile](https://github.com/lucianonooijen/personal-website) under AGPL-3.0 license. Blogposts are CC-BY-SA licensed.
 
 This website was developed using the static website generator Hugo (written in Golang).

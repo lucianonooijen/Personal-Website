@@ -28,7 +28,7 @@ _I am not available for full-time positions or projects that require me to work 
 
 #### Technologies
 
-Currently I am available for projects with one or more of the following technologies:
+Apart from consultancy work for software-startups, I am available for hands-on work for projects with one or more of the following technologies:
 
 - Unreal Engine 5 or custom C/C++ for game development
 - Golang for back-end development

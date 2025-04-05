@@ -32,7 +32,7 @@ _Ik ben niet beschikbaar voor full-time posities of projecten waarbij werkzaamhe
 
 #### Technologie
 
-Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technologieën:
+Naast consultancywerk voor software start-ups ben ik momenteel beschikbaar voor hands-on werk bij een project met een of meerdere van de volgende technologieën:
 
 - Unreal Engine 5 of custom C/C++ voor gameontwikkeling
 - Golang voor back-end
