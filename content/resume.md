@@ -9,7 +9,7 @@ I specialize in multiplayer game development, focussing on engine programming an
 
 Beyond technical implementation, I enjoy contributing at a higher level, ensuring the right business and architectural decisions are made. As a former co-founder of Bytecode Digital Agency, I've worked with many start-ups, helping them make critical decisions and rapidly bring software to life.
 
-To see my availability and hourly rate, please see the [recruiters](/recruiters) page.
+To see my availability and hourly rate, please see the [freelance/recruiters](/freelance) page.
 
 <br><hr><br>
 

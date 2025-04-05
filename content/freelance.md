@@ -1,21 +1,18 @@
 +++
-title = "Recruiters"
-slug = "recruiters"
+title = "Freelance availability"
+slug = "freelance"
+aliases = ["/freelance"]
 +++
 
-[Klik hier voor de Nederlandse versie](/recruiters-nl)
+[Klik hier voor de Nederlandse versie](/freelance-nl)
 
 #### Introduction
 
-Because my availability and preferences for projects change regularly, I have added this page to my website, specifically for recruiters, where I can answer most questions.
-
-To read about me as a person and my background, go to the [about](/about)-page.
-
-For my resume, go to the [resume](/resume) page.
+This page shows the up-to-date information about my availablity for freelance projects. To read about me as a person and my background, go to the [about](/about)-page. For my resume, see the [resume](/resume) page.
 
 ### Availability and travel time
 
-**Currently I _am_/~~am not~~ open to new freelance/contract/ad-hoc work as a software engineer/consultant**
+**Currently I _am_/~~am not~~ open to new freelance/contract/ad-hoc work as a software engineer/consultant.**
 
 My availability per week is:
 
@@ -63,4 +60,4 @@ _I am open to both greenfield and brownfield projects, with no preference._
 
 ### Questions or contact
 
-For questions, or for an introduction I can be reached by email at [luciano@lucianonooijen.com](mailto:luciano@lucianonooijen.com), or via [LinkedIn](https://www.linkedin.com/in/lucianonooijen/).
+For questions, or for an introduction I can be reached by email at [freelance@lucianonooijen.com](mailto:freelance@lucianonooijen.com), or via [LinkedIn](https://www.linkedin.com/in/lucianonooijen/).

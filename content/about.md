@@ -9,6 +9,8 @@ My name is Luciano Nooijen, currently working in the games industry as an engine
 
 My current position is senior/lead engineer at Companion Group, a co-development agency focussing on multiplayer games where I work on various projects and in various roles.
 
+I am also open to part-time freelance/consultancy work for multiplayer games or web development. More info can be found [here](/freelance/).
+
 #### Work
 
 Although I was introduced to software engineering via website development, I have quickly moved more towards back-end development and site-reliability engineering. The closer to the computer hardware I get, the more I tend to enjoy the work I'm doing. Though I enjoy automating tasks, processing large amounts of data or optimizing data-intensive applications, I love working on compilers, low-level systems programming and game engines the most.

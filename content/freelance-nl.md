@@ -1,9 +1,10 @@
 +++
-title = "Recruiters (Nederlands)"
-slug = "recruiters-nl"
+title = "Freelance beschikbaarheid (Nederlands)"
+slug = "freelance-nl"
+aliases = ["/freelance-nl"]
 +++
 
-[Click here to read in English](/recruiters)
+[Click here to read in English](/freelance)
 
 #### Introductie
 
@@ -63,4 +64,4 @@ _Ik sta open voor zowel greenfield als brownfield projecten, zonder sterke voork
 
 #### Vragen of contact
 
-Voor vragen, of voor een kennismaking ben ik te per email te bereiken op [luciano@lucianonooijen.com](mailto:luciano@lucianonooijen.com), of via [LinkedIn](https://www.linkedin.com/in/lucianonooijen/).
+Voor vragen, of voor een kennismaking ben ik te per email te bereiken op [freelance@lucianonooijen.com](mailto:freelance@lucianonooijen.com), of via [LinkedIn](https://www.linkedin.com/in/lucianonooijen/).
