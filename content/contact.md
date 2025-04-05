@@ -5,7 +5,7 @@ slug = "contact"
 
 I used to share my email here in plain text, but I started receiving a lot of spam from people scraping this website.
 
-You can email me at _luciano{at}lucianonooijen.com_, or drop me a message on LinkedIn.
+You can email me at _iamnotabot{at}lucianonooijen.com_, or drop me a message on LinkedIn.
 
 Want to connect on LinkedIn? [Feel free to add me](https://linkedin.com/in/lucianonooijen).
 
