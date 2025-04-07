@@ -23,7 +23,7 @@ Where necessary, I use my experience in web development to assist in the develop
 
 I started programming at an early age. In 2009 I made my first website, after having been interested in computers and software from an early age. After making this first website, I continued to learn more about website building, which enabled me to apply my skills on a professional level from 2014.
 
-In 2014 I developed my own webshop and started to develop websites under the name Nooijen Web Solutions. After a while I started working with another developer with whom I later founded Bytecode, which evolved into a software start-up focussed digital agency. Though Bytecode, I have co-founded multiple start-ups, worked as technical lead in even more, leading the development of their software products.
+In 2014 I developed my own webshop and started to develop websites under the name Nooijen Web Solutions. After a while I started working with another developer with whom I later founded Bytecode, which evolved into a software start-up focussed digital agency. Through Bytecode, I have co-founded multiple start-ups, worked as technical lead in even more, leading the development of their software products.
 
 #### Education
 
