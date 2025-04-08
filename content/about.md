@@ -7,7 +7,7 @@ slug = "about"
 
 My name is Luciano Nooijen, currently working in the games industry as an engineer focusing on online game client development, multiplayer functionality and engine programming.
 
-My current position is senior/lead engineer at Companion Group, a co-development agency focussing on multiplayer games where I work on various projects and in various roles.
+My current position is senior/lead engineer at Companion Group, a co-development agency focussing on multiplayer games where I work on various projects and in various roles. With Companion Group, I've built an open-source logging solution for Unreal Engine multiplayer games, called [Capsa](https://capsa.gg). Some of the work I do is published on [my GitHub](https://github.com/lucianonooijen/).
 
 I am also open to part-time freelance/consultancy work for multiplayer games, start-up consultancy or web development. More info can be found on my [freelance page](/freelance/).
 
