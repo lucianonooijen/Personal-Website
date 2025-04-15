@@ -11,7 +11,7 @@ categories = ["Backend"]
 
 _This article discusses an implementation of JWT generation in Go, and validation in Go and Typescript. The library used for this, jose, has implementations for many other programming languages, so the principles can be applied in nearly all commonly used programming languages._
 
-JSON Web Token [^jwtrfc] (JWT for short) is a very commonly used way to create and validate authentication tokens on the web. This article is not a tutorial of JWT basics, there are many resources available for that online already.
+JSON Web Token[^jwtrfc] (JWT for short) is a very commonly used way to create and validate authentication tokens on the web. This article is not a tutorial of JWT basics, there are many resources available for that online already.
 
 Most often, when generating JWTs, a secret value is used to create the third part of the JWT, the signature. This approach is great when there is a single service that generates and validates tokens. In some cases though, you want to sign a token on one service, and have it validated by another service. This could be achieved by sharing the signing secret, but this is not an optimal solution in terms of security, you would rather sign a JWT on one service and then validate it on another service, in a way that doesn't require you to have access to the secret value.
 
@@ -488,7 +488,7 @@ func (h *handlers) GetJwt(c *gin.Context) {
 }
 ```
 
-So to test, let's run the server and run `curl http://localhost:4000/jwt | jq '.token'` [^jq] to generate a token, and parse the JWT string from the response. Let's copy the value into [jwt.io](https://jwt.io). We can see that the header values and claims are set correctly.
+So to test, let's run the server and run `curl http://localhost:4000/jwt | jq '.token'`[^jq] to generate a token, and parse the JWT string from the response. Let's copy the value into [jwt.io](https://jwt.io). We can see that the header values and claims are set correctly.
 
 [^jq]: jq is a very helpful tool for working with JSON data on the command line, but how to use it are beyond the scope of this article.
 
