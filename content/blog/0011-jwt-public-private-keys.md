@@ -352,7 +352,7 @@ func (t *Token) GenerateJwt(subject, jwtId, name, role string) (string, error) {
 		Role:      role,
 	}
 
-	tok, err := t.GenerateTokenForClaims(claims)
+	tok, err := t.generateTokenForClaims(claims)
 	if err != nil {
 		return "", fmt.Errorf("error signing token: %w", err)
 	}
@@ -362,10 +362,10 @@ func (t *Token) GenerateJwt(subject, jwtId, name, role string) (string, error) {
 	return tok, nil
 }
 
-// GenerateTokenForClaims is a function that will sign the JwtClaims passed in.
-// WARNING: This method should only be used by this module itself and tests for this module.
+// generateTokenForClaims is a function that will sign the JwtClaims passed in.
+// WARNING: This method should only be called in public wrapper functions and not exposed directly.
 // For generating tokens in production code, always use the audience-specific methods.
-func (t *Token) GenerateTokenForClaims(claims JwtClaims) (string, error) { //nolint:gocritic // Jose needs val, not ref
+func (t *Token) generateTokenForClaims(claims JwtClaims) (string, error) { //nolint:gocritic // Jose needs val, not ref
 	return jwt.Signed(*t.signer).Claims(claims).Serialize()
 }
 ```
@@ -464,7 +464,9 @@ func (h *handlers) Jwk(c *gin.Context) {
 The proper JSON marshalling is left as an exercise for the reader.
 
 ## Inspecting the JWT
-Let's add a super simple API endpoint `GET /jwt` that generates a JWT with some hardcoded values. This of course is just for demo purposes and not secure to be used in production like this:
+Let's add a super simple API endpoint `GET /jwt` that generates a JWT with some hardcoded values. This of course is just for demo purposes and not secure to be used in production. In production, add authentication checks for users to log in and use the proper JWT claim values.
+
+Example handler for testing:
 ```go
 func (h *handlers) GetJwt(c *gin.Context) {
 	// Never do this in production, just for demo!
