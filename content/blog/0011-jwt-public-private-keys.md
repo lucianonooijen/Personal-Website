@@ -1,6 +1,6 @@
 +++
 date = "2025-04-16"
-title = "Creating and Validating JWTs with public/private keys (JSON Web Key Set, JWKS)"
+title = "Creating and validating JWTs with public/private keys (JSON Web Key Set, JWKS)"
 slug = "creating-jwt-with-public-private-keys-jwk"
 tags = ["JWT", "Security", "Encryption", "Golang", "Typescript"]
 categories = ["Backend"]
