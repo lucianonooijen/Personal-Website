@@ -6,15 +6,17 @@ I currenly work as a freelance software engineer. A dedicated page for which can
 
 #### Companion Group Ltd.
 
-_01/2025 - present_ ~ **AI Bot Engineer, Unreal Engine (full-time) for [AA]**
+_05/2025 - present_ ~ **Senior game backend engineer (full-time) for [AAA, MMORPG]**
 
 _Details will be added in due time._
 
+_01/2025 - 05/2025_ ~ **AI Bot Engineer, Unreal Engine (full-time) for [AA]**
+
+Implementation of AI bots based on behavior trees, with support for game abilities (GAS) by bots. I added support for combat with various weapons and implemented bot spawning based on level settings with support for loadouts. Various game logic was modified to be compatible with bots.
+
 _10/2024 - present_ ~ **Lead developer, maintainer for [capsa.gg](https://capsa.gg) (open-source)**
 
-- [Capsa](https://capsa.gg) is a non-intrusive open-source logging solution for Unreal Engine
-- Worked on API server, web panel and Unreal Engine plugin
-- Created documentation website and video playlist for demo and integration guide
+[Capsa](https://capsa.gg) is a non-intrusive open-source logging solution for Unreal Engine. For Capsa, I created the API server and web panel from scratch and contributed to the Unreal Engine plugin. Additionally, I created the documentation website and a video playlist for demo and integration guide.
 
 _04/2024 - 12/2024_ ~ **Tech lead position (full-time) for [AAA]**
 
