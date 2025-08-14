@@ -9,7 +9,7 @@ You can email me at _iamnotabot{at}lucianonooijen.com_, or drop me a message on 
 
 Want to connect on LinkedIn? [Feel free to add me](https://linkedin.com/in/lucianonooijen).
 
-I can also be found on [GitHub](https://github.com/lucianonooijen/).
+I can also be found on [GitHub](https://github.com/lucianonooijen/) and on [YouTube](https://www.youtube.com/@LucianoNooijen)
 
 ## Schedule a call appointment
 

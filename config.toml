@@ -41,6 +41,10 @@ unsafe = true
     name = "LinkedIn"
     weight = 4
     url = "https://www.linkedin.com/in/lucianonooijen/"
+[[params.social]]
+    name = "YouTube"
+    weight = 5
+    url = "https://www.youtube.com/@LucianoNooijen"
 
 # Menu links
 [[menu.main]]
