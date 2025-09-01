@@ -369,7 +369,7 @@ func (t *Token) generateTokenForClaims(claims JwtClaims) (string, error) { //nol
 	return jwt.Signed(*t.signer).Claims(claims).Serialize()
 }
 ```
-The scary looking second function performs the logic to actually generate the JWT string with the claims passed in. Discussing the JWT claims is beyond the scope of this article, these are explained in the RFC[^^jwtrfc]. An example can be found [in the example project](https://github.com/lucianonooijen/jwt-public-private-key-demo/blob/main/server/internal/token/claims.go). The note "For generating tokens in production code, always use the audience-specific methods." refers to using wrapper functions to generate keys with the correct data.
+The scary looking second function performs the logic to actually generate the JWT string with the claims passed in. Discussing the JWT claims is beyond the scope of this article, these are explained in the RFC[^jwtrfc]. An example can be found [in the example project](https://github.com/lucianonooijen/jwt-public-private-key-demo/blob/main/server/internal/token/claims.go). The note "For generating tokens in production code, always use the audience-specific methods." refers to using wrapper functions to generate keys with the correct data.
 
 [^gojose]: [go-jose/go-jose](https://github.com/go-jose/go-jose/)
 [^useparam]: [RFC7517: "use" (Public Key Use) Parameter](https://datatracker.ietf.org/doc/html/rfc7517#section-4.2)
