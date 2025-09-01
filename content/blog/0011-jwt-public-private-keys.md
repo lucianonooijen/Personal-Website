@@ -21,15 +21,21 @@ I recently integrated this into [Capsa.gg](https://capsa.gg). The web panel has 
 
 This article will implement JWT generation with a private key and gives an example of validating with the private key. Some code is omitted, a working example project can be found on Github: [lucianonooijen/jwt-public-private-key-demo](https://github.com/lucianonooijen/jwt-public-private-key-demo). This also contains some unit tests for validation, which are not included in this article.
 
-_Disclaimer: please don't follow this guide as if it's gospel, make sure you know what you are doing. This article and the example project are meant as starting points, to be adopted according to specific needs. Never blindly trust code on the internet, especially when it comes to security. The footnotes of this article contain trusted sources that can be used for further reading._
+> [!CAUTION]+ Security disclaimer
+> Please don't follow this guide as if it's gospel, make sure you know what you are doing. This article and the example project are meant as starting points, to be adopted according to specific needs. Never blindly trust code on the internet, especially when it comes to security. The footnotes of this article contain trusted sources that can be used for further reading.
 
 [^jwtrfc]: [RFC7519](https://datatracker.ietf.org/doc/html/rfc7519)
+
 [^authzero]: [Auth0 JSON Web Key Sets](https://auth0.com/docs/secure/tokens/json-web-tokens/json-web-key-sets)
+
 [^awscognito]: [AWS Cognito Token Validation](https://docs.aws.amazon.com/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-verifying-a-jwt.html#amazon-cognito-user-pools-using-tokens-aws-jwt-verify)
+
 ## JSON Web Key
-When generating a JWT, the first part of the token, the header, contains information about how the key is signed. The most important field for our use-case, is the algorithm field `alg`. 
+
+When generating a JWT, the first part of the token, the header, contains information about how the key is signed. The most important field for our use-case, is the algorithm field `alg`.
 
 For example, when signing a token with just a simple secret, the header contents are
+
 ```json
 {
   "alg": "HS256",
@@ -37,9 +43,10 @@ For example, when signing a token with just a simple secret, the header contents
 }
 ```
 
-indicating that the algorithm used is "HMAC using SHA-256"[^hs256]. This is the easiest way to sign and verify JWTs, used in many projects. You need a secret to sign the token, and use the same token to validate it. 
+indicating that the algorithm used is "HMAC using SHA-256"[^hs256]. This is the easiest way to sign and verify JWTs, used in many projects. You need a secret to sign the token, and use the same token to validate it.
 
 Now let's look at the header of a JWT that has been signed with the public/private key setup that this article discusses:
+
 ```json
 {
   "alg": "RS256",
@@ -47,18 +54,19 @@ Now let's look at the header of a JWT that has been signed with the public/priva
   "typ": "JWT"
 }
 ```
-The algorithm field here now has a different value, `RS256`, indicating the digital signature algorithm used is "RSASSA-PKCS1-v1_5 using SHA-256"[^rs256]. 
+
+The algorithm field here now has a different value, `RS256`, indicating the digital signature algorithm used is "RSASSA-PKCS1-v1_5 using SHA-256"[^rs256].
 
 This looks like a cat walked across the keyboard, but we can break this down. `RSA` indicates that we are using RSA, so a public/private key setup, `SSA` indicates "With Appendix", meaning the signature is separate from the message, which makes sense with how JWTs work. `PKCS1` refers to the "Public-Key Cryptography Standards #1"[^pkcsone], which defines how RSA should be used. `v1_5` indicates the padding scheme, which is older, but used and supported in JWTs.
 
-A new field in the header, is the `jku` field. This is the JWK Set URL[^jku], often being `<service_url>/.well-known/jwks.json`[^jwksuri]. The URL here should resolve to the public key data when making a GET request to this URL over TLS[^jku-optional]. The value of this field should not be blindly trusted at runtime unless it matches an expected value, or there is the risk of a key injection attack. When fetching this URL, there is a specific format how the data should be encoded[^jwkformat], which is called the JSON Web Key Set, or JWKS. "Set" here meaning a collection of multiple JSON Web Keys (singular: JWK). We will discuss this a bit more later. The important takeaway here is: this URL contains the public key data of all signing keys that should be considered valid. 
+A new field in the header, is the `jku` field. This is the JWK Set URL[^jku], often being `<service_url>/.well-known/jwks.json`[^jwksuri]. The URL here should resolve to the public key data when making a GET request to this URL over TLS[^jku-optional]. The value of this field should not be blindly trusted at runtime unless it matches an expected value, or there is the risk of a key injection attack. When fetching this URL, there is a specific format how the data should be encoded[^jwkformat], which is called the JSON Web Key Set, or JWKS. "Set" here meaning a collection of multiple JSON Web Keys (singular: JWK). We will discuss this a bit more later. The important takeaway here is: this URL contains the public key data of all signing keys that should be considered valid.
 
 A small note to add: for the example project, we are not fully following the RFC, as we fetch the JWKS without TLS. When implementing a JWKS endpoint, it should always be to over TLS to follow the RFC[^jku].
 
 To summarize: when implementing public/private key signing for JWTs, the JWT should contain the correct algorithm, as well as a URL where valid keys can be retrieved for validating the tokens. There is a specific format on how the public keys must be made available.
 
 <!--
-mmdc -i mermaid.mmd -o static/img/0011-1.png -b transparent 
+mmdc -i mermaid.mmd -o static/img/0011-1.png -b transparent
 ```mermaid
 sequenceDiagram
 
@@ -86,17 +94,24 @@ end
 ![jwt with jwks sequence diagram](/img/0011-1.png)
 
 [^pkcsone]: [RFC8017](https://datatracker.ietf.org/doc/html/rfc8017)
+
 [^jwkformat]: [RFC7517: JSON Web Key (JWK) Format](https://datatracker.ietf.org/doc/html/rfc7517#section-4)
+
 [^hs256]: [RFC7518: HMAC with SHA-2 Functions](https://datatracker.ietf.org/doc/html/rfc7518#section-3.2)
+
 [^rs256]: [RFC7519: Digital Signature with RSASSA-PKCS1-v1_5](https://datatracker.ietf.org/doc/html/rfc7518#section-3.1)
+
 [^jku]: [RFC7515: "jku" (JWK Set URL) Header Parameter](https://datatracker.ietf.org/doc/html/rfc7515#section-4.1.2)
+
 [^jwksuri]: This is not a strict requirement for our use-case here, but comes from the conventions for OAuth2.0 Authorization Server Metadata. This is also the endpoint used by Auth0 and AWS Cognito. See [RFC8414: Authorization Server Metadata](https://datatracker.ietf.org/doc/html/rfc8414#section-2) for more info.
+
 [^jku-optional]: The RFC marks this field as optional but for our use-case we want to include this field.
 
 ## Public/private key generation
+
 So, let's start implementing JWT signing with public/private keys. The first thing we need, is to actually generate the keys. We need to generate keys with at least 2048 bits[^keysize].
 
-We don't want to generate a key, keep it in memory and use that right away. The keys should be reused if the application starts up. You can generate the key in any way you like, this is an example of how to do this in Go. Let's assume we want to create a private key, then extract the public key from that, encode that as strings that we will return to the calling function, which will write the keys to disk. 
+We don't want to generate a key, keep it in memory and use that right away. The keys should be reused if the application starts up. You can generate the key in any way you like, this is an example of how to do this in Go. Let's assume we want to create a private key, then extract the public key from that, encode that as strings that we will return to the calling function, which will write the keys to disk.
 
 ```go
 package token
@@ -185,7 +200,9 @@ func encodePublicKeyToPem(privateKey *rsa.PrivateKey) ([]byte, error) {
 _Security disclaimer: keys must be handled with care. You need to use different keys for different environments and have proper practices for handling secrets. Please make sure you handle key generation and storage with great care._
 
 [^keysize]: [RFC7518: Digital Signature with RSASSA-PKCS1-v1_5](https://datatracker.ietf.org/doc/html/rfc7518#section-3.3)
+
 ## Accessing the public and private key
+
 So we have generated a private and public key and persisted the contents to disk. Let's now work on the actual JWT logic that uses these keys. In practice, we don't need to load the public key from disk, only the private key, which we will use to get the public key values.
 
 So let's write two helper functions: one that will load the private key from disk, and another that will decode a base64 string that is passed into it, for example if the private key value is set as an environment variable, base64 encoded.
@@ -255,10 +272,13 @@ func LoadPrivateKeyFromBase64String(b64 string) (*rsa.PrivateKey, error) {
 	return privateKey, nil
 }
 ```
+
 We now have our `*rsa.PrivateKey` instance again that we can use to sign JWTs with.
 
 ## Signing JWTs
+
 To sign the JWTs, we will be using go-jose[^gojose]. Let's create a struct called `Token`, which holds the data we need, and exposes methods to sign and validate tokens:
+
 ```go
 import (
 	"crypto/rsa"
@@ -329,6 +349,7 @@ A few important notes here: the `keyID` is an identifier for which type of key w
 With our new `Token` instance, let's add a few methods that allows us to actually generate and validate JWTs. For our example application, we will only have a single token type. When dealing with multiple token types, you will most likely have to generate multiple functions for generation and validation, for each token type.
 
 Let's generate a JWT:
+
 ```go
 const (
 	Audience = "example"
@@ -369,13 +390,17 @@ func (t *Token) generateTokenForClaims(claims JwtClaims) (string, error) { //nol
 	return jwt.Signed(*t.signer).Claims(claims).Serialize()
 }
 ```
+
 The scary looking second function performs the logic to actually generate the JWT string with the claims passed in. Discussing the JWT claims is beyond the scope of this article, these are explained in the RFC[^jwtrfc]. An example can be found [in the example project](https://github.com/lucianonooijen/jwt-public-private-key-demo/blob/main/server/internal/token/claims.go). The note "For generating tokens in production code, always use the audience-specific methods." refers to using wrapper functions to generate keys with the correct data.
 
 [^gojose]: [go-jose/go-jose](https://github.com/go-jose/go-jose/)
+
 [^useparam]: [RFC7517: "use" (Public Key Use) Parameter](https://datatracker.ietf.org/doc/html/rfc7517#section-4.2)
 
 ## Validating JWTs using the private key
+
 Of course we also want to be able to validate the JWT on the service that generated the key. Let's add that before we implement the validation on an external service:
+
 ```go
 var (
 	// ErrorJwtParsing indicates that the signature of the JWT is not valid.
@@ -427,10 +452,13 @@ func (t *Token) ValidateJwt(token string) (*JwtClaims, error) {
 ```
 
 This code assumes a `type Claims map[string]any` definition. On this type, we add a method `jwtClaims` that converts this map to our own custom claims type, which was mentioned before. For inspiration, you can check [this example](https://github.com/lucianonooijen/jwt-public-private-key-demo/blob/main/server/internal/token/claims.go). We also call our own `validateJwtClaims` method, which is beyond the scope of this article, but it validates a bunch of fields, you can draw inspiration from [this example](https://github.com/lucianonooijen/jwt-public-private-key-demo/blob/main/server/internal/token/jwt_validate_claims.go). The validation required depends on your application. You should also validate that the algorithm and key id match the expected values, or reject the token if they don't.
+
 ## Sharing the public key
-Remember that when signing tokens with RS256 (public/private key setup), that we should include a URL where the JWKS can be retrieved? Let's add that now. 
+
+Remember that when signing tokens with RS256 (public/private key setup), that we should include a URL where the JWKS can be retrieved? Let's add that now.
 
 In our `Token` instance, we want to add a method that allows us to retrieve the JSON representation of the public key. Getting the JSON representation of the public key is very straight-forward:
+
 ```go
 // GetPublicKey takes the public part of the private key and marshals this to JSON for the .well-known/jwks.json endpoint.
 func (t *Token) GetPublicKey() ([]byte, error) {
@@ -442,7 +470,8 @@ func (t *Token) GetPublicKey() ([]byte, error) {
 
 **Make sure you use `jwk.Public()`!** If you do not include the `Public()` part in here, you will expose the full _private_ key, meaning the whole token system will be compromised!
 
-We can add a simple handler to return this key like this, assuming we have our handlers in a  `handlers` struct which has an instance of  `Token` in the `token` struct field:
+We can add a simple handler to return this key like this, assuming we have our handlers in a `handlers` struct which has an instance of `Token` in the `token` struct field:
+
 ```go
 func (h *handlers) Jwk(c *gin.Context) {
 	pubKey, err := h.token.GetPublicKey()
@@ -461,12 +490,15 @@ func (h *handlers) Jwk(c *gin.Context) {
 	c.Status(http.StatusOK)
 }
 ```
+
 The proper JSON marshalling is left as an exercise for the reader.
 
 ## Inspecting the JWT
+
 Let's add a super simple API endpoint `GET /jwt` that generates a JWT with some hardcoded values. This of course is just for demo purposes and not secure to be used in production. In production, add authentication checks for users to log in and use the proper JWT claim values.
 
 Example handler for testing:
+
 ```go
 func (h *handlers) GetJwt(c *gin.Context) {
 	// Never do this in production, just for demo!
@@ -495,11 +527,16 @@ So to test, let's run the server and run `curl http://localhost:4000/jwt | jq '.
 [^jq]: jq is a very helpful tool for working with JSON data on the command line, but how to use it are beyond the scope of this article.
 
 ## Validating the JWT in NextJS
+
 So now we get to the exciting part, validating the JWT in a separate service. Let's initialize an empty NextJS project and add some JWT validation middleware:
 
 middleware.ts:
+
 ```ts
-import { deleteJwtCookie, getJwtCookieFromRequest } from "@/data/jwt/cookiesServer";
+import {
+  deleteJwtCookie,
+  getJwtCookieFromRequest,
+} from "@/data/jwt/cookiesServer";
 import JwtValidator from "@/server/jwt";
 import { type NextRequest, NextResponse } from "next/server";
 
@@ -507,66 +544,82 @@ import { type NextRequest, NextResponse } from "next/server";
 // This is not implemented for security reasons, as that is done on the server.
 // It simply serves as a way to make sure users don't get 4xx errors.
 export async function middleware(req: NextRequest) {
-    const { pathname, search, origin, basePath } = req.nextUrl;
-    const path = `${basePath}${pathname === "/" ? "" : pathname}${search}`;
-    const logBase = `[middleware][${req.method} ${path}]:`;
+  const { pathname, search, origin, basePath } = req.nextUrl;
+  const path = `${basePath}${pathname === "/" ? "" : pathname}${search}`;
+  const logBase = `[middleware][${req.method} ${path}]:`;
 
-    const token = await getJwtCookieFromRequest(req);
-    const isAuthenticated = token ? await JwtValidator.ValidateJwt(token) : false;
-    const isAuthRoute = req.nextUrl.pathname.startsWith("/auth");
+  const token = await getJwtCookieFromRequest(req);
+  const isAuthenticated = token ? await JwtValidator.ValidateJwt(token) : false;
+  const isAuthRoute = req.nextUrl.pathname.startsWith("/auth");
 
-    console.log(logBase, "received request, isAuthenticated", isAuthenticated, "| isAuthRoute", isAuthRoute);
+  console.log(
+    logBase,
+    "received request, isAuthenticated",
+    isAuthenticated,
+    "| isAuthRoute",
+    isAuthRoute,
+  );
 
-    // Logged-in users accessing login routes should be redirected to the homepage
-    if (isAuthenticated && isAuthRoute) {
-        console.log(logBase, "redirecting logged in user from auth route to", req.url);
+  // Logged-in users accessing login routes should be redirected to the homepage
+  if (isAuthenticated && isAuthRoute) {
+    console.log(
+      logBase,
+      "redirecting logged in user from auth route to",
+      req.url,
+    );
 
-        return NextResponse.redirect(new URL("/", req.url));
+    return NextResponse.redirect(new URL("/", req.url));
+  }
+
+  // Send users who are not logged in and request non-auth pages to the login page
+  if (!isAuthenticated && !isAuthRoute) {
+    await deleteJwtCookie(req);
+
+    const signInUrl = new URL(`${basePath}/auth/login`, origin);
+
+    if (path !== "") {
+      signInUrl.searchParams.set("redirect", path);
     }
 
-    // Send users who are not logged in and request non-auth pages to the login page
-    if (!isAuthenticated && !isAuthRoute) {
-        await deleteJwtCookie(req);
+    console.log(
+      logBase,
+      "redirecting non logged in user to",
+      signInUrl.toString(),
+    );
 
-        const signInUrl = new URL(`${basePath}/auth/login`, origin);
+    return NextResponse.redirect(signInUrl);
+  }
 
-        if (path !== "") {
-            signInUrl.searchParams.set("redirect", path);
-        }
+  console.log(logBase, "continue executing request");
 
-        console.log(logBase, "redirecting non logged in user to", signInUrl.toString());
-
-        return NextResponse.redirect(signInUrl);
-    }
-
-    console.log(logBase, "continue executing request");
-
-    return NextResponse.next();
+  return NextResponse.next();
 }
 
 export const config = {
-    matcher: [
-        /*
-         * Match all request paths except for the ones starting with:
-         * - api (API routes)
-         * - _next/static (static files)
-         * - _next/image (image optimization files)
-         * - favicon.ico, sitemap.xml, robots.txt (metadata files)
-         */
-        "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt).*)",
-    ],
+  matcher: [
+    /*
+     * Match all request paths except for the ones starting with:
+     * - api (API routes)
+     * - _next/static (static files)
+     * - _next/image (image optimization files)
+     * - favicon.ico, sitemap.xml, robots.txt (metadata files)
+     */
+    "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt).*)",
+  ],
 };
 ```
 
-The actual `JwtValidator` implementation will be specific for each application and should take care to properly validate tokens. The implementation for the demo project can be found [here](https://github.com/lucianonooijen/jwt-public-private-key-demo/blob/main/client/server/jwt.ts). For validation, you should think of checking the algorithm, expected audience, issuer and timestamps. 
+The actual `JwtValidator` implementation will be specific for each application and should take care to properly validate tokens. The implementation for the demo project can be found [here](https://github.com/lucianonooijen/jwt-public-private-key-demo/blob/main/client/server/jwt.ts). For validation, you should think of checking the algorithm, expected audience, issuer and timestamps.
 
 It is good practice to set the JWKS endpoint in your application config, so that you only fetch keys from that location and reject keys that have a different `jku` field in the header. Don't trust the `jku` field from the header and start fetching the key from there, in case a malicious actor set up their own service to sign keys. Security here is very important, so take good care to minimize the possible attack vectors.
 
 ## Seeing this in action
-The example project for this article can be found [here](https://github.com/lucianonooijen/jwt-public-private-key-demo) on GitHub. 
+
+The example project for this article can be found [here](https://github.com/lucianonooijen/jwt-public-private-key-demo) on GitHub.
 
 For a more complete example with different types of keys, you can take a look at [Capsa's token package](https://github.com/capsa-gg/capsa/tree/main/server/internal/infrastructure/token) and at [Capsa's NextJS middleware](https://github.com/capsa-gg/capsa/blob/main/web/middleware.ts).
 
-## Disclaimer
+> [!CAUTION]+ Disclaimer
+> Never blindly trust code on the internet, especially when it comes to security. Use this article as a starting point but please do your own research and familiarize yourself with the relevant RFCs when implementing this for a production application.
 
-Never blindly trust code on the internet, especially when it comes to security. Use this article as a starting point but please do your own research and familiarize yourself with the relevant RFCs when implementing this for a production application.
+<br />

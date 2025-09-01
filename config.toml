@@ -10,7 +10,10 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [markup]
-  defaultMarkdownHandler = "goldmark"
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.parser.attribute]
+block = true
 
 [markup.goldmark.extensions]
 table = true

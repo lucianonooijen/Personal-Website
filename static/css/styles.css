@@ -459,13 +459,112 @@ p {
   text-shadow: 0.5px 0.5px 0px rgba(0, 0, 0, 0.05);
 }
 
-blockquote {
+blockquote:not(.alert) {
   border-left: 2px solid #666;
   padding-left: 1.6rem;
   font-style: italic;
 }
-blockquote p {
+blockquote:not(.alert) p {
   color: #666;
+}
+
+blockquote.alert {
+  padding: 0;
+  border: 2px solid #666;
+  background: #dadada;
+  border-radius: 1.2rem;
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
+  margin: 1rem -3.2rem;
+}
+blockquote.alert .alert-heading {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  background-color: #666;
+  border-radius: 1.2rem 1.2rem 0 0;
+}
+blockquote.alert .alert-heading-emoji {
+  margin: 0.4rem 0;
+  width: 3.2rem;
+  text-align: center;
+}
+blockquote.alert .alert-heading-text {
+  margin: 0.4rem 0;
+}
+blockquote.alert > p {
+  padding: 1.6rem 3.2rem;
+  margin: 0;
+}
+@media screen and (max-width: 800px) {
+  blockquote.alert {
+    margin: 1rem -1.6rem;
+  }
+  blockquote.alert .alert-heading-emoji {
+    width: 2.8rem;
+  }
+  blockquote.alert > p {
+    padding: 1.2rem;
+  }
+}
+
+blockquote.alert-tip {
+  border: 2px solid rgb(195.3, 221.1, 196.5);
+  background: rgb(235.1, 243.7, 235.5);
+}
+blockquote.alert-tip .alert-heading {
+  background: rgb(195.3, 221.1, 196.5);
+  color: #222;
+  font-weight: bold;
+}
+
+blockquote.alert-note {
+  border: 2px solid rgb(186, 213.9, 241.5);
+  background: rgb(232, 241.3, 250.5);
+}
+blockquote.alert-note .alert-heading {
+  background: rgb(186, 213.9, 241.5);
+  color: #222;
+  font-weight: bold;
+}
+
+blockquote.alert-info {
+  border: 2px solid rgb(189.3, 201.3, 222);
+  background: rgb(233.1, 237.1, 244);
+}
+blockquote.alert-info .alert-heading {
+  background: rgb(189.3, 201.3, 222);
+  color: #222;
+  font-weight: bold;
+}
+
+blockquote.alert-warning {
+  border: 2px solid rgb(255, 233.4, 178.5);
+  background: rgb(255, 247.8, 229.5);
+}
+blockquote.alert-warning .alert-heading {
+  background: rgb(255, 233.4, 178.5);
+  color: #222;
+  font-weight: bold;
+}
+
+blockquote.alert-caution {
+  border: 2px solid rgb(255, 215.4, 178.5);
+  background: rgb(255, 241.8, 229.5);
+}
+blockquote.alert-caution .alert-heading {
+  background: rgb(255, 215.4, 178.5);
+  color: #222;
+  font-weight: bold;
+}
+
+blockquote.alert-danger {
+  border: 2px solid rgb(241.8, 192.6, 192.6);
+  background: rgb(250.6, 234.2, 234.2);
+}
+blockquote.alert-danger .alert-heading {
+  background: rgb(241.8, 192.6, 192.6);
+  color: #222;
+  font-weight: bold;
 }
 
 pre {

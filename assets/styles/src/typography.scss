@@ -1,3 +1,5 @@
+@use "sass:color";
+
 @use "_vars.scss";
 @use "_responsive.scss";
 
@@ -80,13 +82,81 @@ p {
   text-shadow: 0.5px 0.5px 0px rgba(0, 0, 0, 0.05);
 }
 
-blockquote {
+blockquote:not(.alert) {
   border-left: 2px solid vars.$color-quote;
   padding-left: 1.6rem;
   font-style: italic;
 
   p {
     color: vars.$color-quote;
+  }
+}
+
+//
+// ALERT BLOCKQUOTES
+//
+
+blockquote.alert {
+  padding: 0;
+  border: 2px solid vars.$color-quote;
+  background: vars.$color-code-bg;
+  border-radius: 1.2rem;
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
+
+  margin: 1rem -3.2rem;
+
+  .alert-heading {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    background-color: vars.$color-quote;
+    border-radius: 1.2rem 1.2rem 0 0;
+  }
+
+  .alert-heading-emoji {
+    margin: 0.4rem 0;
+    width: 3.2rem;
+    text-align: center;
+  }
+
+  .alert-heading-text {
+    margin: 0.4rem 0;
+  }
+
+  > p {
+    padding: 1.6rem 3.2rem;
+    margin: 0;
+  }
+
+  @include responsive.max-md {
+    margin: 1rem -1.6rem;
+    .alert-heading-emoji {
+      width: 2.8rem;
+    }
+    > p {
+      padding: 1.2rem;
+    }
+  }
+}
+
+$alert-accents: (
+  tip: #388e3c,
+  note: #1976d2,
+  info: #244c91,
+  warning: #ffb700,
+  caution: #ff7b00,
+  danger: #d32f2f,
+);
+@each $name, $accent in $alert-accents {
+  blockquote.alert-#{$name} {
+    border: 2px solid color.mix(white, $accent, 70%);
+    background: color.mix(white, $accent, 90%);
+
+    .alert-heading {
+      background: color.mix(white, $accent, 70%);
+      color: #222;
+      font-weight: bold;
+    }
   }
 }
 
