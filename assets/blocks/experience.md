@@ -143,5 +143,6 @@ Occasionally assisting Atlas representatives, usually at Schiphol airport with d
 
 _03/2013_ ~ **Documentary director**
 
-Assisting volunteers living on Kos and filming the activities. After filming I edited, released and promoted the documentary. 
+Assisting volunteers living on Kos and filming the activities. After filming I edited, released and promoted the documentary.
+
 <!--Finished documentary: bit.ly/arkfilm or bit.ly/arkfilmgermany-->

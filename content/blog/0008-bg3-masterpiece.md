@@ -17,7 +17,7 @@ I am not a huge gamer. Even though I work on games, I tend to enjoy that more th
 
 My first playthrough took me around 80 hours, where I took my time but didn't do most side-quests (which I didn't even know existed). My partner's playthrough is, at the time of writing, 196 hours long and we're only now moving into the end game [^finished]. I have also started a few playthroughs to explore different classes and approaches to the game at higher difficulties. It will be a long time before I'm done playing this game.
 
-[^finished]: After 214.5h we finished the game on March 23, 2025. 
+[^finished]: After 214.5h we finished the game on March 23, 2025.
 
 For brevity, I'll abbreviate Baldur's Gate 3 to BG3 going forward.
 

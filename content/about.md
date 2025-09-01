@@ -15,7 +15,7 @@ I am also open to part-time freelance/consultancy work for multiplayer games, st
 
 Although I was introduced to software engineering via website development, I have quickly moved more towards back-end development and site-reliability engineering. The closer to the computer hardware I get, the more I tend to enjoy the work I'm doing. Though I enjoy automating tasks, processing large amounts of data or optimizing data-intensive applications, I love working on compilers, low-level systems programming and game engines the most.
 
-A few years ago, I was given the opportunity to enter the gaming industry, in which I currently work (details on my [experience page](/experience)), working mostly with Unreal Engine, C++ and various back-end technologies (mostly Golang, C#). 
+A few years ago, I was given the opportunity to enter the gaming industry, in which I currently work (details on my [experience page](/experience)), working mostly with Unreal Engine, C++ and various back-end technologies (mostly Golang, C#).
 
 Where necessary, I use my experience in web development to assist in the development of internal web-based tooling used during the game development process, though this work to me is the exception rather than the rule.
 

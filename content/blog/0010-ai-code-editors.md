@@ -18,6 +18,7 @@ Once GitHub Copilot started becoming more and more powerful, I started using it 
 In late 2024 I removed all LLM integrations from my code editors. I still use LLMs occasionally and I do think AI can be used in a way that is very beneficial for many programmers. So then why don't I use AI-powered code editing tools?
 
 ## Tesla FSD
+
 From 2019 to 2021 I drove a Tesla. Though I would never make the same purchase again, not for political reasons, just because the cars are quite low quality, very overpriced and a hell to repair or maintain.
 
 When I got my Tesla, I started using the Full Self-Driving (FSD) anytime I could. It felt great to just put the car on FSD on the highway and zone out a bit. Switching lanes was as simple as hitting the turn signal, and the car would switch lanes. Driving for me was just getting to the highway, turning on FSD, telling the car to switch lanes every now and then, and listen to music/podcasts while zoning out.
@@ -29,7 +30,8 @@ In the period from 2019 to 2021 I exclusively drove my Tesla for longer rides. A
 Being reliant on Tesla's FSD took away my own ability to go into autopilot.
 
 ## My experience with AI code editors
-Working with AI-powered code editors was somewhat similar. Initially, I felt that I completed work a lot faster when assisted by AI. The work I was doing most of the time was not super complex, and AI felt like putting my Tesla on FSD, I could just guide the machine to do my work for me. 
+
+Working with AI-powered code editors was somewhat similar. Initially, I felt that I completed work a lot faster when assisted by AI. The work I was doing most of the time was not super complex, and AI felt like putting my Tesla on FSD, I could just guide the machine to do my work for me.
 
 In my free time, I started working on a side project on my personal account on my work device. On this account, I did not have access to Copilot and my other cool, fancy AI tools. This is when using AI started to feel very similar to my Tesla FSD story.
 
@@ -37,7 +39,7 @@ I felt less competent at doing what was quite basic software development than a 
 
 With my work, AI started to become less useful over time as well. Not only did it take out the fun for me, but I started to feel a bit insecure about making some implementation decisions myself. Outsourcing the decisions to the AI seemed a lot easier. But sometimes, the AI couldn't figure things out, even with the best prompts. It was quite clear that because I did not practice the basics often, I was less capable with the harder parts as well.
 
-##  The loss of Fingerspitzengefühl
+## The loss of Fingerspitzengefühl
 
 > **_Fingerspitzengefühl_** \[ˈfɪŋɐˌʃpɪtsənɡəˌfyːl\] is a German term, literally meaning _"finger tips feeling"_ and meaning intuitive flair or instinct, which has been adopted by the English language as a loanword. It describes a great situational awareness, and the ability to respond most appropriately and tactfully. [^fsg]
 
@@ -47,11 +49,12 @@ Defining seniority is a very tough thing. Though in my opinion a lot of being a 
 
 This developed intuition is not just on an architectural level. A big component is in the lower level details, when to use pointers (or what type of pointers), whether to use asserts or checks, what to pick from the standard library when multiple options are available (though senior C++ programmers still can't seem to agree on this).
 
-This intuition is what I was slowly losing when relying on AI tools a lot. And this is coming from a lead developer. When I see a lot of hype about vibe coding, I can't help but think: how do you exactly expect to vibe code your way to senior? Where will you get the skills from to maintain and extend the vibe-coded codebase when the AI tools are down, or have become too expensive? 
+This intuition is what I was slowly losing when relying on AI tools a lot. And this is coming from a lead developer. When I see a lot of hype about vibe coding, I can't help but think: how do you exactly expect to vibe code your way to senior? Where will you get the skills from to maintain and extend the vibe-coded codebase when the AI tools are down, or have become too expensive?
 
-Even with larger context windows, more computing power, reasoning models or agents, there will be things that AI won't be able to do. Over time, the AI tools will be more and more powerful, sure. But when you receive a Slack message that "the website works fine, but the app is down in production; I tried it locally and there it works fine, nothing in Sentry either", good luck getting an AI agent to fix this for you. Maybe it can, maybe it can't. And when an AI agent can't figure it out, will your reply be "sorry, Cursor doesn't get it, will prompt more tomorrow"? 
+Even with larger context windows, more computing power, reasoning models or agents, there will be things that AI won't be able to do. Over time, the AI tools will be more and more powerful, sure. But when you receive a Slack message that "the website works fine, but the app is down in production; I tried it locally and there it works fine, nothing in Sentry either", good luck getting an AI agent to fix this for you. Maybe it can, maybe it can't. And when an AI agent can't figure it out, will your reply be "sorry, Cursor doesn't get it, will prompt more tomorrow"?
 
 ## You can get by without these tools
+
 Sometimes it feels like you have to use AI or be out of a job in 6 months. We've been hearing the "3-6 months from now"-story for over two years at this point. I stopped trusting CEO promises about functionality "3-6 months from now" years ago. When I got my Tesla in 2019, I paid €6400 for functionality that was supposed to arrive in "3-6 months from now", and the functionality is still not present the way it was promised over 5 years ago.
 
 Right now, it is unlikely that letting AI do your coding will work for projects larger than a university project. When working on legacy systems or larger projects in enterprises or when you need to work with and consult a lot of dependency internals (like I do with Unreal Engine), AI tools will often not be able to make things work. When you need to work with internal DSLs, tools or frameworks, good luck getting LLMs to generate useful output. For some industries, you can't even use AI tools at all for a multitude of reasons.
@@ -59,10 +62,13 @@ Right now, it is unlikely that letting AI do your coding will work for projects 
 For some things you really should not _want_ to rely on AI. When implementing authentication systems like JWT[^jwt] signing or RBAC[^rbac], adding "and it should be secure" to the prompt won't make it secure if it's been trained on GitHub code that had CVEs[^cve]. When it comes to security, you should be the person who is responsible and understands this fully. Critical systems should be written and reviewed by humans, if we are heading to a situation where one AI agent writes the code, another reviews the autogenerated PR and then another AI agent deploys the code, we will see a huge spike of security issues soon.
 
 [^jwt]: JSON Web Tokens, or JWTs are a common way to generate authentication tokens, among other uses
+
 [^rbac]: Role-based access control (RBAC) is a mechanism to restrict system access by setting permissions and privileges
+
 [^cve]: Common Vulnerabilities and Exposures (CVE) is a program used to identify, define and catalog publicly disclosed cybersecurity vulnerabilities, [cve.org](https://www.cve.org/)
 
 ## Where I draw the line
+
 I still use AI, sometimes. I think it can be a great tool, when used wisely. I draw the line at integration. I keep AI fully separate from my code editor. All of the context, I add manually. I intentionally keep the effort required quite high, so it disincentivizes me.
 
 Examples where I use AI for work include "convert these Go tests in structs to tests in a map", "convert this calculation to SIMD", or "when the content type is application/zlib, decode the body"[^aiworkexamples]. I have set up some custom instructions to only give me the code that has changed, and give me instructions for adding it. This way, I am still the one making the changes in the codebase. Just approving a Git diff is not enough, I want to manually add the code myself, only then do I feel confident to sign off on it and take responsibility for it.
@@ -78,14 +84,17 @@ Another benefit of using AI this way is the cost. No unnecessary API calls, manu
 I do want to add that with some things I am more strict. On my personal website, I don't want any AI-generated content, whether that's text or images. I don't like AI generated images or 'art' personally for various reasons and I think AI-generated text lacks character, it feels very flat and boring. When something is created by humans, it to me has more value than when it's created by AI.
 
 ## Doing what you love
+
 It is also worth noting that there are more things to think about than efficiency and productivity. It's also about doing what you love. If you love coding, keep doing it yourself, even if a computer might be better at it.
 
 In 1997, Deep Blue won the chess match against the then world chess champion Garry Kasparov[^deepblue], yet people still play chess. When it comes to programming, I'd say that I program for the same reason that people still play chess[^chessclip]. Though chess and software development are very different, with chess being much more limited in scope, I think it is good to keep in mind that sometimes, we can do things just to enjoy them.
 
 [^deepblue]: Source: [IBM History](https://www.ibm.com/history/deep-blue)
+
 [^chessclip]: Source: [Tsoding on YouTube](https://youtu.be/-eS5-kaTSD0?si=Mf3ySN8QbpWhgLgK&t=328)
 
 ## My advice to new programmers
+
 Don't become a forever junior who lets AI do all their work. If you want to become a programmer, learn to program yourself. Be curious, put in the time and effort to learn how things really work, and how things work in the layer below that. It really pays off. Learning how everything works under the hood and using that is amazing, just keep learning, don't be a prompt engineer (if you can even call that engineering). Believe me, it's more fun to be competent[^funcompetent].
 
 [^funcompetent]: Source: [DHH in an interview on YouTube](https://youtu.be/mTa2d3OLXhg?si=vfjLD1DeoPZMERxA&t=1126)
@@ -97,6 +106,7 @@ If you learn to code now, keep building your skills instead of letting AI do all
 And remember: if you cannot code without AI, you cannot code.
 
 ## Conclusion
+
 When you are using AI, you are sacrificing knowledge for speed. Sometimes it's worth making this trade-off. Though it is important to remember that even the best athletes in the world are still doing their basic drills for a reason. The same applies to software development: you need to practice the basics, to be able to do the advanced work. You need to keep your axe sharp.
 
 We are still a long way out from AI taking over our jobs. A lot of companies are creating FOMO[^fomo] as a sales tactic to get more customers, to show traction to their investors, to get another round of funding, to generate the next model that will definitely revolutionize everything.

@@ -45,8 +45,12 @@ article.blogpost {
   padding: 0;
 }
 
-a[href^="#fn:"]:before{ content: '[' }
-a[href^="#fn:"]:after{ content: ']' }
+a[href^="#fn:"]:before {
+  content: "[";
+}
+a[href^="#fn:"]:after {
+  content: "]";
+}
 
 .footnotes hr {
   height: 1px;

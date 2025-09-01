@@ -12,7 +12,7 @@
     margin-bottom: 0;
   }
   .site-disclaimer {
-    font-size: 10px; 
+    font-size: 10px;
     line-height: 1.4;
     margin: 0 0 1rem;
   }
@@ -40,17 +40,17 @@
       {{ with .Site.Params.social }}
         {{ $len := sub (len .) 1 }}
         {{ range $i, $e := sort . }}
-          <a href="{{ $e.url }}" target="_blank">{{ $e.name }}</a>{{ if lt $i $len }} | {{ end }}
+          <a href="{{ $e.url }}" target="_blank">{{ $e.name }}</a>{{ if lt $i $len }}|{{ end }}
         {{ end }}
       {{ end }}
     </p>
     <p class="site-disclaimer">
       This website is built in a way the internet was meant to be.
-      <br>
-      This means a simple, content-first website, sharing thoughts and knowledge for free. 
-      <br>
+      <br />
+      This means a simple, content-first website, sharing thoughts and knowledge for free.
+      <br />
       This is why this website has no trackers, no ads and no requirement to run Javascript.
     </p>
-    <p class="site-disclaimer">Posts: CC-BY-SA | Source code: AGPL-3.0</p>    
+    <p class="site-disclaimer">Posts: CC-BY-SA | Source code: AGPL-3.0</p>
   </section>
 </footer>

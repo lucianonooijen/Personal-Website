@@ -1,5 +1,6 @@
-<a 
-    href="{{ .Destination }}"
-    {{ with .Title}} title="{{ . }}"{{ end }}
-    {{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end }}
->{{ .Text | safeHTML }}</a>
+<a
+  href="{{ .Destination }}"
+  {{ with .Title }}title="{{ . }}"{{ end }}
+  {{ if strings.HasPrefix .Destination "http" }}target="_blank" rel="noopener"{{ end }}
+  >{{ .Text | safeHTML }}</a
+>
