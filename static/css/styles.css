@@ -472,7 +472,7 @@ blockquote.alert {
   padding: 0;
   border: 2px solid #666;
   background: #dadada;
-  border-radius: 1.2rem;
+  border-radius: 1.4rem;
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
   margin: 1rem -3.2rem;
 }

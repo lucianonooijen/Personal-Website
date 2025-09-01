@@ -45,7 +45,7 @@
       <td>AAA</td>
       <td>Gears of War: E-Day</td>
       <td>Shooter</td>
-      <td>The Coalition/Microsoft</td>
+      <td>The Coalition</td>
       <td><i>NDA</i></td>
       <td>Online and Platform Services</td>
     </tr>
