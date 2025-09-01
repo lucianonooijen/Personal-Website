@@ -1,5 +1,9 @@
 <style>
   .gametitles-fallback { display: none }
+  .gametitles {
+    display: block;
+    width: min(160rem, 90vw);
+  }
 
   @media screen and (max-width: 1000px) {
       .gametitles-fallback { display: block }
@@ -23,11 +27,11 @@
   <tbody>
     <tr>
       <td>AAA</td>
-      <td><i>NDA</i></td>
+      <td>Project Ghost</td>
       <td>MMORPG</td>
-      <td><i>NDA</i></td>
+      <td>Fantastic Pixel Castle</td>
       <td>C++, Modified UE5</td>
-      <td>Senior game backend engineer</td>
+      <td>Senior backend/SRE engineer</td>
     </tr>
     <tr>
       <td>AA</td>
@@ -39,11 +43,11 @@
     </tr>
     <tr>
       <td>AAA</td>
+      <td>Gears of War: E-Day</td>
+      <td>Shooter</td>
+      <td>The Coalition/Microsoft</td>
       <td><i>NDA</i></td>
-      <td><i>NDA</i></td>
-      <td><i>NDA</i></td>
-      <td><i>NDA</i></td>
-      <td>Technical lead</td>
+      <td>Online and Platform Services</td>
     </tr>
     <tr>
       <td>Indie</td>

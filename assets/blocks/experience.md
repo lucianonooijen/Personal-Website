@@ -6,11 +6,16 @@ I currenly work as a freelance software engineer. A dedicated page for which can
 
 #### Companion Group Ltd.
 
-_05/2025 - present_ ~ **Senior game backend engineer (full-time) for [AAA, MMORPG]**
+_05/2025 - 09/2025_ ~ **Senior game backend/SRE engineer for Project Ghost (Fantastic Pixel Castle)**
 
-_Details will be added in due time._
+- Implementation of back-end functionality (C++)
+- Containerization of game server and services (Docker, C++, UE5)
+- Migrating infrastructure to infrastructure-as-code (Terraform, AWS)
+- Remote log persistence setup for game server and services (C++, UE5)
+- Contributions to custom build system and local development workflow
+- Development of various internal tools and APIs
 
-_01/2025 - 05/2025_ ~ **AI Bot Engineer, Unreal Engine (full-time) for [AA]**
+_01/2025 - 05/2025_ ~ **AI bot engineer, Unreal Engine for [AA]**
 
 Implementation of AI bots based on behavior trees, with support for game abilities (GAS) by bots. I added support for combat with various weapons and implemented bot spawning based on level settings with support for loadouts. Various game logic was modified to be compatible with bots.
 
@@ -18,9 +23,9 @@ _10/2024 - present_ ~ **Lead developer, maintainer for [capsa.gg](https://capsa.
 
 [Capsa](https://capsa.gg) is a non-intrusive open-source logging solution for Unreal Engine. For Capsa, I created the API server and web panel from scratch and contributed to the Unreal Engine plugin. Additionally, I created the documentation website and a video playlist for demo and integration guide.
 
-_04/2024 - 12/2024_ ~ **Tech lead position (full-time) for [AAA]**
+_04/2024 - 12/2024_ ~ **Gears of War: E-Day (The Coalition/Microsoft)**
 
-_Details will be added in due time._
+Supporting Online and Platform Services. _Details will be added in due time._
 
 _08/2023 - 03/2024_ ~ **Senior game backend engineer for [AAA, Amazon Games, unannounced]**
 
