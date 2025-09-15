@@ -19,7 +19,7 @@
       <th>Type</th>
       <th>Game</th>
       <th>Genre</th>
-      <th>Studio</th>
+      <th>Studio/Publisher</th>
       <th>Technology</th>
       <th>Position/work</th>
     </tr>
