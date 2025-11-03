@@ -40,7 +40,7 @@
       {{ with .Site.Params.social }}
         {{ $len := sub (len .) 1 }}
         {{ range $i, $e := sort . }}
-          <a href="{{ $e.url }}" target="_blank">{{ $e.name }}</a>{{ if lt $i $len }}|{{ end }}
+          <a href="{{ $e.url }}" target="_blank">{{ $e.name }}</a>{{ if lt $i $len }}&nbsp;|{{ end }}
         {{ end }}
       {{ end }}
     </p>
@@ -49,8 +49,17 @@
       <br />
       This means a simple, content-first website, sharing thoughts and knowledge for free.
       <br />
-      This is why this website has no trackers, no ads and no requirement to run Javascript.
+      This is why this website has no trackers, no ads and no requirement to run <span id="javascript-text">Javascript</span>.
     </p>
     <p class="site-disclaimer">Posts: CC-BY-SA | Source code: AGPL-3.0</p>
   </section>
 </footer>
+
+<script>
+  const jsText = document.querySelector("#javascript-text")
+  jsText.addEventListener("dblclick", e => {
+    const style = document.createElement("style");
+    style.innerHTML = "* { font-family: 'Comic Sans MS', 'Comic Sans', 'Noto Sans Mono', monospace !important; }";
+    document.head.appendChild(style);
+  })
+</script>
