@@ -26,6 +26,14 @@
   </thead>
   <tbody>
     <tr>
+      <td><i>NDA</i></td>
+      <td><i>NDA</i></td>
+      <td><i>NDA</i></td>
+      <td><i>NDA</i></td>
+      <td>UE5, C++, .NET</td>
+      <td>Staff engineer</td>
+    </tr>
+    <tr>
       <td>AA</td>
       <td><i>NDA</i></td>
       <td>MMO</td>
@@ -47,7 +55,7 @@
       <td>MMORPG</td>
       <td>Fantastic Pixel Castle</td>
       <td>C++, Modified UE5</td>
-      <td>Senior backend/SRE engineer</td>
+      <td>Staff backend/SRE engineer</td>
     </tr>
     <tr>
       <td>AA</td>

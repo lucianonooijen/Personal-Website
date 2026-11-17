@@ -6,15 +6,27 @@ I currenly work as a freelance software engineer, in either lead or staff positi
 
 #### Companion Group Ltd.
 
-_11/2025 - present_ ~ **Staff engineer for [AA, MMO]**
+_08/2026 - present_ ~ **Staff engineer for [NDA]**
 
 _Details will be added in due time._
+
+_04/2026 - 07/2026_ ~ **Staff engineer for [Game-focussed SaaS]**
+
+Worked on the game plugin, development game and development workflows foundational to the development of the plugin, which plays a key component in the SaaS-offering.
+
+_11/2025 - 03/2026_ ~ **Staff engineer for [AA, MMO]**
+
+- Local development workflow improvements for end-to-end testing
+- Setup for one-command testing of orchestration logic locally with local backend
+- Updating and improving orchestration system, instancing logic (Agones, Go, C++, K8S)
+- Development of custom tools for managing game worlds and orchestration (React, Typescript)
+- Code generation for Typescript SDK as well as monorepo setup
 
 _09/2025 - 11/2025_ ~ **Gameplay engineer for Storm Lancers (ProbablyMonsters)**
 
 Worked on Xbox+DualSense controller input support for PC port of the game, both for EGS (custom logic with RawInput) and Steam (Steam Input API). Additionally contributed to Steamdeck support.
 
-_05/2025 - 09/2025_ ~ **Senior game backend/SRE engineer for Project Ghost (Fantastic Pixel Castle)**
+_05/2025 - 09/2025_ ~ **Staff game backend/SRE engineer for Project Ghost (Fantastic Pixel Castle)**
 
 - Implementation of back-end functionality (C++)
 - Containerization of game server and services (Docker, C++, UE5)
